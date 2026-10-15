@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "heroId": 42,
+  "source": "Dota2ProTracker",
+  "externalUrl": "https://dota2protracker.com/hero/Wraith%20King",
+  "sourceUrl": "https://dota2protracker.com/hero/Wraith%20King",
+  "status": "manual_only",
+  "fetchedAt": null,
+  "checkedAt": "2026-10-12T10:21:54.000Z",
+  "patchVerified": false,
+  "sampleCount": null,
+  "build": { "role": "carry", "items": [], "skills": [] },
+  "benchmarks": [],
+  "license": {
+    "applicationUseAllowed": false,
+    "termsUrl": "https://dota2protracker.com/terms-of-service",
+    "summary": "Public terms restrict automated extraction and application data use. The app offers a direct browsing link; automatic source updates use the public OpenDota API. An explicitly permitted export can be imported separately."
+  },
+  "provenance": {
+    "kind": "external_reference_only",
+    "caveats": [
+      "No ProTracker build or farm statistics are bundled or presented as current verified carry data.",
+      "The website default overview may select Offlane; choose Carry when browsing.",
+      "No minute-specific last-hit or net-worth benchmark was imported."
+    ]
+  }
+}

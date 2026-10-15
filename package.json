@@ -1,0 +1,19 @@
+{
+  "name": "core-coach",
+  "version": "0.9.7",
+  "private": true,
+  "description": "Personal carry companion with a click-through Windows overlay; Wraith King is the first supported hero",
+  "main": "src/main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test test/*.test.cjs",
+    "data:update": "node scripts/update-data.cjs",
+    "draft:update": "node scripts/update-draft.cjs",
+    "draft:sensitivity": "node scripts/evaluate-draft.cjs",
+    "package": "node scripts/package-portable.cjs"
+  },
+  "devDependencies": {
+    "electron": "44.7.0"
+  }
+}
+

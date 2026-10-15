@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ru">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: file:; style-src 'self'; script-src 'self'; connect-src 'none'"><title>Core Coach · Выбор героя</title><link rel="stylesheet" href="draft-window.css"></head>
+<body>
+<article id="draft-card">
+  <header id="draft-header"><div class="brand"><svg viewBox="0 0 32 32" aria-hidden="true"><path class="brand-orbit" d="M16 3 29 16 16 29 3 16Z"/><path class="brand-core" d="m11 21 10-10m-8 0h8v8"/></svg><div><span>CORE COACH</span><h1 id="draft-title">Выбор героя</h1></div></div><div id="draft-header-actions"><span class="phase">ПОМОЩЬ В ПИКЕ</span><button id="draft-hide" type="button" aria-label="Скрыть помощь до следующего пика" title="Скрыть до следующего пика · Ctrl+Alt+O вернуть">×</button></div></header>
+  <div id="draft-edit-hint" hidden>Перетащи окно за заголовок · Ctrl+Alt+M завершить</div>
+  <section id="draft-teams" class="draft-teams" aria-label="Известный состав">
+    <div class="draft-team draft-team-ally"><div class="team-label"><span>МОЯ КОМАНДА</span><small id="draft-ally-count">0 / 5</small></div><div id="draft-allies" class="draft-team-slots"></div></div>
+    <div class="draft-team draft-team-enemy"><div class="team-label"><span>СОПЕРНИКИ</span><small id="draft-enemy-count">0 / 5</small></div><div id="draft-enemies" class="draft-team-slots"></div></div>
+  </section>
+  <div id="draft-toolbar"><div id="draft-position-buttons" class="draft-position-buttons" role="group" aria-label="Моя позиция"></div><div id="draft-tools"><button id="draft-bans" type="button">Баны · 0</button><button id="draft-inspect" type="button">Проверить героя</button><button id="draft-auto" type="button" hidden>Вернуть авто</button></div></div>
+  <div id="draft-side" hidden><span>За какую команду ты играешь?</span><button id="draft-radiant" type="button">Radiant</button><button id="draft-dire" type="button">Dire</button></div>
+  <p id="draft-note" class="draft-summary">Нажми портрет для исправления. Советы уточняются после каждого пика.</p>
+  <main id="draft-content">
+    <div id="draft-recommendations" class="draft-recommendations"></div>
+    <div id="draft-empty" hidden>Рекомендации появятся после получения данных.</div>
+    <section id="draft-catalog" class="draft-catalog" hidden aria-label="Выбор героя">
+      <div class="catalog-heading"><div><span id="draft-catalog-label" class="eyebrow">ИСПРАВИТЬ СОСТАВ</span><h2 id="draft-catalog-title">Выбери героя</h2></div><button id="draft-picker-close" class="draft-close" type="button" aria-label="Закрыть выбор">×</button></div>
+      <div class="catalog-controls"><div id="draft-picker-tabs" class="draft-picker-tabs"></div><div class="search-wrap"><input id="draft-search" class="draft-search" type="text" placeholder="Найти героя…" autocomplete="off" aria-label="Поиск героя"><button id="draft-search-done" type="button" hidden title="Вернуться в игру · Enter / Esc">Готово ↵</button></div></div>
+      <div id="draft-choices" class="draft-catalog-grid"></div>
+      <div class="draft-pager"><button id="draft-prev" type="button" aria-label="Предыдущая страница">←</button><span id="draft-page"></span><button id="draft-next" type="button" aria-label="Следующая страница">→</button><span class="pager-spacer"></span><button id="draft-clear" type="button">Убрать из слота</button></div>
+    </section>
+    <section id="draft-details" hidden aria-label="Данные рекомендаций"><h2>Данные и рейтинг</h2><p id="draft-details-source"></p><p id="draft-details-scope"></p><span class="eyebrow">ТВОЙ РЕЙТИНГ</span><div id="draft-rank-buttons" role="group" aria-label="Рейтинг для рекомендаций"></div><p class="rank-note">Выбор рейтинга применяется к винрейту и сочетаниям героев. Общая статистика пар может смешивать позиции.</p><p id="draft-details-message"></p><p>Порядок отражает соответствие известному драфту. Близкие варианты могут быть равноценными. Новые пики и неизвестные позиции могут изменить совет.</p></section>
+  </main>
+  <footer><button id="draft-source" class="source-button" type="button" title="Область статистики и ограничения">Данные загружаются</button><span id="draft-status" role="status" aria-live="polite"></span><span class="hotkey">Ctrl+Alt+L · состав</span></footer>
+</article>
+<script src="draft-ui.js"></script><script src="draft-window.js"></script>
+</body>
+</html>

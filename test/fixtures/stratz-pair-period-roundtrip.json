@@ -1,0 +1,4161 @@
+{
+  "source": "https://api.stratz.com/graphql",
+  "fetchedAt": "2026-10-14T14:58:43.546Z",
+  "rankId": "HERALD_GUARDIAN",
+  "expected": {
+    "heroId": 52,
+    "sampleWeek": 2962,
+    "current": 1791417600,
+    "inside": 1791504000,
+    "before": 1791417599,
+    "older": 1790208000
+  },
+  "records": {
+    "pairProofCurrent": [
+      {
+        "heroId": 52,
+        "matchups": [
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          }
+        ],
+        "synergies": [
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          }
+        ]
+      }
+    ],
+    "pairProofInside": [
+      {
+        "heroId": 52,
+        "matchups": [
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          }
+        ],
+        "synergies": [
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2962
+          }
+        ]
+      }
+    ],
+    "pairProofBefore": [
+      {
+        "heroId": 52,
+        "matchups": [
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          }
+        ],
+        "synergies": [
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2961
+          }
+        ]
+      }
+    ],
+    "pairProofOlder": [
+      {
+        "heroId": 52,
+        "matchups": [
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          }
+        ],
+        "synergies": [
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          },
+          {
+            "ownHeroId": 52,
+            "sampleWeek": 2960
+          }
+        ]
+      }
+    ],
+    "pairProofRecent": [
+      {
+        "heroId": 52,
+        "week": 1790812800
+      },
+      {
+        "heroId": 52,
+        "week": 1790208000
+      },
+      {
+        "heroId": 52,
+        "week": 1789603200
+      },
+      {
+        "heroId": 52,
+        "week": 1788998400
+      },
+      {
+        "heroId": 52,
+        "week": 1788393600
+      },
+      {
+        "heroId": 52,
+        "week": 1787788800
+      },
+      {
+        "heroId": 52,
+        "week": 1787184000
+      },
+      {
+        "heroId": 52,
+        "week": 1786579200
+      },
+      {
+        "heroId": 52,
+        "week": 1785974400
+      },
+      {
+        "heroId": 52,
+        "week": 1785369600
+      },
+      {
+        "heroId": 52,
+        "week": 1784764800
+      },
+      {
+        "heroId": 52,
+        "week": 1784160000
+      },
+      {
+        "heroId": 52,
+        "week": 1783555200
+      },
+      {
+        "heroId": 52,
+        "week": 1782950400
+      },
+      {
+        "heroId": 52,
+        "week": 1782345600
+      },
+      {
+        "heroId": 52,
+        "week": 1781740800
+      },
+      {
+        "heroId": 52,
+        "week": 1781136000
+      },
+      {
+        "heroId": 52,
+        "week": 1780531200
+      },
+      {
+        "heroId": 52,
+        "week": 1779926400
+      }
+    ]
+  }
+}

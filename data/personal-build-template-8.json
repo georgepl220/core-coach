@@ -1,0 +1,125 @@
+{
+  "kind": "personal",
+  "heroId": 8,
+  "description": "Редактируемый пример для Juggernaut по последовательности покупок и навыков матча 9038875358. Это личный план, а не гарантия текущей меты. Уровни навыков восстановлены как минимально допустимые; их можно менять под линию.",
+  "exampleSourceUrl": "https://www.opendota.com/matches/9038875358",
+  "build": {
+    "role": "carry",
+    "items": [
+      {
+        "key": "quelling_blade",
+        "phase": "start"
+      },
+      {
+        "key": "magic_stick",
+        "phase": "start"
+      },
+      {
+        "key": "branches",
+        "phase": "start"
+      },
+      {
+        "key": "faerie_fire",
+        "phase": "start"
+      },
+      {
+        "key": "tango",
+        "phase": "start"
+      },
+      {
+        "key": "magic_wand",
+        "phase": "early"
+      },
+      {
+        "key": "phase_boots",
+        "phase": "early"
+      },
+      {
+        "key": "bfury",
+        "phase": "mid"
+      },
+      {
+        "key": "yasha",
+        "phase": "mid"
+      },
+      {
+        "key": "manta",
+        "phase": "mid"
+      },
+      {
+        "key": "butterfly",
+        "phase": "mid"
+      }
+    ],
+    "skills": [
+      {
+        "heroLevel": 1,
+        "abilityKey": "juggernaut_blade_fury"
+      },
+      {
+        "heroLevel": 2,
+        "abilityKey": "juggernaut_blade_dance"
+      },
+      {
+        "heroLevel": 3,
+        "abilityKey": "juggernaut_blade_fury"
+      },
+      {
+        "heroLevel": 4,
+        "abilityKey": "juggernaut_healing_ward"
+      },
+      {
+        "heroLevel": 5,
+        "abilityKey": "juggernaut_blade_fury"
+      },
+      {
+        "heroLevel": 6,
+        "abilityKey": "juggernaut_omni_slash"
+      },
+      {
+        "heroLevel": 7,
+        "abilityKey": "juggernaut_blade_fury"
+      },
+      {
+        "heroLevel": 8,
+        "abilityKey": "juggernaut_healing_ward"
+      },
+      {
+        "heroLevel": 9,
+        "abilityKey": "juggernaut_healing_ward"
+      },
+      {
+        "heroLevel": 10,
+        "abilityKey": "juggernaut_healing_ward"
+      },
+      {
+        "heroLevel": 11,
+        "abilityKey": "special_bonus_unique_juggernaut_3"
+      },
+      {
+        "heroLevel": 12,
+        "abilityKey": "juggernaut_blade_dance"
+      },
+      {
+        "heroLevel": 13,
+        "abilityKey": "juggernaut_omni_slash"
+      },
+      {
+        "heroLevel": 14,
+        "abilityKey": "juggernaut_blade_dance"
+      },
+      {
+        "heroLevel": 15,
+        "abilityKey": "juggernaut_blade_dance"
+      },
+      {
+        "heroLevel": 16,
+        "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown"
+      },
+      {
+        "heroLevel": 18,
+        "abilityKey": "juggernaut_omni_slash"
+      }
+    ]
+  }
+}

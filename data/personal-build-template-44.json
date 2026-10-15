@@ -1,0 +1,157 @@
+{
+  "kind": "personal",
+  "heroId": 44,
+  "description": "Редактируемый пример для Phantom Assassin по последовательности покупок и навыков матча 9013194284. Это личный план, а не гарантия текущей меты. Уровни навыков восстановлены как минимально допустимые; их можно менять под линию.",
+  "exampleSourceUrl": "https://www.opendota.com/matches/9013194284",
+  "build": {
+    "role": "carry",
+    "items": [
+      {
+        "key": "quelling_blade",
+        "phase": "start"
+      },
+      {
+        "key": "branches",
+        "phase": "start"
+      },
+      {
+        "key": "magic_stick",
+        "phase": "start"
+      },
+      {
+        "key": "tango",
+        "phase": "start"
+      },
+      {
+        "key": "ward_observer",
+        "phase": "start"
+      },
+      {
+        "key": "faerie_fire",
+        "phase": "start"
+      },
+      {
+        "key": "magic_wand",
+        "phase": "early"
+      },
+      {
+        "key": "power_treads",
+        "phase": "early"
+      },
+      {
+        "key": "bfury",
+        "phase": "mid"
+      },
+      {
+        "key": "black_king_bar",
+        "phase": "mid"
+      },
+      {
+        "key": "desolator",
+        "phase": "mid"
+      },
+      {
+        "key": "nullifier",
+        "phase": "mid"
+      },
+      {
+        "key": "sange",
+        "phase": "late"
+      },
+      {
+        "key": "abyssal_blade",
+        "phase": "late"
+      },
+      {
+        "key": "satanic",
+        "phase": "late"
+      }
+    ],
+    "skills": [
+      {
+        "heroLevel": 1,
+        "abilityKey": "phantom_assassin_stifling_dagger"
+      },
+      {
+        "heroLevel": 2,
+        "abilityKey": "phantom_assassin_phantom_strike"
+      },
+      {
+        "heroLevel": 3,
+        "abilityKey": "phantom_assassin_stifling_dagger"
+      },
+      {
+        "heroLevel": 4,
+        "abilityKey": "phantom_assassin_phantom_strike"
+      },
+      {
+        "heroLevel": 5,
+        "abilityKey": "phantom_assassin_stifling_dagger"
+      },
+      {
+        "heroLevel": 6,
+        "abilityKey": "phantom_assassin_coup_de_grace"
+      },
+      {
+        "heroLevel": 7,
+        "abilityKey": "phantom_assassin_phantom_strike"
+      },
+      {
+        "heroLevel": 8,
+        "abilityKey": "phantom_assassin_phantom_strike"
+      },
+      {
+        "heroLevel": 9,
+        "abilityKey": "phantom_assassin_stifling_dagger"
+      },
+      {
+        "heroLevel": 10,
+        "abilityKey": "phantom_assassin_immaterial"
+      },
+      {
+        "heroLevel": 11,
+        "abilityKey": "special_bonus_unique_phantom_assassin_4"
+      },
+      {
+        "heroLevel": 12,
+        "abilityKey": "phantom_assassin_immaterial"
+      },
+      {
+        "heroLevel": 13,
+        "abilityKey": "phantom_assassin_coup_de_grace"
+      },
+      {
+        "heroLevel": 14,
+        "abilityKey": "phantom_assassin_immaterial"
+      },
+      {
+        "heroLevel": 15,
+        "abilityKey": "phantom_assassin_immaterial"
+      },
+      {
+        "heroLevel": 16,
+        "abilityKey": "special_bonus_unique_phantom_assassin_3"
+      },
+      {
+        "heroLevel": 18,
+        "abilityKey": "phantom_assassin_coup_de_grace"
+      },
+      {
+        "heroLevel": 20,
+        "abilityKey": "special_bonus_unique_phantom_assassin_6"
+      },
+      {
+        "heroLevel": 25,
+        "abilityKey": "special_bonus_unique_phantom_assassin_2"
+      },
+      {
+        "heroLevel": 26,
+        "abilityKey": "special_bonus_unique_phantom_assassin_7"
+      },
+      {
+        "heroLevel": 27,
+        "abilityKey": "special_bonus_unique_phantom_assassin_5"
+      }
+    ]
+  }
+}

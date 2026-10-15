@@ -1,0 +1,149 @@
+{
+  "kind": "personal",
+  "heroId": 18,
+  "description": "Редактируемый пример для Sven по последовательности покупок и навыков матча 9042110151. Это личный план, а не гарантия текущей меты. Уровни навыков восстановлены как минимально допустимые; их можно менять под линию.",
+  "exampleSourceUrl": "https://www.opendota.com/matches/9042110151",
+  "build": {
+    "role": "carry",
+    "items": [
+      {
+        "key": "gauntlets",
+        "phase": "start"
+      },
+      {
+        "key": "power_treads",
+        "phase": "early"
+      },
+      {
+        "key": "mask_of_madness",
+        "phase": "early"
+      },
+      {
+        "key": "echo_sabre",
+        "phase": "mid"
+      },
+      {
+        "key": "blink",
+        "phase": "mid"
+      },
+      {
+        "key": "greater_crit",
+        "phase": "mid"
+      },
+      {
+        "key": "harpoon",
+        "phase": "mid"
+      },
+      {
+        "key": "black_king_bar",
+        "phase": "mid"
+      },
+      {
+        "key": "swift_blink",
+        "phase": "mid"
+      },
+      {
+        "key": "satanic",
+        "phase": "late"
+      },
+      {
+        "key": "moon_shard",
+        "phase": "late"
+      },
+      {
+        "key": "desolator",
+        "phase": "late"
+      }
+    ],
+    "skills": [
+      {
+        "heroLevel": 1,
+        "abilityKey": "sven_storm_bolt"
+      },
+      {
+        "heroLevel": 2,
+        "abilityKey": "sven_great_cleave"
+      },
+      {
+        "heroLevel": 3,
+        "abilityKey": "sven_storm_bolt"
+      },
+      {
+        "heroLevel": 4,
+        "abilityKey": "sven_great_cleave"
+      },
+      {
+        "heroLevel": 5,
+        "abilityKey": "sven_great_cleave"
+      },
+      {
+        "heroLevel": 6,
+        "abilityKey": "sven_gods_strength"
+      },
+      {
+        "heroLevel": 7,
+        "abilityKey": "sven_warcry"
+      },
+      {
+        "heroLevel": 8,
+        "abilityKey": "sven_great_cleave"
+      },
+      {
+        "heroLevel": 9,
+        "abilityKey": "sven_storm_bolt"
+      },
+      {
+        "heroLevel": 10,
+        "abilityKey": "sven_storm_bolt"
+      },
+      {
+        "heroLevel": 11,
+        "abilityKey": "special_bonus_unique_sven_5"
+      },
+      {
+        "heroLevel": 12,
+        "abilityKey": "sven_warcry"
+      },
+      {
+        "heroLevel": 13,
+        "abilityKey": "sven_gods_strength"
+      },
+      {
+        "heroLevel": 14,
+        "abilityKey": "sven_warcry"
+      },
+      {
+        "heroLevel": 15,
+        "abilityKey": "sven_warcry"
+      },
+      {
+        "heroLevel": 16,
+        "abilityKey": "special_bonus_unique_sven_3"
+      },
+      {
+        "heroLevel": 18,
+        "abilityKey": "sven_gods_strength"
+      },
+      {
+        "heroLevel": 20,
+        "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown"
+      },
+      {
+        "heroLevel": 25,
+        "abilityKey": "special_bonus_unique_sven_2"
+      },
+      {
+        "heroLevel": 26,
+        "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist"
+      },
+      {
+        "heroLevel": 27,
+        "abilityKey": "special_bonus_unique_sven_8"
+      },
+      {
+        "heroLevel": 28,
+        "abilityKey": "special_bonus_unique_sven_7"
+      }
+    ]
+  }
+}

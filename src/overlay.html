@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: file:; style-src 'self'; script-src 'self'; connect-src 'none'"><title>Core Coach Overlay</title><link rel="stylesheet" href="overlay.css"></head>
+<body><article id="card">
+  <header><div class="wordmark"><svg viewBox="0 0 32 32" aria-hidden="true"><path class="brand-orbit" d="M16 3 29 16 16 29 3 16Z"/><path class="brand-core" d="m11 21 10-10m-8 0h8v8"/></svg><span>CORE COACH</span><span id="overlay-hero-name" class="role-marker">CARRY</span></div><span id="live">WAITING</span></header>
+  <div id="edit-hint" hidden>Перетащи карточку · Ctrl+Alt+M завершить</div>
+  <div class="identity"><span id="stage-name">ОЖИДАЮ МАТЧ</span><span id="time">—:—</span></div>
+  <div class="lane-lineup"><div class="lane-icons"><div class="lane-slot"><button type="button" id="overlay-lane-ally" class="lane-avatar ally unknown" aria-label="Выбрать напарника на линии"><span>?</span></button><small id="overlay-ally-label">НАПАРНИК</small></div><span class="lane-vs">×</span><div class="lane-slot"><button type="button" id="overlay-lane-enemy-1" class="lane-avatar enemy unknown" aria-label="Выбрать первого соперника на линии"><span>?</span></button><small>ВРАГ 1</small></div><div class="lane-slot"><button type="button" id="overlay-lane-enemy-2" class="lane-avatar enemy unknown" aria-label="Выбрать второго соперника на линии"><span>?</span></button><small>ВРАГ 2</small></div></div><div class="lane-status"><span id="overlay-lane-status">Ожидаю героев</span><span id="overlay-lane-outcome" hidden></span><button type="button" id="overlay-pick-lineup" title="Выбрать состав · Ctrl+Alt+L">Выбрать состав</button></div></div>
+  <section id="overlay-lane-picker" aria-label="Выбор участников линии" hidden>
+    <div class="picker-heading"><div><span id="overlay-picker-step" class="label">ИЗ МОЕЙ КОМАНДЫ</span><h2 id="overlay-picker-title">Кто стоит с тобой?</h2></div><button type="button" id="overlay-picker-close" aria-label="Закрыть выбор">×</button></div>
+    <div id="overlay-picker-tabs" class="picker-tabs"></div>
+    <p id="overlay-picker-help">Нажми на портрет — выбор сохранится.</p>
+    <div id="overlay-picker-choices" class="picker-choices"></div>
+    <div id="overlay-picker-empty" hidden><p>Команда ещё не определена. Можно выбрать героев в основном окне.</p><button type="button" id="overlay-picker-settings">Открыть настройки ↗</button></div>
+    <p id="overlay-picker-status" role="status" aria-live="polite"></p>
+    <div class="picker-bottom"><button type="button" id="overlay-picker-auto">Вернуть авто</button><span>Ctrl+Alt+L · закрыть</span></div>
+  </section>
+  <div id="overlay-advice-body">
+  <div class="item"><div class="item-picture"><img id="item-image" alt="" hidden><span id="empty-icon">◇</span></div><div><div class="label">СЛЕДУЮЩИЙ ПРЕДМЕТ</div><h1 id="item-name">Ожидаю матч</h1><p id="item-cost">Подключи GSI</p></div></div>
+  <div class="farm-row"><div><span>NET WORTH</span><strong id="overlay-networth">—</strong></div><div><span id="overlay-target">LH · 10 МИН</span><strong id="overlay-cs">— / 50</strong></div><div><span>GPM</span><strong id="overlay-gpm">—</strong></div></div>
+  <p id="item-reason">Ctrl+Alt+W — открыть настройки.</p>
+  <div class="next-skill"><span id="skill-key">◇</span><div><div class="label" id="skill-label">ПРОКАЧКА</div><strong id="skill-name">Ожидаю уровни навыков</strong></div></div>
+  <div id="action" class="neutral"><div class="label"><span id="action-label">ТВОЙ СЛЕДУЮЩИЙ ШАГ</span><span id="signal">↗</span></div><h2 id="action-title">Ожидаю Wraith King</h2><p id="action-reason">Советы появятся после подключения игры.</p></div>
+  <div id="stage-tips" hidden><div class="tip"><div class="label">КАК ИСПОЛЬЗОВАТЬ НАВЫКИ</div><p id="skill-use"></p><p class="tip-reason" id="skill-use-reason"></p></div><div class="tip extra"><div class="label">ЕЩЁ СОВЕТ</div><p id="extra-tip"></p><p class="tip-reason" id="extra-tip-reason"></p></div></div>
+  </div>
+  <footer><span id="source">GSI + SCREEN</span><span>Ctrl+Alt+L · состав</span></footer>
+</article><script src="lane-picker.js"></script><script src="overlay.js"></script></body></html>

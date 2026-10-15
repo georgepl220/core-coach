@@ -1,0 +1,6408 @@
+{
+  "schemaVersion": 1,
+  "heroId": 42,
+  "role": "carry",
+  "status": "available",
+  "source": "OpenDota recent parsed carry matches",
+  "sourceUrl": "https://api.opendota.com/api/heroes/42/matches",
+  "d2ptReference": "https://dota2protracker.com/hero/Wraith%20King",
+  "externalUrl": "https://dota2protracker.com/hero/Wraith%20King",
+  "fetchedAt": "2026-10-12T14:40:39.355Z",
+  "sampleCount": 15,
+  "patch": {
+    "id": 60,
+    "name": "7.41",
+    "verified": true,
+    "minorPatchVerified": false,
+    "scope": "Exact OpenDota base patch ID, not a verified minor-letter patch or D2PT patch filter"
+  },
+  "patchVerified": true,
+  "windowText": "2026-08-29 — 2026-10-11",
+  "window": {
+    "from": "2026-08-29T19:05:21.000Z",
+    "to": "2026-10-11T14:07:41.000Z",
+    "lookbackDays": 45
+  },
+  "builds": [
+    {
+      "id": "radiance-blink",
+      "matches": 6,
+      "winRate": 0.3333333333333333,
+      "frequency": 0.4,
+      "sequence": [
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "gauntlets",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 148,
+          "stage": "early"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 344,
+          "stage": "early"
+        },
+        {
+          "key": "radiance",
+          "timeSeconds": 1097,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 1304,
+          "stage": "mid"
+        },
+        {
+          "key": "desolator",
+          "timeSeconds": 1570,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 2012,
+          "stage": "late"
+        },
+        {
+          "key": "aghanims_shard",
+          "timeSeconds": 2085,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 9004608046,
+      "representativeDate": "2026-09-18T13:10:34.000Z",
+      "sourceMatchIds": [
+        9004608046,
+        8980569936,
+        8978292022,
+        8972926432,
+        8972901286,
+        8972893415
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+          "abilityId": 1545,
+          "label": "+2s Wraithfire Blast Slow Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_unique_wraith_king_11",
+          "abilityId": 809,
+          "label": "+0.75s Wraithfire Blast Stun Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_attack_speed_50",
+          "abilityId": 6020,
+          "label": "+50 Attack Speed",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 9004608046,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9004608046,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "radiance-armlet",
+      "matches": 2,
+      "winRate": 0.5,
+      "frequency": 0.13333333333333333,
+      "sequence": [
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "bracer",
+          "timeSeconds": 121,
+          "stage": "early"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 493,
+          "stage": "early"
+        },
+        {
+          "key": "radiance",
+          "timeSeconds": 1228,
+          "stage": "mid"
+        },
+        {
+          "key": "armlet",
+          "timeSeconds": 1424,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 1534,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1857,
+          "stage": "late"
+        },
+        {
+          "key": "aghanims_shard",
+          "timeSeconds": 2015,
+          "stage": "late"
+        },
+        {
+          "key": "assault",
+          "timeSeconds": 2290,
+          "stage": "late"
+        },
+        {
+          "key": "overwhelming_blink",
+          "timeSeconds": 2894,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 8987833085,
+      "representativeDate": "2026-09-07T17:52:09.000Z",
+      "sourceMatchIds": [
+        8987833085,
+        8973096383
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_wraith_king_2",
+          "abilityId": 6088,
+          "label": "+8% Vampiric Spirit Lifesteal",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_hp_300",
+          "abilityId": 5993,
+          "label": "+300 Health",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_attack_speed_50",
+          "abilityId": 6020,
+          "label": "+50 Attack Speed",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 25,
+          "abilityKey": "special_bonus_unique_wraith_king_4",
+          "abilityId": 6566,
+          "label": "Reincarnation Casts Wraithfire Blast",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 19,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 26,
+          "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+          "abilityId": 1545,
+          "label": "+2s Wraithfire Blast Slow Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 20,
+          "sourceMatchId": 8987833085,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8987833085,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "invis_sword",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.06666666666666667,
+      "sequence": [
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 414,
+          "stage": "early"
+        },
+        {
+          "key": "soul_ring",
+          "timeSeconds": 705,
+          "stage": "mid"
+        },
+        {
+          "key": "invis_sword",
+          "timeSeconds": 1015,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 9004724630,
+      "representativeDate": "2026-09-18T14:15:45.000Z",
+      "sourceMatchIds": [
+        9004724630
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+          "abilityId": 1545,
+          "label": "+2s Wraithfire Blast Slow Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9004724630,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9004724630,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "armlet-desolator",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.06666666666666667,
+      "sequence": [
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 259,
+          "stage": "early"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 335,
+          "stage": "early"
+        },
+        {
+          "key": "armlet",
+          "timeSeconds": 787,
+          "stage": "mid"
+        },
+        {
+          "key": "desolator",
+          "timeSeconds": 1100,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 1268,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1696,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 8972982164,
+      "representativeDate": "2026-08-29T20:02:11.000Z",
+      "sourceMatchIds": [
+        8972982164
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_wraith_king_2",
+          "abilityId": 6088,
+          "label": "+8% Vampiric Spirit Lifesteal",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_hp_300",
+          "abilityId": 5993,
+          "label": "+300 Health",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 8972982164,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8972982164,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "radiance-sange_and_yasha",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.06666666666666667,
+      "sequence": [
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -79,
+          "stage": "start"
+        },
+        {
+          "key": "gauntlets",
+          "timeSeconds": -79,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -78,
+          "stage": "start"
+        },
+        {
+          "key": "bracer",
+          "timeSeconds": 64,
+          "stage": "early"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 182,
+          "stage": "early"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 355,
+          "stage": "early"
+        },
+        {
+          "key": "radiance",
+          "timeSeconds": 1045,
+          "stage": "mid"
+        },
+        {
+          "key": "sange_and_yasha",
+          "timeSeconds": 1232,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 8972900468,
+      "representativeDate": "2026-08-29T19:11:25.000Z",
+      "sourceMatchIds": [
+        8972900468
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+          "abilityId": 1545,
+          "label": "+2s Wraithfire Blast Slow Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_hp_300",
+          "abilityId": 5993,
+          "label": "+300 Health",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 18,
+          "sourceMatchId": 8972900468,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8972900468,
+      "skillUnknownAbilityIds": [
+        730,
+        730
+      ],
+      "skillOrderComplete": false
+    },
+    {
+      "id": "radiance-black_king_bar",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.06666666666666667,
+      "sequence": [
+        {
+          "key": "gauntlets",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "bracer",
+          "timeSeconds": 58,
+          "stage": "early"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 485,
+          "stage": "early"
+        },
+        {
+          "key": "radiance",
+          "timeSeconds": 1261,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1777,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 1969,
+          "stage": "late"
+        },
+        {
+          "key": "aghanims_shard",
+          "timeSeconds": 2095,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 8972898065,
+      "representativeDate": "2026-08-29T19:09:59.000Z",
+      "sourceMatchIds": [
+        8972898065
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+          "abilityId": 1545,
+          "label": "+2s Wraithfire Blast Slow Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 14,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_hp_300",
+          "abilityId": 5993,
+          "label": "+300 Health",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 8972898065,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8972898065,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "radiance-desolator",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.06666666666666667,
+      "sequence": [
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "gauntlets",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "bracer",
+          "timeSeconds": 152,
+          "stage": "early"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 389,
+          "stage": "early"
+        },
+        {
+          "key": "radiance",
+          "timeSeconds": 1091,
+          "stage": "mid"
+        },
+        {
+          "key": "desolator",
+          "timeSeconds": 1352,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 1662,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 2010,
+          "stage": "late"
+        },
+        {
+          "key": "ultimate_scepter",
+          "timeSeconds": 2506,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 8972891011,
+      "representativeDate": "2026-08-29T19:05:50.000Z",
+      "sourceMatchIds": [
+        8972891011
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_wraith_king_2",
+          "abilityId": 6088,
+          "label": "+8% Vampiric Spirit Lifesteal",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_hp_300",
+          "abilityId": 5993,
+          "label": "+300 Health",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_attack_speed_50",
+          "abilityId": 6020,
+          "label": "+50 Attack Speed",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 8972891011,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8972891011,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "radiance-aghanims_shard",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.06666666666666667,
+      "sequence": [
+        {
+          "key": "gauntlets",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "bracer",
+          "timeSeconds": 169,
+          "stage": "early"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 316,
+          "stage": "early"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 611,
+          "stage": "mid"
+        },
+        {
+          "key": "radiance",
+          "timeSeconds": 1106,
+          "stage": "mid"
+        },
+        {
+          "key": "aghanims_shard",
+          "timeSeconds": 1302,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 1463,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1744,
+          "stage": "mid"
+        },
+        {
+          "key": "assault",
+          "timeSeconds": 2034,
+          "stage": "late"
+        },
+        {
+          "key": "abyssal_blade",
+          "timeSeconds": 2590,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 8972890275,
+      "representativeDate": "2026-08-29T19:05:21.000Z",
+      "sourceMatchIds": [
+        8972890275
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "skeleton_king_mortal_strike",
+          "abilityId": 5088,
+          "label": "Mortal Strike",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "skeleton_king_bone_guard",
+          "abilityId": 5087,
+          "label": "Bone Guard",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_wraith_king_2",
+          "abilityId": 6088,
+          "label": "+8% Vampiric Spirit Lifesteal",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "skeleton_king_hellfire_blast",
+          "abilityId": 5086,
+          "label": "Wraithfire Blast",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_hp_300",
+          "abilityId": 5993,
+          "label": "+300 Health",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "skeleton_king_reincarnation",
+          "abilityId": 5089,
+          "label": "Reincarnation",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_unique_wraith_king_facet_3",
+          "abilityId": 1547,
+          "label": "+5 Bone Guard Skeletons Spawned",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 25,
+          "abilityKey": "special_bonus_unique_wraith_king_10",
+          "abilityId": 741,
+          "label": "-2s Mortal Strike Cooldown",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 19,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 26,
+          "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+          "abilityId": 1545,
+          "label": "+2s Wraithfire Blast Slow Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 20,
+          "sourceMatchId": 8972890275,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8972890275,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    }
+  ],
+  "itemStats": [
+    {
+      "key": "phase_boots",
+      "matches": 13,
+      "frequency": 0.8666666666666667,
+      "medianTimeSeconds": 358,
+      "p25TimeSeconds": 344,
+      "p75TimeSeconds": 414
+    },
+    {
+      "key": "radiance",
+      "matches": 12,
+      "frequency": 0.8,
+      "medianTimeSeconds": 1075,
+      "p25TimeSeconds": 1004,
+      "p75TimeSeconds": 1109.25
+    },
+    {
+      "key": "blink",
+      "matches": 12,
+      "frequency": 0.8,
+      "medianTimeSeconds": 1345,
+      "p25TimeSeconds": 1247.25,
+      "p75TimeSeconds": 1485.25
+    },
+    {
+      "key": "magic_wand",
+      "matches": 11,
+      "frequency": 0.7333333333333333,
+      "medianTimeSeconds": 259,
+      "p25TimeSeconds": 162,
+      "p75TimeSeconds": 408
+    },
+    {
+      "key": "black_king_bar",
+      "matches": 9,
+      "frequency": 0.6,
+      "medianTimeSeconds": 1777,
+      "p25TimeSeconds": 1696,
+      "p75TimeSeconds": 2010
+    },
+    {
+      "key": "aghanims_shard",
+      "matches": 6,
+      "frequency": 0.4,
+      "medianTimeSeconds": 1796,
+      "p25TimeSeconds": 1392.5,
+      "p75TimeSeconds": 2067.5
+    },
+    {
+      "key": "bracer",
+      "matches": 5,
+      "frequency": 0.3333333333333333,
+      "medianTimeSeconds": 121,
+      "p25TimeSeconds": 64,
+      "p75TimeSeconds": 152
+    },
+    {
+      "key": "assault",
+      "matches": 5,
+      "frequency": 0.3333333333333333,
+      "medianTimeSeconds": 2055,
+      "p25TimeSeconds": 2034,
+      "p75TimeSeconds": 2195
+    },
+    {
+      "key": "desolator",
+      "matches": 4,
+      "frequency": 0.26666666666666666,
+      "medianTimeSeconds": 1461,
+      "p25TimeSeconds": 1289,
+      "p75TimeSeconds": 1653
+    },
+    {
+      "key": "armlet",
+      "matches": 4,
+      "frequency": 0.26666666666666666,
+      "medianTimeSeconds": 1259.5,
+      "p25TimeSeconds": 1117,
+      "p75TimeSeconds": 1325
+    },
+    {
+      "key": "ultimate_scepter",
+      "matches": 3,
+      "frequency": 0.2,
+      "medianTimeSeconds": 2506,
+      "p25TimeSeconds": 2084,
+      "p75TimeSeconds": 2646.5
+    },
+    {
+      "key": "monkey_king_bar",
+      "matches": 2,
+      "frequency": 0.13333333333333333,
+      "medianTimeSeconds": 2884,
+      "p25TimeSeconds": 2667.5,
+      "p75TimeSeconds": 3100.5
+    },
+    {
+      "key": "abyssal_blade",
+      "matches": 2,
+      "frequency": 0.13333333333333333,
+      "medianTimeSeconds": 2351.5,
+      "p25TimeSeconds": 2232.25,
+      "p75TimeSeconds": 2470.75
+    },
+    {
+      "key": "soul_ring",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 705,
+      "p25TimeSeconds": 705,
+      "p75TimeSeconds": 705
+    },
+    {
+      "key": "invis_sword",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 1015,
+      "p25TimeSeconds": 1015,
+      "p75TimeSeconds": 1015
+    },
+    {
+      "key": "power_treads",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 493,
+      "p25TimeSeconds": 493,
+      "p75TimeSeconds": 493
+    },
+    {
+      "key": "overwhelming_blink",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 2894,
+      "p25TimeSeconds": 2894,
+      "p75TimeSeconds": 2894
+    },
+    {
+      "key": "echo_sabre",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 1721,
+      "p25TimeSeconds": 1721,
+      "p75TimeSeconds": 1721
+    },
+    {
+      "key": "harpoon",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 2005,
+      "p25TimeSeconds": 2005,
+      "p75TimeSeconds": 2005
+    },
+    {
+      "key": "nullifier",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 2071,
+      "p25TimeSeconds": 2071,
+      "p75TimeSeconds": 2071
+    },
+    {
+      "key": "skadi",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 2486,
+      "p25TimeSeconds": 2486,
+      "p75TimeSeconds": 2486
+    },
+    {
+      "key": "sange_and_yasha",
+      "matches": 1,
+      "frequency": 0.06666666666666667,
+      "medianTimeSeconds": 1232,
+      "p25TimeSeconds": 1232,
+      "p75TimeSeconds": 1232
+    }
+  ],
+  "laneMatchups": [
+    {
+      "enemyHeroId": 9,
+      "matchCount": 3,
+      "sourceMatchIds": [
+        9004608046,
+        8987833085,
+        8972900468
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 33,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9040136217,
+        8972901286
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -4417,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 69,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        8987833085,
+        8978292022
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 86,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        8978292022,
+        8972890275
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 100,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        8972982164,
+        8972893415
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 129,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        8972898065,
+        8972890275
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 104,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9004724630
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 468,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 71,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9004724630
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 20,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9004608046
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 1209,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 55,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8980569936
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 31,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8973096383
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 28,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8973096383
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 65,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972982164
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 131,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972926432
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 135,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972926432
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 51,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972901286
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 96,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972900468
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 7,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972898065
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 60,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972893415
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 128,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972891011
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 108,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972891011
+      ],
+      "laneOutcome": null
+    }
+  ],
+  "benchmarks": {
+    "lastHits": [
+      {
+        "minute": 5,
+        "p25": 17.5,
+        "p50": 19,
+        "p75": 22.5,
+        "sampleSize": 15
+      },
+      {
+        "minute": 10,
+        "p25": 41.5,
+        "p50": 50,
+        "p75": 55,
+        "sampleSize": 15
+      },
+      {
+        "minute": 15,
+        "p25": 71.25,
+        "p50": 86,
+        "p75": 96.25,
+        "sampleSize": 14
+      },
+      {
+        "minute": 20,
+        "p25": 112.25,
+        "p50": 133,
+        "p75": 145.75,
+        "sampleSize": 14
+      },
+      {
+        "minute": 25,
+        "p25": 181,
+        "p50": 205.5,
+        "p75": 210.5,
+        "sampleSize": 12
+      },
+      {
+        "minute": 30,
+        "p25": 231,
+        "p50": 243,
+        "p75": 291,
+        "sampleSize": 11
+      }
+    ],
+    "netWorth": [
+      {
+        "minute": 5,
+        "p25": 1641.5,
+        "p50": 2076,
+        "p75": 2236,
+        "sampleSize": 3
+      },
+      {
+        "minute": 10,
+        "p25": 2864.5,
+        "p50": 3916,
+        "p75": 3950.5,
+        "sampleSize": 3
+      }
+    ]
+  },
+  "currentAbilityCatalog": {
+    "skeleton_king_hellfire_blast": {
+      "abilityId": 5086,
+      "abilityKey": "skeleton_king_hellfire_blast",
+      "label": "Wraithfire Blast",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "skeleton_king_bone_guard": {
+      "abilityId": 5087,
+      "abilityKey": "skeleton_king_bone_guard",
+      "label": "Bone Guard",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "skeleton_king_mortal_strike": {
+      "abilityId": 5088,
+      "abilityKey": "skeleton_king_mortal_strike",
+      "label": "Mortal Strike",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "skeleton_king_vampiric_spirit": {
+      "abilityId": 1283,
+      "abilityKey": "skeleton_king_vampiric_spirit",
+      "label": "Vampiric Spirit",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "skeleton_king_reincarnation": {
+      "abilityId": 5089,
+      "abilityKey": "skeleton_king_reincarnation",
+      "label": "Reincarnation",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "special_bonus_unique_wraith_king_2": {
+      "abilityId": 6088,
+      "abilityKey": "special_bonus_unique_wraith_king_2",
+      "label": "+8% Vampiric Spirit Lifesteal",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_wraith_king_facet_1": {
+      "abilityId": 1545,
+      "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+      "label": "+2s Wraithfire Blast Slow Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_wraith_king_11": {
+      "abilityId": 809,
+      "abilityKey": "special_bonus_unique_wraith_king_11",
+      "label": "+0.75s Wraithfire Blast Stun Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_hp_300": {
+      "abilityId": 5993,
+      "abilityKey": "special_bonus_hp_300",
+      "label": "+300 Health",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_attack_speed_50": {
+      "abilityId": 6020,
+      "abilityKey": "special_bonus_attack_speed_50",
+      "label": "+50 Attack Speed",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_wraith_king_facet_3": {
+      "abilityId": 1547,
+      "abilityKey": "special_bonus_unique_wraith_king_facet_3",
+      "label": "+5 Bone Guard Skeletons Spawned",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_wraith_king_10": {
+      "abilityId": 741,
+      "abilityKey": "special_bonus_unique_wraith_king_10",
+      "label": "-2s Mortal Strike Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_wraith_king_4": {
+      "abilityId": 6566,
+      "abilityKey": "special_bonus_unique_wraith_king_4",
+      "label": "Reincarnation Casts Wraithfire Blast",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilities": {
+    "skeleton_king_hellfire_blast": {
+      "abilityId": 5086,
+      "abilityKey": "skeleton_king_hellfire_blast",
+      "label": "Wraithfire Blast",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "skeleton_king_bone_guard": {
+      "abilityId": 5087,
+      "abilityKey": "skeleton_king_bone_guard",
+      "label": "Bone Guard",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "skeleton_king_mortal_strike": {
+      "abilityId": 5088,
+      "abilityKey": "skeleton_king_mortal_strike",
+      "label": "Mortal Strike",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "skeleton_king_vampiric_spirit": {
+      "abilityId": 1283,
+      "abilityKey": "skeleton_king_vampiric_spirit",
+      "label": "Vampiric Spirit",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "skeleton_king_reincarnation": {
+      "abilityId": 5089,
+      "abilityKey": "skeleton_king_reincarnation",
+      "label": "Reincarnation",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "special_bonus_unique_wraith_king_2": {
+      "abilityId": 6088,
+      "abilityKey": "special_bonus_unique_wraith_king_2",
+      "label": "+8% Vampiric Spirit Lifesteal",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_wraith_king_facet_1": {
+      "abilityId": 1545,
+      "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+      "label": "+2s Wraithfire Blast Slow Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_wraith_king_11": {
+      "abilityId": 809,
+      "abilityKey": "special_bonus_unique_wraith_king_11",
+      "label": "+0.75s Wraithfire Blast Stun Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_hp_300": {
+      "abilityId": 5993,
+      "abilityKey": "special_bonus_hp_300",
+      "label": "+300 Health",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_attack_speed_50": {
+      "abilityId": 6020,
+      "abilityKey": "special_bonus_attack_speed_50",
+      "label": "+50 Attack Speed",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_wraith_king_facet_3": {
+      "abilityId": 1547,
+      "abilityKey": "special_bonus_unique_wraith_king_facet_3",
+      "label": "+5 Bone Guard Skeletons Spawned",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_wraith_king_10": {
+      "abilityId": 741,
+      "abilityKey": "special_bonus_unique_wraith_king_10",
+      "label": "-2s Mortal Strike Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_wraith_king_4": {
+      "abilityId": 6566,
+      "abilityKey": "special_bonus_unique_wraith_king_4",
+      "label": "Reincarnation Casts Wraithfire Blast",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilityCatalogSourceUrl": "https://www.dota2.com/datafeed/herodata?language=english&hero_id=42",
+  "abilityCatalogFetchedAt": "2026-10-12T14:46:42.410Z",
+  "provenance": {
+    "kind": "existing_public_parsed_match_sample",
+    "population": "Recent OpenDota league matches with parsed safelane Wraith King; not the D2PT 7000+ MMR population",
+    "roleFilter": "hero_id=42, lane_role=1, not roaming, position_est=1 when present",
+    "patchFilter": 60,
+    "sampleMatchIds": [
+      9040136217,
+      9004724630,
+      9004608046,
+      8987833085,
+      8980569936,
+      8978292022,
+      8973096383,
+      8972982164,
+      8972926432,
+      8972901286,
+      8972900468,
+      8972898065,
+      8972893415,
+      8972891011,
+      8972890275
+    ],
+    "sourceUrls": [
+      "https://api.opendota.com/api/matches/9040136217",
+      "https://api.opendota.com/api/matches/9004724630",
+      "https://api.opendota.com/api/matches/9004608046",
+      "https://api.opendota.com/api/matches/8987833085",
+      "https://api.opendota.com/api/matches/8980569936",
+      "https://api.opendota.com/api/matches/8978292022",
+      "https://api.opendota.com/api/matches/8973096383",
+      "https://api.opendota.com/api/matches/8972982164",
+      "https://api.opendota.com/api/matches/8972926432",
+      "https://api.opendota.com/api/matches/8972901286",
+      "https://api.opendota.com/api/matches/8972900468",
+      "https://api.opendota.com/api/matches/8972898065",
+      "https://api.opendota.com/api/matches/8972893415",
+      "https://api.opendota.com/api/matches/8972891011",
+      "https://api.opendota.com/api/matches/8972890275"
+    ],
+    "observations": [
+      {
+        "matchId": 9040136217,
+        "startTime": 1791727661,
+        "patchId": 60,
+        "durationSeconds": 769,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040136217",
+        "replayUrl": "https://www.opendota.com/matches/9040136217",
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 136,
+            "stage": "early"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 10
+            },
+            {
+              "minute": 10,
+              "value": 24
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1207
+            },
+            {
+              "minute": 10,
+              "value": 1813
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 33,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 6230,
+            "lastHits10": 74
+          }
+        ],
+        "purchaseLogSha256": "a4a643aad6db6f765c9b545258c8700290fb849fecd68b5a38a13e7b85df3ddc"
+      },
+      {
+        "matchId": 9004724630,
+        "startTime": 1789740945,
+        "patchId": 60,
+        "durationSeconds": 1204,
+        "sourceUrl": "https://api.opendota.com/api/matches/9004724630",
+        "replayUrl": "https://www.opendota.com/matches/9004724630",
+        "leagueId": 19066,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 414,
+            "stage": "early"
+          },
+          {
+            "key": "soul_ring",
+            "timeSeconds": 705,
+            "stage": "mid"
+          },
+          {
+            "key": "invis_sword",
+            "timeSeconds": 1015,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 23
+            },
+            {
+              "minute": 10,
+              "value": 51
+            },
+            {
+              "minute": 15,
+              "value": 68
+            },
+            {
+              "minute": 20,
+              "value": 101
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2076
+            },
+            {
+              "minute": 10,
+              "value": 3916
+            },
+            {
+              "minute": 15,
+              "value": 5162
+            },
+            {
+              "minute": 20,
+              "value": 6986
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 104,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3448,
+            "lastHits10": 38
+          },
+          {
+            "enemyHeroId": 71,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 2167,
+            "lastHits10": 1
+          }
+        ],
+        "purchaseLogSha256": "2c845f71596ab94cc560020476398faa70e41b3fcca1b42de4a327193c0f1082",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+              "abilityId": 1545,
+              "label": "+2s Wraithfire Blast Slow Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9004724630,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9004608046,
+        "startTime": 1789737034,
+        "patchId": 60,
+        "durationSeconds": 2217,
+        "sourceUrl": "https://api.opendota.com/api/matches/9004608046",
+        "replayUrl": "https://www.opendota.com/matches/9004608046",
+        "leagueId": 19066,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 148,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 344,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 1097,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1304,
+            "stage": "mid"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1570,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 2012,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 2085,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 21
+            },
+            {
+              "minute": 10,
+              "value": 45
+            },
+            {
+              "minute": 15,
+              "value": 78
+            },
+            {
+              "minute": 20,
+              "value": 113
+            },
+            {
+              "minute": 25,
+              "value": 186
+            },
+            {
+              "minute": 30,
+              "value": 233
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2396
+            },
+            {
+              "minute": 10,
+              "value": 3985
+            },
+            {
+              "minute": 15,
+              "value": 6452
+            },
+            {
+              "minute": 20,
+              "value": 8133
+            },
+            {
+              "minute": 25,
+              "value": 12252
+            },
+            {
+              "minute": 30,
+              "value": 14624
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 9,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1681,
+            "lastHits10": 12
+          },
+          {
+            "enemyHeroId": 20,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 2776,
+            "lastHits10": 31
+          }
+        ],
+        "purchaseLogSha256": "076f514582bc52cb41977b47d21a3be3f716e645c0fc89b49cec603c0d140054",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+              "abilityId": 1545,
+              "label": "+2s Wraithfire Blast Slow Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_wraith_king_11",
+              "abilityId": 809,
+              "label": "+0.75s Wraithfire Blast Stun Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_attack_speed_50",
+              "abilityId": 6020,
+              "label": "+50 Attack Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9004608046,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8987833085,
+        "startTime": 1788803529,
+        "patchId": 60,
+        "durationSeconds": 3396,
+        "sourceUrl": "https://api.opendota.com/api/matches/8987833085",
+        "replayUrl": "https://www.opendota.com/matches/8987833085",
+        "leagueId": 19944,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 121,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 493,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 1228,
+            "stage": "mid"
+          },
+          {
+            "key": "armlet",
+            "timeSeconds": 1424,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1534,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1857,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 2015,
+            "stage": "late"
+          },
+          {
+            "key": "assault",
+            "timeSeconds": 2290,
+            "stage": "late"
+          },
+          {
+            "key": "overwhelming_blink",
+            "timeSeconds": 2894,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 17
+            },
+            {
+              "minute": 10,
+              "value": 55
+            },
+            {
+              "minute": 15,
+              "value": 84
+            },
+            {
+              "minute": 20,
+              "value": 112
+            },
+            {
+              "minute": 25,
+              "value": 209
+            },
+            {
+              "minute": 30,
+              "value": 290
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 69,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 71
+          },
+          {
+            "enemyHeroId": 9,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 8
+          }
+        ],
+        "purchaseLogSha256": "9d4de2e5829d519d1cb6fe2b0d9dcb5b595b62d442b202b72dfc65f365fd14c0",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_wraith_king_2",
+              "abilityId": 6088,
+              "label": "+8% Vampiric Spirit Lifesteal",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_hp_300",
+              "abilityId": 5993,
+              "label": "+300 Health",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_attack_speed_50",
+              "abilityId": 6020,
+              "label": "+50 Attack Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_wraith_king_4",
+              "abilityId": 6566,
+              "label": "Reincarnation Casts Wraithfire Blast",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+              "abilityId": 1545,
+              "label": "+2s Wraithfire Blast Slow Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 8987833085,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8980569936,
+        "startTime": 1788440414,
+        "patchId": 60,
+        "durationSeconds": 3416,
+        "sourceUrl": "https://api.opendota.com/api/matches/8980569936",
+        "replayUrl": "https://www.opendota.com/matches/8980569936",
+        "leagueId": 19944,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 294,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 500,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 924,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 989,
+            "stage": "mid"
+          },
+          {
+            "key": "armlet",
+            "timeSeconds": 1227,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1485,
+            "stage": "mid"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1577,
+            "stage": "mid"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 1721,
+            "stage": "mid"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 2005,
+            "stage": "late"
+          },
+          {
+            "key": "nullifier",
+            "timeSeconds": 2071,
+            "stage": "late"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 3317,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 26
+            },
+            {
+              "minute": 10,
+              "value": 80
+            },
+            {
+              "minute": 15,
+              "value": 144
+            },
+            {
+              "minute": 20,
+              "value": 197
+            },
+            {
+              "minute": 25,
+              "value": 266
+            },
+            {
+              "minute": 30,
+              "value": 352
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 55,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 68
+          }
+        ],
+        "purchaseLogSha256": "959f7800652c5f4a7368e9d18e8016bb5651e45c6c355e5e5a9bc0fafa26f25a"
+      },
+      {
+        "matchId": 8978292022,
+        "startTime": 1788295911,
+        "patchId": 60,
+        "durationSeconds": 2242,
+        "sourceUrl": "https://api.opendota.com/api/matches/8978292022",
+        "replayUrl": "https://www.opendota.com/matches/8978292022",
+        "leagueId": 19944,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 350,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 921,
+            "stage": "mid"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 1007,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1185,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1587,
+            "stage": "mid"
+          },
+          {
+            "key": "assault",
+            "timeSeconds": 2055,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 23
+            },
+            {
+              "minute": 10,
+              "value": 60
+            },
+            {
+              "minute": 15,
+              "value": 127
+            },
+            {
+              "minute": 20,
+              "value": 173
+            },
+            {
+              "minute": 25,
+              "value": 203
+            },
+            {
+              "minute": 30,
+              "value": 280
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 69,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 66
+          },
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 5
+          }
+        ],
+        "purchaseLogSha256": "858149d9b6d83994131d4848d2ae0c9495ddb7a89ba79feb6257c1c89249e308"
+      },
+      {
+        "matchId": 8973096383,
+        "startTime": 1788038417,
+        "patchId": 60,
+        "durationSeconds": 2782,
+        "sourceUrl": "https://api.opendota.com/api/matches/8973096383",
+        "replayUrl": "https://www.opendota.com/matches/8973096383",
+        "leagueId": 20134,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "gauntlets",
+            "timeSeconds": -47,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -46,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -45,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -43,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 123,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 358,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 1059,
+            "stage": "mid"
+          },
+          {
+            "key": "armlet",
+            "timeSeconds": 1292,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1469,
+            "stage": "mid"
+          },
+          {
+            "key": "assault",
+            "timeSeconds": 1874,
+            "stage": "late"
+          },
+          {
+            "key": "abyssal_blade",
+            "timeSeconds": 2113,
+            "stage": "late"
+          },
+          {
+            "key": "skadi",
+            "timeSeconds": 2486,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 22
+            },
+            {
+              "minute": 10,
+              "value": 61
+            },
+            {
+              "minute": 15,
+              "value": 93
+            },
+            {
+              "minute": 20,
+              "value": 141
+            },
+            {
+              "minute": 25,
+              "value": 214
+            },
+            {
+              "minute": 30,
+              "value": 300
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 31,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 12
+          },
+          {
+            "enemyHeroId": 28,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 49
+          }
+        ],
+        "purchaseLogSha256": "f5a87b96075095f2075082fc5df9fed6b41ac5fb9c65dc32104a19f851c43eba"
+      },
+      {
+        "matchId": 8972982164,
+        "startTime": 1788033731,
+        "patchId": 60,
+        "durationSeconds": 1799,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972982164",
+        "replayUrl": "https://www.opendota.com/matches/8972982164",
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 259,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 335,
+            "stage": "early"
+          },
+          {
+            "key": "armlet",
+            "timeSeconds": 787,
+            "stage": "mid"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1100,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1268,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1696,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 16
+            },
+            {
+              "minute": 10,
+              "value": 41
+            },
+            {
+              "minute": 15,
+              "value": 97
+            },
+            {
+              "minute": 20,
+              "value": 146
+            },
+            {
+              "minute": 25,
+              "value": 210
+            },
+            {
+              "minute": 30,
+              "value": 231
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 65,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 45
+          },
+          {
+            "enemyHeroId": 100,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 12
+          }
+        ],
+        "purchaseLogSha256": "7fe90445396e21144663f3747272216d9863bf35c023dbe1a8aa81327d227e13",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_wraith_king_2",
+              "abilityId": 6088,
+              "label": "+8% Vampiric Spirit Lifesteal",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_hp_300",
+              "abilityId": 5993,
+              "label": "+300 Health",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8972982164,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8972926432,
+        "startTime": 1788031630,
+        "patchId": 60,
+        "durationSeconds": 3262,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972926432",
+        "replayUrl": "https://www.opendota.com/matches/8972926432",
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -85,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 263,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 373,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 953,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1112,
+            "stage": "mid"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1331,
+            "stage": "mid"
+          },
+          {
+            "key": "assault",
+            "timeSeconds": 2195,
+            "stage": "late"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 2451,
+            "stage": "late"
+          },
+          {
+            "key": "ultimate_scepter",
+            "timeSeconds": 2787,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 20
+            },
+            {
+              "minute": 10,
+              "value": 51
+            },
+            {
+              "minute": 15,
+              "value": 86
+            },
+            {
+              "minute": 20,
+              "value": 152
+            },
+            {
+              "minute": 25,
+              "value": 212
+            },
+            {
+              "minute": 30,
+              "value": 243
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 131,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 3
+          },
+          {
+            "enemyHeroId": 135,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 47
+          }
+        ],
+        "purchaseLogSha256": "b7c46502c3bb304df825b33721eb54dfb0351f38d302ac4806d012106b1127b3"
+      },
+      {
+        "matchId": 8972901286,
+        "startTime": 1788030715,
+        "patchId": 60,
+        "durationSeconds": 2359,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972901286",
+        "replayUrl": "https://www.opendota.com/matches/8972901286",
+        "leagueId": 20134,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "radiance",
+            "timeSeconds": 1021,
+            "stage": "mid"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 1175,
+            "stage": "mid"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 1175,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1280,
+            "stage": "mid"
+          },
+          {
+            "key": "ultimate_scepter",
+            "timeSeconds": 1662,
+            "stage": "mid"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1902,
+            "stage": "late"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 2196,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 2
+            },
+            {
+              "minute": 10,
+              "value": 14
+            },
+            {
+              "minute": 15,
+              "value": 49
+            },
+            {
+              "minute": 20,
+              "value": 115
+            },
+            {
+              "minute": 25,
+              "value": 166
+            },
+            {
+              "minute": 30,
+              "value": 223
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 33,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 77
+          },
+          {
+            "enemyHeroId": 51,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 1
+          }
+        ],
+        "purchaseLogSha256": "901171627a2a359630b1dfdde91fc4a738a7db761faa7b8228c2501595926575"
+      },
+      {
+        "matchId": 8972900468,
+        "startTime": 1788030685,
+        "patchId": 60,
+        "durationSeconds": 1425,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972900468",
+        "replayUrl": "https://www.opendota.com/matches/8972900468",
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -79,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -79,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -78,
+            "stage": "start"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 64,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 182,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 355,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 1045,
+            "stage": "mid"
+          },
+          {
+            "key": "sange_and_yasha",
+            "timeSeconds": 1232,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 19
+            },
+            {
+              "minute": 10,
+              "value": 50
+            },
+            {
+              "minute": 15,
+              "value": 100
+            },
+            {
+              "minute": 20,
+              "value": 126
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 96,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 56
+          },
+          {
+            "enemyHeroId": 9,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 3
+          }
+        ],
+        "purchaseLogSha256": "04df3ee3d436606570f3ab96e41bade95a7ea91aa381e0b891bbc121330bd908",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+              "abilityId": 1545,
+              "label": "+2s Wraithfire Blast Slow Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_hp_300",
+              "abilityId": 5993,
+              "label": "+300 Health",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 18,
+              "sourceMatchId": 8972900468,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": [
+            730,
+            730
+          ]
+        }
+      },
+      {
+        "matchId": 8972898065,
+        "startTime": 1788030599,
+        "patchId": 60,
+        "durationSeconds": 2399,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972898065",
+        "replayUrl": "https://www.opendota.com/matches/8972898065",
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 58,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 485,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 1261,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1777,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1969,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 2095,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 19
+            },
+            {
+              "minute": 10,
+              "value": 41
+            },
+            {
+              "minute": 15,
+              "value": 67
+            },
+            {
+              "minute": 20,
+              "value": 95
+            },
+            {
+              "minute": 25,
+              "value": 117
+            },
+            {
+              "minute": 30,
+              "value": 149
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 7,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 22
+          },
+          {
+            "enemyHeroId": 129,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 58
+          }
+        ],
+        "purchaseLogSha256": "9feb6568a1543a089b21f49b3e78f05ff53c174e3ba17a05a1c402e49a2a5e55",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+              "abilityId": 1545,
+              "label": "+2s Wraithfire Blast Slow Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_hp_300",
+              "abilityId": 5993,
+              "label": "+300 Health",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8972898065,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8972893415,
+        "startTime": 1788030436,
+        "patchId": 60,
+        "durationSeconds": 1725,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972893415",
+        "replayUrl": "https://www.opendota.com/matches/8972893415",
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 176,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 344,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 1119,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1386,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 18
+            },
+            {
+              "minute": 10,
+              "value": 44
+            },
+            {
+              "minute": 15,
+              "value": 69
+            },
+            {
+              "minute": 20,
+              "value": 102
+            },
+            {
+              "minute": 25,
+              "value": 159
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 60,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 42
+          },
+          {
+            "enemyHeroId": 100,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 10
+          }
+        ],
+        "purchaseLogSha256": "bace11da6dee3a4628182c1beabfc384c9706f6b958f59b9bcf78d28afa5bbb4"
+      },
+      {
+        "matchId": 8972891011,
+        "startTime": 1788030350,
+        "patchId": 60,
+        "durationSeconds": 2607,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972891011",
+        "replayUrl": "https://www.opendota.com/matches/8972891011",
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 152,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 389,
+            "stage": "early"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 1091,
+            "stage": "mid"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1352,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1662,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 2010,
+            "stage": "late"
+          },
+          {
+            "key": "ultimate_scepter",
+            "timeSeconds": 2506,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 24
+            },
+            {
+              "minute": 10,
+              "value": 55
+            },
+            {
+              "minute": 15,
+              "value": 94
+            },
+            {
+              "minute": 20,
+              "value": 145
+            },
+            {
+              "minute": 25,
+              "value": 193
+            },
+            {
+              "minute": 30,
+              "value": 231
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 128,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 14
+          },
+          {
+            "enemyHeroId": 108,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 82
+          }
+        ],
+        "purchaseLogSha256": "ee759433ee54ce5b04c426e207fd6411f4af731b1224afa91fc98fe08f04b668",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_wraith_king_2",
+              "abilityId": 6088,
+              "label": "+8% Vampiric Spirit Lifesteal",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_hp_300",
+              "abilityId": 5993,
+              "label": "+300 Health",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_attack_speed_50",
+              "abilityId": 6020,
+              "label": "+50 Attack Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 8972891011,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8972890275,
+        "startTime": 1788030321,
+        "patchId": 60,
+        "durationSeconds": 3190,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972890275",
+        "replayUrl": "https://www.opendota.com/matches/8972890275",
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 169,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 316,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 611,
+            "stage": "mid"
+          },
+          {
+            "key": "radiance",
+            "timeSeconds": 1106,
+            "stage": "mid"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1302,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1463,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1744,
+            "stage": "mid"
+          },
+          {
+            "key": "assault",
+            "timeSeconds": 2034,
+            "stage": "late"
+          },
+          {
+            "key": "abyssal_blade",
+            "timeSeconds": 2590,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 19
+            },
+            {
+              "minute": 10,
+              "value": 42
+            },
+            {
+              "minute": 15,
+              "value": 86
+            },
+            {
+              "minute": 20,
+              "value": 140
+            },
+            {
+              "minute": 25,
+              "value": 208
+            },
+            {
+              "minute": 30,
+              "value": 292
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 12
+          },
+          {
+            "enemyHeroId": 129,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 43
+          }
+        ],
+        "purchaseLogSha256": "b1187891a3ec6f357e81d572ca3e915a9c28537e6595e9ca303e649cb2bd3b46",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "skeleton_king_mortal_strike",
+              "abilityId": 5088,
+              "label": "Mortal Strike",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "skeleton_king_bone_guard",
+              "abilityId": 5087,
+              "label": "Bone Guard",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_wraith_king_2",
+              "abilityId": 6088,
+              "label": "+8% Vampiric Spirit Lifesteal",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "skeleton_king_hellfire_blast",
+              "abilityId": 5086,
+              "label": "Wraithfire Blast",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_hp_300",
+              "abilityId": 5993,
+              "label": "+300 Health",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "skeleton_king_reincarnation",
+              "abilityId": 5089,
+              "label": "Reincarnation",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_wraith_king_facet_3",
+              "abilityId": 1547,
+              "label": "+5 Bone Guard Skeletons Spawned",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_wraith_king_10",
+              "abilityId": 741,
+              "label": "-2s Mortal Strike Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_wraith_king_facet_1",
+              "abilityId": 1545,
+              "label": "+2s Wraithfire Blast Slow Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 8972890275,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      }
+    ],
+    "benchmarkMethod": "Linear-interpolated empirical quantiles from exact times/lh_t/networth_t checkpoints; gold_t is never substituted for net worth",
+    "buildMethod": "Group observed first two major purchases; show newest actual purchase log in the largest group. Timings are that match, not a universal target.",
+    "skillMethod": "Recorded ability_upgrades_arr from the same representative match, mapped by exact current Valve ability IDs. Array-only levels are an earliest-legal reconstruction, not recorded hero levels; innate abilities are excluded."
+  },
+  "caveats": [
+    "Dota2ProTracker is a browsing reference only; this cached dataset comes from the public OpenDota API.",
+    "OpenDota patch IDs identify base patches and cannot verify the current minor-letter patch.",
+    "This is a small observational sample with the actual date range shown, not a current-patch meta guarantee.",
+    "Missing or unparsed replays, role inference, match duration, and the league population introduce selection bias.",
+    "Farm quantiles describe these samples; personal farm targets remain separate and editable.",
+    "A purchase in a winning match does not establish the best item for this matchup.",
+    "Skill order is observed; levels reconstructed from an upgrade array may differ if the player saved skill points. The current Valve ability catalog does not verify the match minor patch."
+  ],
+  "validation": {
+    "attemptedMatches": 17,
+    "retainedCarries": 15,
+    "fetchErrors": []
+  },
+  "skillsFetchedAt": "2026-10-12T14:46:42.410Z"
+}

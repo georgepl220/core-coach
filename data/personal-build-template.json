@@ -1,0 +1,41 @@
+{
+  "kind": "personal",
+  "heroId": 42,
+  "patch": { "name": "7.41f" },
+  "description": "Редактируемый пример личной сборки. Это не импорт Dota2ProTracker и не утверждение о лучшем билде. Патч указан для ориентира и не проверен по матчам.",
+  "build": {
+    "role": "carry",
+    "items": [
+      { "key": "tango", "phase": "start" },
+      { "key": "quelling_blade", "phase": "start" },
+      { "key": "branches", "phase": "start" },
+      { "key": "magic_wand", "phase": "early" },
+      { "key": "phase_boots", "phase": "early" },
+      { "key": "radiance", "phase": "mid" },
+      { "key": "blink", "phase": "mid" },
+      { "key": "black_king_bar", "phase": "mid" },
+      { "key": "assault", "phase": "late" }
+    ],
+    "skills": [
+      { "heroLevel": 1, "abilityKey": "skeleton_king_hellfire_blast" },
+      { "heroLevel": 2, "abilityKey": "skeleton_king_bone_guard" },
+      { "heroLevel": 3, "abilityKey": "skeleton_king_bone_guard" },
+      { "heroLevel": 4, "abilityKey": "skeleton_king_mortal_strike" },
+      { "heroLevel": 5, "abilityKey": "skeleton_king_bone_guard" },
+      { "heroLevel": 6, "abilityKey": "skeleton_king_reincarnation" },
+      { "heroLevel": 7, "abilityKey": "skeleton_king_bone_guard" },
+      { "heroLevel": 8, "abilityKey": "skeleton_king_mortal_strike" },
+      { "heroLevel": 9, "abilityKey": "skeleton_king_mortal_strike" },
+      { "heroLevel": 10, "abilityKey": "skeleton_king_mortal_strike" },
+      { "heroLevel": 11, "abilityKey": "special_bonus_unique_wraith_king_2" },
+      { "heroLevel": 12, "abilityKey": "skeleton_king_reincarnation" },
+      { "heroLevel": 13, "abilityKey": "skeleton_king_hellfire_blast" },
+      { "heroLevel": 14, "abilityKey": "skeleton_king_hellfire_blast" },
+      { "heroLevel": 15, "abilityKey": "special_bonus_hp_300" },
+      { "heroLevel": 16, "abilityKey": "skeleton_king_hellfire_blast" },
+      { "heroLevel": 18, "abilityKey": "skeleton_king_reincarnation" },
+      { "heroLevel": 20, "abilityKey": "special_bonus_attack_speed_50" },
+      { "heroLevel": 25, "abilityKey": "special_bonus_unique_wraith_king_10" }
+    ]
+  }
+}

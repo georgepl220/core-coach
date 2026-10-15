@@ -1,0 +1,5726 @@
+{
+  "schemaVersion": 1,
+  "heroId": 8,
+  "role": "carry",
+  "status": "available",
+  "source": "OpenDota recent parsed carry matches",
+  "sourceUrl": "https://api.opendota.com/api/heroes/8/matches",
+  "d2ptReference": "https://dota2protracker.com/hero/Juggernaut",
+  "externalUrl": "https://dota2protracker.com/hero/Juggernaut",
+  "fetchedAt": "2026-10-12T21:23:52.396Z",
+  "sampleCount": 12,
+  "patch": {
+    "id": 60,
+    "name": "7.41",
+    "verified": true,
+    "minorPatchVerified": false,
+    "scope": "Exact OpenDota base patch ID, not a verified minor-letter patch or D2PT patch filter"
+  },
+  "patchVerified": true,
+  "windowText": "2026-09-13 — 2026-10-12",
+  "window": {
+    "from": "2026-09-13T16:34:12.000Z",
+    "to": "2026-10-12T07:20:43.000Z",
+    "lookbackDays": 45
+  },
+  "builds": [
+    {
+      "id": "bfury-yasha",
+      "matches": 9,
+      "winRate": 0.7777777777777778,
+      "frequency": 0.75,
+      "sequence": [
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 66,
+          "stage": "early"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 314,
+          "stage": "early"
+        },
+        {
+          "key": "bfury",
+          "timeSeconds": 797,
+          "stage": "mid"
+        },
+        {
+          "key": "yasha",
+          "timeSeconds": 975,
+          "stage": "mid"
+        },
+        {
+          "key": "manta",
+          "timeSeconds": 1129,
+          "stage": "mid"
+        },
+        {
+          "key": "butterfly",
+          "timeSeconds": 1437,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 9038875358,
+      "representativeDate": "2026-10-10T20:04:34.000Z",
+      "sourceMatchIds": [
+        9038875358,
+        9037578078,
+        9016945136,
+        9014046952,
+        9013108339,
+        9011095081,
+        9011086940,
+        9007700576,
+        8997487287
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "juggernaut_omni_slash",
+          "abilityId": 5030,
+          "label": "Omnislash",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_juggernaut_3",
+          "abilityId": 7021,
+          "label": "-1s Bladeform Stack Gain Interval",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "juggernaut_omni_slash",
+          "abilityId": 5030,
+          "label": "Omnislash",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown",
+          "abilityId": 1787,
+          "label": "-15s Omnislash Cooldown",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "juggernaut_omni_slash",
+          "abilityId": 5030,
+          "label": "Omnislash",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 9038875358,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9038875358,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "bfury",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.08333333333333333,
+      "sequence": [
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 270,
+          "stage": "early"
+        },
+        {
+          "key": "bfury",
+          "timeSeconds": 1003,
+          "stage": "mid"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 1005,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 9041226872,
+      "representativeDate": "2026-10-12T07:20:43.000Z",
+      "sourceMatchIds": [
+        9041226872
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "juggernaut_omni_slash",
+          "abilityId": 5030,
+          "label": "Omnislash",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "special_bonus_unique_juggernaut_3",
+          "abilityId": 7021,
+          "label": "-1s Bladeform Stack Gain Interval",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9041226872,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9041226872,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "yasha-bfury",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.08333333333333333,
+      "sequence": [
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "phase_boots",
+          "timeSeconds": 253,
+          "stage": "early"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 466,
+          "stage": "early"
+        },
+        {
+          "key": "yasha",
+          "timeSeconds": 621,
+          "stage": "mid"
+        },
+        {
+          "key": "bfury",
+          "timeSeconds": 991,
+          "stage": "mid"
+        },
+        {
+          "key": "sange",
+          "timeSeconds": 1116,
+          "stage": "mid"
+        },
+        {
+          "key": "sange_and_yasha",
+          "timeSeconds": 1116,
+          "stage": "mid"
+        },
+        {
+          "key": "monkey_king_bar",
+          "timeSeconds": 1627,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 9011805832,
+      "representativeDate": "2026-09-22T21:37:39.000Z",
+      "sourceMatchIds": [
+        9011805832
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "juggernaut_omni_slash",
+          "abilityId": 5030,
+          "label": "Omnislash",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "juggernaut_blade_fury",
+          "abilityId": 5028,
+          "label": "Blade Fury",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "special_bonus_unique_juggernaut_3",
+          "abilityId": 7021,
+          "label": "-1s Bladeform Stack Gain Interval",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "juggernaut_blade_dance",
+          "abilityId": 5027,
+          "label": "Blade Dance",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "juggernaut_omni_slash",
+          "abilityId": 5030,
+          "label": "Omnislash",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "juggernaut_healing_ward",
+          "abilityId": 5029,
+          "label": "Healing Ward",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 17,
+          "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown",
+          "abilityId": 1787,
+          "label": "-15s Omnislash Cooldown",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "juggernaut_omni_slash",
+          "abilityId": 5030,
+          "label": "Omnislash",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_unique_juggernaut_4",
+          "abilityId": 7394,
+          "label": "+15% Blade Dance Crit Damage",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 9011805832,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9011805832,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    }
+  ],
+  "itemStats": [
+    {
+      "key": "bfury",
+      "matches": 11,
+      "frequency": 0.9166666666666666,
+      "medianTimeSeconds": 797,
+      "p25TimeSeconds": 763.5,
+      "p75TimeSeconds": 899.5
+    },
+    {
+      "key": "yasha",
+      "matches": 10,
+      "frequency": 0.8333333333333334,
+      "medianTimeSeconds": 1002,
+      "p25TimeSeconds": 966.75,
+      "p75TimeSeconds": 1057
+    },
+    {
+      "key": "power_treads",
+      "matches": 9,
+      "frequency": 0.75,
+      "medianTimeSeconds": 334,
+      "p25TimeSeconds": 276,
+      "p75TimeSeconds": 374
+    },
+    {
+      "key": "magic_wand",
+      "matches": 9,
+      "frequency": 0.75,
+      "medianTimeSeconds": 515,
+      "p25TimeSeconds": 316,
+      "p75TimeSeconds": 1005
+    },
+    {
+      "key": "manta",
+      "matches": 9,
+      "frequency": 0.75,
+      "medianTimeSeconds": 1236,
+      "p25TimeSeconds": 1166,
+      "p75TimeSeconds": 1248
+    },
+    {
+      "key": "butterfly",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 1530,
+      "p25TimeSeconds": 1488,
+      "p75TimeSeconds": 1536
+    },
+    {
+      "key": "blink",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 1946,
+      "p25TimeSeconds": 1662,
+      "p75TimeSeconds": 2056
+    },
+    {
+      "key": "swift_blink",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 2159,
+      "p25TimeSeconds": 2145,
+      "p75TimeSeconds": 2231
+    },
+    {
+      "key": "diffusal_blade",
+      "matches": 4,
+      "frequency": 0.3333333333333333,
+      "medianTimeSeconds": 1728.5,
+      "p25TimeSeconds": 1619.25,
+      "p75TimeSeconds": 1883
+    },
+    {
+      "key": "sange",
+      "matches": 4,
+      "frequency": 0.3333333333333333,
+      "medianTimeSeconds": 2607.5,
+      "p25TimeSeconds": 2172.75,
+      "p75TimeSeconds": 3071
+    },
+    {
+      "key": "skadi",
+      "matches": 4,
+      "frequency": 0.3333333333333333,
+      "medianTimeSeconds": 1945,
+      "p25TimeSeconds": 1870,
+      "p75TimeSeconds": 2146.75
+    },
+    {
+      "key": "phase_boots",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 314,
+      "p25TimeSeconds": 283.5,
+      "p75TimeSeconds": 315
+    },
+    {
+      "key": "disperser",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 1867,
+      "p25TimeSeconds": 1764.5,
+      "p75TimeSeconds": 1902
+    },
+    {
+      "key": "abyssal_blade",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 2717,
+      "p25TimeSeconds": 2623,
+      "p75TimeSeconds": 3465.5
+    },
+    {
+      "key": "monkey_king_bar",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 1627,
+      "p25TimeSeconds": 1551,
+      "p75TimeSeconds": 1779
+    },
+    {
+      "key": "ultimate_scepter",
+      "matches": 2,
+      "frequency": 0.16666666666666666,
+      "medianTimeSeconds": 2645.5,
+      "p25TimeSeconds": 2439.25,
+      "p75TimeSeconds": 2851.75
+    },
+    {
+      "key": "black_king_bar",
+      "matches": 2,
+      "frequency": 0.16666666666666666,
+      "medianTimeSeconds": 3209,
+      "p25TimeSeconds": 2911.5,
+      "p75TimeSeconds": 3506.5
+    },
+    {
+      "key": "aghanims_shard",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 2775,
+      "p25TimeSeconds": 2775,
+      "p75TimeSeconds": 2775
+    },
+    {
+      "key": "moon_shard",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 3486,
+      "p25TimeSeconds": 3486,
+      "p75TimeSeconds": 3486
+    },
+    {
+      "key": "wraith_band",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 440,
+      "p25TimeSeconds": 440,
+      "p75TimeSeconds": 440
+    },
+    {
+      "key": "sange_and_yasha",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 1116,
+      "p25TimeSeconds": 1116,
+      "p75TimeSeconds": 1116
+    }
+  ],
+  "laneMatchups": [
+    {
+      "enemyHeroId": 131,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9041226872,
+        9014046952
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 110,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9038875358,
+        9007700576
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 1077.5,
+        "sampleSize": 2
+      }
+    },
+    {
+      "enemyHeroId": 78,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9041226872
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -600,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 88,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9038875358
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 51,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037706769
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 36,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037706769
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -2842,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 69,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037578078
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 2025,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 121,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9016945136
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 12,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9016945136
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -793,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 29,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9014046952
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 145,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 155,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9013108339
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 225,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 55,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9011805832
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -1104,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 100,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9011095081
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 43,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9011095081
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -2392,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 77,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9011086940
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 1395,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 71,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9011086940
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 62,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9007700576
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 57,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8997487287
+      ],
+      "laneOutcome": null
+    }
+  ],
+  "benchmarks": {
+    "lastHits": [
+      {
+        "minute": 5,
+        "p25": 20.75,
+        "p50": 24,
+        "p75": 28,
+        "sampleSize": 12
+      },
+      {
+        "minute": 10,
+        "p25": 53.75,
+        "p50": 65,
+        "p75": 72.25,
+        "sampleSize": 12
+      },
+      {
+        "minute": 15,
+        "p25": 115,
+        "p50": 129,
+        "p75": 146,
+        "sampleSize": 11
+      },
+      {
+        "minute": 20,
+        "p25": 189.75,
+        "p50": 207.5,
+        "p75": 222,
+        "sampleSize": 10
+      },
+      {
+        "minute": 25,
+        "p25": 266.5,
+        "p50": 289.5,
+        "p75": 309.5,
+        "sampleSize": 10
+      },
+      {
+        "minute": 30,
+        "p25": 361.25,
+        "p50": 389.5,
+        "p75": 410.5,
+        "sampleSize": 8
+      }
+    ],
+    "netWorth": [
+      {
+        "minute": 5,
+        "p25": 1971,
+        "p50": 2111,
+        "p75": 2388,
+        "sampleSize": 11
+      },
+      {
+        "minute": 10,
+        "p25": 3778,
+        "p50": 3984,
+        "p75": 4858.5,
+        "sampleSize": 11
+      },
+      {
+        "minute": 15,
+        "p25": 6521.5,
+        "p50": 7325.5,
+        "p75": 7578.25,
+        "sampleSize": 10
+      },
+      {
+        "minute": 20,
+        "p25": 10633,
+        "p50": 11012,
+        "p75": 11352,
+        "sampleSize": 9
+      },
+      {
+        "minute": 25,
+        "p25": 15250,
+        "p50": 15652,
+        "p75": 15780,
+        "sampleSize": 9
+      },
+      {
+        "minute": 30,
+        "p25": 18400.5,
+        "p50": 20953,
+        "p75": 21053,
+        "sampleSize": 7
+      }
+    ]
+  },
+  "currentAbilityCatalog": {
+    "juggernaut_blade_fury": {
+      "abilityId": 5028,
+      "abilityKey": "juggernaut_blade_fury",
+      "label": "Blade Fury",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_healing_ward": {
+      "abilityId": 5029,
+      "abilityKey": "juggernaut_healing_ward",
+      "label": "Healing Ward",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_blade_dance": {
+      "abilityId": 5027,
+      "abilityKey": "juggernaut_blade_dance",
+      "label": "Blade Dance",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_swift_slash": {
+      "abilityId": 419,
+      "abilityKey": "juggernaut_swift_slash",
+      "label": "Swiftslash",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": true,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_bladeform": {
+      "abilityId": 1210,
+      "abilityKey": "juggernaut_bladeform",
+      "label": "Bladeform",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "granted": false,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_omni_slash": {
+      "abilityId": 5030,
+      "abilityKey": "juggernaut_omni_slash",
+      "label": "Omnislash",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "special_bonus_unique_juggernaut_5": {
+      "abilityId": 628,
+      "abilityKey": "special_bonus_unique_juggernaut_5",
+      "label": "-12s Healing Ward Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_juggernaut_3": {
+      "abilityId": 7021,
+      "abilityKey": "special_bonus_unique_juggernaut_3",
+      "label": "-1s Bladeform Stack Gain Interval",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_juggernaut_omnislash_cooldown": {
+      "abilityId": 1787,
+      "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown",
+      "label": "-15s Omnislash Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_juggernaut_blade_fury_movespeed": {
+      "abilityId": 1192,
+      "abilityKey": "special_bonus_unique_juggernaut_blade_fury_movespeed",
+      "label": "45 Movement Speed During Blade Fury",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_juggernaut_4": {
+      "abilityId": 7394,
+      "abilityKey": "special_bonus_unique_juggernaut_4",
+      "label": "+15% Blade Dance Crit Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_juggernaut": {
+      "abilityId": 6105,
+      "abilityKey": "special_bonus_unique_juggernaut",
+      "label": "+120 Blade Fury Damage Per Second",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_juggernaut_omnislash_duration": {
+      "abilityId": 1013,
+      "abilityKey": "special_bonus_unique_juggernaut_omnislash_duration",
+      "label": "+1s Omnislash Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_juggernaut_blade_dance_lifesteal": {
+      "abilityId": 915,
+      "abilityKey": "special_bonus_unique_juggernaut_blade_dance_lifesteal",
+      "label": "+40% Blade Dance Lifesteal",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilities": {
+    "juggernaut_blade_fury": {
+      "abilityId": 5028,
+      "abilityKey": "juggernaut_blade_fury",
+      "label": "Blade Fury",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_healing_ward": {
+      "abilityId": 5029,
+      "abilityKey": "juggernaut_healing_ward",
+      "label": "Healing Ward",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_blade_dance": {
+      "abilityId": 5027,
+      "abilityKey": "juggernaut_blade_dance",
+      "label": "Blade Dance",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_swift_slash": {
+      "abilityId": 419,
+      "abilityKey": "juggernaut_swift_slash",
+      "label": "Swiftslash",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": true,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_bladeform": {
+      "abilityId": 1210,
+      "abilityKey": "juggernaut_bladeform",
+      "label": "Bladeform",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "granted": false,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "juggernaut_omni_slash": {
+      "abilityId": 5030,
+      "abilityKey": "juggernaut_omni_slash",
+      "label": "Omnislash",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "special_bonus_unique_juggernaut_5": {
+      "abilityId": 628,
+      "abilityKey": "special_bonus_unique_juggernaut_5",
+      "label": "-12s Healing Ward Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_juggernaut_3": {
+      "abilityId": 7021,
+      "abilityKey": "special_bonus_unique_juggernaut_3",
+      "label": "-1s Bladeform Stack Gain Interval",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_juggernaut_omnislash_cooldown": {
+      "abilityId": 1787,
+      "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown",
+      "label": "-15s Omnislash Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_juggernaut_blade_fury_movespeed": {
+      "abilityId": 1192,
+      "abilityKey": "special_bonus_unique_juggernaut_blade_fury_movespeed",
+      "label": "45 Movement Speed During Blade Fury",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_juggernaut_4": {
+      "abilityId": 7394,
+      "abilityKey": "special_bonus_unique_juggernaut_4",
+      "label": "+15% Blade Dance Crit Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_juggernaut": {
+      "abilityId": 6105,
+      "abilityKey": "special_bonus_unique_juggernaut",
+      "label": "+120 Blade Fury Damage Per Second",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_juggernaut_omnislash_duration": {
+      "abilityId": 1013,
+      "abilityKey": "special_bonus_unique_juggernaut_omnislash_duration",
+      "label": "+1s Omnislash Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_juggernaut_blade_dance_lifesteal": {
+      "abilityId": 915,
+      "abilityKey": "special_bonus_unique_juggernaut_blade_dance_lifesteal",
+      "label": "+40% Blade Dance Lifesteal",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilityCatalogSourceUrl": "https://www.dota2.com/datafeed/herodata?language=english&hero_id=8",
+  "abilityCatalogFetchedAt": "2026-10-12T21:23:52.396Z",
+  "provenance": {
+    "kind": "existing_public_parsed_match_sample",
+    "population": "Recent OpenDota league matches with parsed safelane Juggernaut; not the D2PT 7000+ MMR population",
+    "roleFilter": "hero_id=8, lane_role=1, not roaming, position_est=1 when present",
+    "patchFilter": 60,
+    "sampleMatchIds": [
+      9041226872,
+      9038875358,
+      9037706769,
+      9037578078,
+      9016945136,
+      9014046952,
+      9013108339,
+      9011805832,
+      9011095081,
+      9011086940,
+      9007700576,
+      8997487287
+    ],
+    "sourceUrls": [
+      "https://api.opendota.com/api/matches/9041226872",
+      "https://api.opendota.com/api/matches/9038875358",
+      "https://api.opendota.com/api/matches/9037706769",
+      "https://api.opendota.com/api/matches/9037578078",
+      "https://api.opendota.com/api/matches/9016945136",
+      "https://api.opendota.com/api/matches/9014046952",
+      "https://api.opendota.com/api/matches/9013108339",
+      "https://api.opendota.com/api/matches/9011805832",
+      "https://api.opendota.com/api/matches/9011095081",
+      "https://api.opendota.com/api/matches/9011086940",
+      "https://api.opendota.com/api/matches/9007700576",
+      "https://api.opendota.com/api/matches/8997487287"
+    ],
+    "observations": [
+      {
+        "matchId": 9041226872,
+        "startTime": 1791789643,
+        "patchId": 60,
+        "durationSeconds": 1079,
+        "sourceUrl": "https://api.opendota.com/api/matches/9041226872",
+        "replayUrl": "https://www.opendota.com/matches/9041226872",
+        "heroId": 8,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 270,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 1003,
+            "stage": "mid"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 1005,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 21
+            },
+            {
+              "minute": 10,
+              "value": 44
+            },
+            {
+              "minute": 15,
+              "value": 75
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2491
+            },
+            {
+              "minute": 10,
+              "value": 3917
+            },
+            {
+              "minute": 15,
+              "value": 5522
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 131,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1850,
+            "lastHits10": 9
+          },
+          {
+            "enemyHeroId": 78,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4517,
+            "lastHits10": 56
+          }
+        ],
+        "purchaseLogSha256": "45e5989a9b125306be9332d7ba6053a2b6607d0c86ade40c70cd495bc2eab6ee",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9041226872,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9038875358,
+        "startTime": 1791662674,
+        "patchId": 60,
+        "durationSeconds": 1608,
+        "sourceUrl": "https://api.opendota.com/api/matches/9038875358",
+        "replayUrl": "https://www.opendota.com/matches/9038875358",
+        "heroId": 8,
+        "leagueId": 20334,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 66,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 314,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 797,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 975,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1129,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1437,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 28
+            },
+            {
+              "minute": 10,
+              "value": 57
+            },
+            {
+              "minute": 15,
+              "value": 112
+            },
+            {
+              "minute": 20,
+              "value": 205
+            },
+            {
+              "minute": 25,
+              "value": 296
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2140
+            },
+            {
+              "minute": 10,
+              "value": 3984
+            },
+            {
+              "minute": 15,
+              "value": 7604
+            },
+            {
+              "minute": 20,
+              "value": 11984
+            },
+            {
+              "minute": 25,
+              "value": 17331
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 110,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3254,
+            "lastHits10": 34
+          },
+          {
+            "enemyHeroId": 88,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1639,
+            "lastHits10": 3
+          }
+        ],
+        "purchaseLogSha256": "1e4cf32ac9f931b4a8b2f83ec4770d10e03612093c4662c0de55754662d31855",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown",
+              "abilityId": 1787,
+              "label": "-15s Omnislash Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9038875358,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9037706769,
+        "startTime": 1791620812,
+        "patchId": 60,
+        "durationSeconds": 737,
+        "sourceUrl": "https://api.opendota.com/api/matches/9037706769",
+        "replayUrl": "https://www.opendota.com/matches/9037706769",
+        "heroId": 8,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "magic_wand",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 577,
+            "stage": "early"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 14
+            },
+            {
+              "minute": 10,
+              "value": 44
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1496
+            },
+            {
+              "minute": 10,
+              "value": 2785
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 51,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 2182,
+            "lastHits10": 6
+          },
+          {
+            "enemyHeroId": 36,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 5627,
+            "lastHits10": 76
+          }
+        ],
+        "purchaseLogSha256": "cc8b03fdb4f42e8ad989497adfe143e1aa5ec455a8d5ff5125491da7823ee90a",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9037706769,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9037706769,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9037706769,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9037706769,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9037706769,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9037706769,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9037706769,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9037578078,
+        "startTime": 1791612032,
+        "patchId": 60,
+        "durationSeconds": 2886,
+        "sourceUrl": "https://api.opendota.com/api/matches/9037578078",
+        "replayUrl": "https://www.opendota.com/matches/9037578078",
+        "heroId": 8,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 224,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 375,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 777,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 1024,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1236,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1536,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1662,
+            "stage": "mid"
+          },
+          {
+            "key": "diffusal_blade",
+            "timeSeconds": 1785,
+            "stage": "mid"
+          },
+          {
+            "key": "disperser",
+            "timeSeconds": 1937,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2159,
+            "stage": "late"
+          },
+          {
+            "key": "sange",
+            "timeSeconds": 2690,
+            "stage": "late"
+          },
+          {
+            "key": "abyssal_blade",
+            "timeSeconds": 2717,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 2775,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 20
+            },
+            {
+              "minute": 10,
+              "value": 69
+            },
+            {
+              "minute": 15,
+              "value": 129
+            },
+            {
+              "minute": 20,
+              "value": 192
+            },
+            {
+              "minute": 25,
+              "value": 305
+            },
+            {
+              "minute": 30,
+              "value": 388
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2104
+            },
+            {
+              "minute": 10,
+              "value": 4764
+            },
+            {
+              "minute": 15,
+              "value": 7481
+            },
+            {
+              "minute": 20,
+              "value": 10726
+            },
+            {
+              "minute": 25,
+              "value": 15652
+            },
+            {
+              "minute": 30,
+              "value": 20953
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 69,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 2739,
+            "lastHits10": 37
+          }
+        ],
+        "purchaseLogSha256": "dc54fcd797f1bde87455091e63ec02d3ee8c0f3fcbdda5009ac39eb1bb0d51f8",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_blade_fury_movespeed",
+              "abilityId": 1192,
+              "label": "45 Movement Speed During Blade Fury",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 21,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 21,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 22,
+              "abilityKey": "special_bonus_unique_juggernaut_4",
+              "abilityId": 7394,
+              "label": "+15% Blade Dance Crit Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 25,
+              "sourceMatchId": 9037578078,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": [
+            730,
+            730,
+            730,
+            730,
+            730,
+            730,
+            730
+          ]
+        }
+      },
+      {
+        "matchId": 9016945136,
+        "startTime": 1790425535,
+        "patchId": 60,
+        "durationSeconds": 5525,
+        "sourceUrl": "https://api.opendota.com/api/matches/9016945136",
+        "replayUrl": "https://www.opendota.com/matches/9016945136",
+        "heroId": 8,
+        "leagueId": 20176,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 333,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 515,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 865,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 1068,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1246,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1530,
+            "stage": "mid"
+          },
+          {
+            "key": "diffusal_blade",
+            "timeSeconds": 1672,
+            "stage": "mid"
+          },
+          {
+            "key": "disperser",
+            "timeSeconds": 1867,
+            "stage": "late"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1946,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2145,
+            "stage": "late"
+          },
+          {
+            "key": "skadi",
+            "timeSeconds": 2557,
+            "stage": "late"
+          },
+          {
+            "key": "ultimate_scepter",
+            "timeSeconds": 3058,
+            "stage": "late"
+          },
+          {
+            "key": "moon_shard",
+            "timeSeconds": 3486,
+            "stage": "late"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 3804,
+            "stage": "late"
+          },
+          {
+            "key": "sange",
+            "timeSeconds": 4214,
+            "stage": "late"
+          },
+          {
+            "key": "abyssal_blade",
+            "timeSeconds": 4214,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 20
+            },
+            {
+              "minute": 10,
+              "value": 58
+            },
+            {
+              "minute": 15,
+              "value": 136
+            },
+            {
+              "minute": 20,
+              "value": 216
+            },
+            {
+              "minute": 25,
+              "value": 331
+            },
+            {
+              "minute": 30,
+              "value": 457
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1914
+            },
+            {
+              "minute": 10,
+              "value": 3892
+            },
+            {
+              "minute": 15,
+              "value": 6595
+            },
+            {
+              "minute": 20,
+              "value": 10598
+            },
+            {
+              "minute": 25,
+              "value": 15675
+            },
+            {
+              "minute": 30,
+              "value": 21143
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 121,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1797,
+            "lastHits10": 19
+          },
+          {
+            "enemyHeroId": 12,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4685,
+            "lastHits10": 74
+          }
+        ],
+        "purchaseLogSha256": "b260dc608cef357329554cb757c6eddabc289ac86346996a8299b62daf36e802",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_blade_fury_movespeed",
+              "abilityId": 1192,
+              "label": "45 Movement Speed During Blade Fury",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 22,
+              "abilityKey": "special_bonus_unique_juggernaut_4",
+              "abilityId": 7394,
+              "label": "+15% Blade Dance Crit Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 23,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 23,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 25,
+              "sourceMatchId": 9016945136,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": [
+            730,
+            730,
+            730,
+            730,
+            730,
+            730,
+            730
+          ]
+        }
+      },
+      {
+        "matchId": 9014046952,
+        "startTime": 1790261122,
+        "patchId": 60,
+        "durationSeconds": 1580,
+        "sourceUrl": "https://api.opendota.com/api/matches/9014046952",
+        "replayUrl": "https://www.opendota.com/matches/9014046952",
+        "heroId": 8,
+        "leagueId": 20176,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -87,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -82,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -81,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -81,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -80,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 334,
+            "stage": "early"
+          },
+          {
+            "key": "wraith_band",
+            "timeSeconds": 440,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 882,
+            "stage": "mid"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 975,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 1103,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1248,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 22
+            },
+            {
+              "minute": 10,
+              "value": 38
+            },
+            {
+              "minute": 15,
+              "value": 84
+            },
+            {
+              "minute": 20,
+              "value": 182
+            },
+            {
+              "minute": 25,
+              "value": 234
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2028
+            },
+            {
+              "minute": 10,
+              "value": 3664
+            },
+            {
+              "minute": 15,
+              "value": 6497
+            },
+            {
+              "minute": 20,
+              "value": 11012
+            },
+            {
+              "minute": 25,
+              "value": 15250
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 29,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3519,
+            "lastHits10": 33
+          },
+          {
+            "enemyHeroId": 131,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1680,
+            "lastHits10": 6
+          }
+        ],
+        "purchaseLogSha256": "d9bda411d2e8da1dcacb6ed6f4b8e329bda4e02266a34e0885e15e4390d296e4",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_blade_fury_movespeed",
+              "abilityId": 1192,
+              "label": "45 Movement Speed During Blade Fury",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9014046952,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9013108339,
+        "startTime": 1790193827,
+        "patchId": 60,
+        "durationSeconds": 3360,
+        "sourceUrl": "https://api.opendota.com/api/matches/9013108339",
+        "replayUrl": "https://www.opendota.com/matches/9013108339",
+        "heroId": 8,
+        "leagueId": 20176,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 353,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 750,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 998,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1166,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1488,
+            "stage": "mid"
+          },
+          {
+            "key": "skadi",
+            "timeSeconds": 1880,
+            "stage": "late"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 2056,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2475,
+            "stage": "late"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 2614,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 25
+            },
+            {
+              "minute": 10,
+              "value": 76
+            },
+            {
+              "minute": 15,
+              "value": 167
+            },
+            {
+              "minute": 20,
+              "value": 254
+            },
+            {
+              "minute": 25,
+              "value": 353
+            },
+            {
+              "minute": 30,
+              "value": 436
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2111
+            },
+            {
+              "minute": 10,
+              "value": 4405
+            },
+            {
+              "minute": 15,
+              "value": 7170
+            },
+            {
+              "minute": 20,
+              "value": 10633
+            },
+            {
+              "minute": 25,
+              "value": 15780
+            },
+            {
+              "minute": 30,
+              "value": 20963
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 155,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4180,
+            "lastHits10": 63
+          }
+        ],
+        "purchaseLogSha256": "f2f42e7511f2f5056351dd71dc4db6a25f72cf41e693031d15a6390b6ea40bca",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown",
+              "abilityId": 1787,
+              "label": "-15s Omnislash Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 22,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 23,
+              "abilityKey": "special_bonus_unique_juggernaut_4",
+              "abilityId": 7394,
+              "label": "+15% Blade Dance Crit Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 23,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 24,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 24,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 25,
+              "sourceMatchId": 9013108339,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": [
+            730,
+            730,
+            730,
+            730,
+            730,
+            730,
+            730
+          ]
+        }
+      },
+      {
+        "matchId": 9011805832,
+        "startTime": 1790113059,
+        "patchId": 60,
+        "durationSeconds": 1828,
+        "sourceUrl": "https://api.opendota.com/api/matches/9011805832",
+        "replayUrl": "https://www.opendota.com/matches/9011805832",
+        "heroId": 8,
+        "leagueId": 20176,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 253,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 466,
+            "stage": "early"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 621,
+            "stage": "mid"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 991,
+            "stage": "mid"
+          },
+          {
+            "key": "sange",
+            "timeSeconds": 1116,
+            "stage": "mid"
+          },
+          {
+            "key": "sange_and_yasha",
+            "timeSeconds": 1116,
+            "stage": "mid"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 1627,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 35
+            },
+            {
+              "minute": 10,
+              "value": 81
+            },
+            {
+              "minute": 15,
+              "value": 152
+            },
+            {
+              "minute": 20,
+              "value": 252
+            },
+            {
+              "minute": 25,
+              "value": 311
+            },
+            {
+              "minute": 30,
+              "value": 402
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2649
+            },
+            {
+              "minute": 10,
+              "value": 5112
+            },
+            {
+              "minute": 15,
+              "value": 7501
+            },
+            {
+              "minute": 20,
+              "value": 11548
+            },
+            {
+              "minute": 25,
+              "value": 13565
+            },
+            {
+              "minute": 30,
+              "value": 17154
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 55,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 6216,
+            "lastHits10": 118
+          }
+        ],
+        "purchaseLogSha256": "15f53faf56f0d1786a72f480515b319407e2e2feea3dd2fe437661d0a10edf3c",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 17,
+              "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown",
+              "abilityId": 1787,
+              "label": "-15s Omnislash Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_juggernaut_4",
+              "abilityId": 7394,
+              "label": "+15% Blade Dance Crit Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9011805832,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9011095081,
+        "startTime": 1790083894,
+        "patchId": 60,
+        "durationSeconds": 2186,
+        "sourceUrl": "https://api.opendota.com/api/matches/9011095081",
+        "replayUrl": "https://www.opendota.com/matches/9011095081",
+        "heroId": 8,
+        "leagueId": 20176,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 374,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 917,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 1161,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1487,
+            "stage": "mid"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 1532,
+            "stage": "mid"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 1931,
+            "stage": "late"
+          },
+          {
+            "key": "diffusal_blade",
+            "timeSeconds": 2177,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 23
+            },
+            {
+              "minute": 10,
+              "value": 62
+            },
+            {
+              "minute": 15,
+              "value": 118
+            },
+            {
+              "minute": 20,
+              "value": 179
+            },
+            {
+              "minute": 25,
+              "value": 222
+            },
+            {
+              "minute": 30,
+              "value": 308
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1781
+            },
+            {
+              "minute": 10,
+              "value": 3277
+            },
+            {
+              "minute": 15,
+              "value": 5738
+            },
+            {
+              "minute": 20,
+              "value": 8841
+            },
+            {
+              "minute": 25,
+              "value": 10820
+            },
+            {
+              "minute": 30,
+              "value": 13981
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 100,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 2425,
+            "lastHits10": 13
+          },
+          {
+            "enemyHeroId": 43,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 5669,
+            "lastHits10": 78
+          }
+        ],
+        "purchaseLogSha256": "602a3209600a9b151cf70a041e4698b389afd011f1b93f83fda1a08926699364",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_blade_fury_movespeed",
+              "abilityId": 1192,
+              "label": "45 Movement Speed During Blade Fury",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 22,
+              "abilityKey": "special_bonus_unique_juggernaut_4",
+              "abilityId": 7394,
+              "label": "+15% Blade Dance Crit Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 23,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 23,
+              "sourceMatchId": 9011095081,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": [
+            730,
+            730,
+            730,
+            730,
+            730,
+            730,
+            730
+          ]
+        }
+      },
+      {
+        "matchId": 9011086940,
+        "startTime": 1790083590,
+        "patchId": 60,
+        "durationSeconds": 2545,
+        "sourceUrl": "https://api.opendota.com/api/matches/9011086940",
+        "replayUrl": "https://www.opendota.com/matches/9011086940",
+        "heroId": 8,
+        "leagueId": 20176,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 200,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 744,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 905,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1097,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1560,
+            "stage": "mid"
+          },
+          {
+            "key": "ultimate_scepter",
+            "timeSeconds": 2233,
+            "stage": "late"
+          },
+          {
+            "key": "sange",
+            "timeSeconds": 2525,
+            "stage": "late"
+          },
+          {
+            "key": "abyssal_blade",
+            "timeSeconds": 2529,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 27
+            },
+            {
+              "minute": 10,
+              "value": 68
+            },
+            {
+              "minute": 15,
+              "value": 140
+            },
+            {
+              "minute": 20,
+              "value": 210
+            },
+            {
+              "minute": 25,
+              "value": 283
+            },
+            {
+              "minute": 30,
+              "value": 363
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2840
+            },
+            {
+              "minute": 10,
+              "value": 4953
+            },
+            {
+              "minute": 15,
+              "value": 8015
+            },
+            {
+              "minute": 20,
+              "value": 11165
+            },
+            {
+              "minute": 25,
+              "value": 15256
+            },
+            {
+              "minute": 30,
+              "value": 19647
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 77,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3558,
+            "lastHits10": 45
+          },
+          {
+            "enemyHeroId": 71,
+            "positionEstimate": 5,
+            "laneRole": 3,
+            "netWorth10": 1704,
+            "lastHits10": 1
+          }
+        ],
+        "purchaseLogSha256": "80360d9bcb2e0e425b81d1c54048f97e981e6cd04b66d83e9f5697623f503811",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_blade_fury_movespeed",
+              "abilityId": 1192,
+              "label": "45 Movement Speed During Blade Fury",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 22,
+              "abilityKey": "special_bonus_unique_juggernaut_4",
+              "abilityId": 7394,
+              "label": "+15% Blade Dance Crit Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 23,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 23,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 24,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 24,
+              "sourceMatchId": 9011086940,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": [
+            730,
+            730,
+            730,
+            730,
+            730,
+            730
+          ]
+        }
+      },
+      {
+        "matchId": 9007700576,
+        "startTime": 1789892471,
+        "patchId": 60,
+        "durationSeconds": 2185,
+        "sourceUrl": "https://api.opendota.com/api/matches/9007700576",
+        "replayUrl": "https://www.opendota.com/matches/9007700576",
+        "heroId": 8,
+        "leagueId": 20279,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 316,
+            "stage": "early"
+          },
+          {
+            "key": "phase_boots",
+            "timeSeconds": 316,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 743,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 964,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1172,
+            "stage": "mid"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 1475,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1563,
+            "stage": "mid"
+          },
+          {
+            "key": "skadi",
+            "timeSeconds": 1840,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2072,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 34
+            },
+            {
+              "minute": 10,
+              "value": 71
+            },
+            {
+              "minute": 15,
+              "value": 120
+            },
+            {
+              "minute": 20,
+              "value": 189
+            },
+            {
+              "minute": 25,
+              "value": 262
+            },
+            {
+              "minute": 30,
+              "value": 356
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2285
+            },
+            {
+              "minute": 10,
+              "value": 5000
+            },
+            {
+              "minute": 15,
+              "value": 7794
+            },
+            {
+              "minute": 20,
+              "value": 11352
+            },
+            {
+              "minute": 25,
+              "value": 16585
+            },
+            {
+              "minute": 30,
+              "value": 22396
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 62,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1562,
+            "lastHits10": 5
+          },
+          {
+            "enemyHeroId": 110,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3575,
+            "lastHits10": 54
+          }
+        ],
+        "purchaseLogSha256": "2719e213b7257aa60aefbc7f7a5498bffe1811fd67ede48845a6d4573a098338",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_omnislash_cooldown",
+              "abilityId": 1787,
+              "label": "-15s Omnislash Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_juggernaut_4",
+              "abilityId": 7394,
+              "label": "+15% Blade Dance Crit Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_juggernaut_blade_dance_lifesteal",
+              "abilityId": 915,
+              "label": "+40% Blade Dance Lifesteal",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9007700576,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8997487287,
+        "startTime": 1789317252,
+        "patchId": 60,
+        "durationSeconds": 2446,
+        "sourceUrl": "https://api.opendota.com/api/matches/8997487287",
+        "replayUrl": "https://www.opendota.com/matches/8997487287",
+        "heroId": 8,
+        "leagueId": 20159,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 8,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "circlet",
+            "timeSeconds": -86,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -86,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -85,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -85,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 276,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 795,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 1006,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1249,
+            "stage": "mid"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 1275,
+            "stage": "mid"
+          },
+          {
+            "key": "diffusal_blade",
+            "timeSeconds": 1461,
+            "stage": "mid"
+          },
+          {
+            "key": "disperser",
+            "timeSeconds": 1662,
+            "stage": "mid"
+          },
+          {
+            "key": "skadi",
+            "timeSeconds": 2010,
+            "stage": "late"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 2110,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2231,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 28
+            },
+            {
+              "minute": 10,
+              "value": 82
+            },
+            {
+              "minute": 15,
+              "value": 156
+            },
+            {
+              "minute": 20,
+              "value": 224
+            },
+            {
+              "minute": 25,
+              "value": 280
+            },
+            {
+              "minute": 30,
+              "value": 391
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 57,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 56
+          }
+        ],
+        "purchaseLogSha256": "f8959856fc2a8abe4792189962286b11951725cbf5f16f13f26325d38d86d669",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "juggernaut_blade_fury",
+              "abilityId": 5028,
+              "label": "Blade Fury",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_juggernaut_3",
+              "abilityId": 7021,
+              "label": "-1s Bladeform Stack Gain Interval",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "juggernaut_blade_dance",
+              "abilityId": 5027,
+              "label": "Blade Dance",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_juggernaut_blade_fury_movespeed",
+              "abilityId": 1192,
+              "label": "45 Movement Speed During Blade Fury",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "juggernaut_omni_slash",
+              "abilityId": 5030,
+              "label": "Omnislash",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 20,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 21,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 21,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 22,
+              "abilityKey": "special_bonus_unique_juggernaut_4",
+              "abilityId": 7394,
+              "label": "+15% Blade Dance Crit Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 23,
+              "abilityKey": "juggernaut_healing_ward",
+              "abilityId": 5029,
+              "label": "Healing Ward",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 23,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_juggernaut_omnislash_duration",
+              "abilityId": 1013,
+              "label": "+1s Omnislash Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 24,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_juggernaut_5",
+              "abilityId": 628,
+              "label": "-12s Healing Ward Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 25,
+              "sourceMatchId": 8997487287,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": [
+            730,
+            730,
+            730,
+            730,
+            730
+          ]
+        }
+      }
+    ],
+    "benchmarkMethod": "Linear-interpolated empirical quantiles from exact times/lh_t/networth_t checkpoints; gold_t is never substituted for net worth",
+    "buildMethod": "Group observed first two major purchases; show newest actual purchase log in the largest group. Timings are that match, not a universal target.",
+    "skillMethod": "Recorded ability_upgrades_arr from the same representative match, mapped by exact current Valve ability IDs. Array-only levels are an earliest-legal reconstruction, not recorded hero levels; innate abilities are excluded."
+  },
+  "caveats": [
+    "Dota2ProTracker is a browsing reference only; this cached dataset comes from the public OpenDota API.",
+    "OpenDota patch IDs identify base patches and cannot verify the current minor-letter patch.",
+    "This is a small observational sample with the actual date range shown, not a current-patch meta guarantee.",
+    "Missing or unparsed replays, role inference, match duration, and the league population introduce selection bias.",
+    "Farm quantiles describe these samples; personal farm targets remain separate and editable.",
+    "A purchase in a winning match does not establish the best item for this matchup.",
+    "Skill order is observed; levels reconstructed from an upgrade array may differ if the player saved skill points. The current Valve ability catalog does not verify the match minor patch."
+  ],
+  "validation": {
+    "attemptedMatches": 12,
+    "retainedCarries": 12,
+    "fetchErrors": []
+  }
+}

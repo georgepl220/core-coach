@@ -1,0 +1,241 @@
+{
+  "regressionAssertions": "passed",
+  "results": [
+    {
+      "name": "img_dire_1200_jpg.rf.c91150d8e4e567ecdee817615f0b252f.jpg",
+      "milliseconds": 176.5,
+      "fullComparisons": 17814,
+      "templateCount": 127,
+      "heroes": [],
+      "roster": [],
+      "uncertainColorMarkers": 22
+    },
+    {
+      "name": "img_radiant_1200_jpg.rf.2187c8a13c5eb590b3314b6990656cc8.jpg",
+      "milliseconds": 135,
+      "fullComparisons": 17930,
+      "templateCount": 127,
+      "heroes": [],
+      "roster": [],
+      "uncertainColorMarkers": 31
+    },
+    {
+      "name": "img_radiant_1402_jpg.rf.2076f8a3742212d3fdeb31c0e75df201.jpg",
+      "milliseconds": 130.1,
+      "fullComparisons": 17811,
+      "templateCount": 127,
+      "heroes": [],
+      "roster": [],
+      "uncertainColorMarkers": 36
+    },
+    {
+      "name": "controlled-real-Valve-icons-at-22px",
+      "milliseconds": 90.6,
+      "fullComparisons": 20704,
+      "templateCount": 127,
+      "heroes": [
+        {
+          "id": 1,
+          "name": "Anti-Mage",
+          "confidence": 0.985,
+          "x": 0.6014492753623188,
+          "y": 0.6521739130434783
+        },
+        {
+          "id": 42,
+          "name": "Wraith King",
+          "confidence": 0.979,
+          "x": 0.16666666666666666,
+          "y": 0.21014492753623187
+        }
+      ],
+      "roster": [],
+      "uncertainColorMarkers": 0
+    },
+    {
+      "name": "controlled-restricted-10-heroes",
+      "milliseconds": 22.3,
+      "fullComparisons": 3070,
+      "templateCount": 10,
+      "heroes": [
+        {
+          "id": 1,
+          "name": "Anti-Mage",
+          "confidence": 0.985,
+          "x": 0.6014492753623188,
+          "y": 0.6521739130434783
+        },
+        {
+          "id": 42,
+          "name": "Wraith King",
+          "confidence": 0.979,
+          "x": 0.16666666666666666,
+          "y": 0.21014492753623187
+        }
+      ],
+      "roster": [],
+      "uncertainColorMarkers": 0
+    },
+    {
+      "name": "controlled-identical-WK-template-ambiguity",
+      "milliseconds": 102,
+      "fullComparisons": 20600,
+      "templateCount": 128,
+      "heroes": [
+        {
+          "id": 1,
+          "name": "Anti-Mage",
+          "confidence": 0.985,
+          "x": 0.6014492753623188,
+          "y": 0.6521739130434783
+        }
+      ],
+      "roster": [],
+      "uncertainColorMarkers": 1
+    },
+    {
+      "name": "controlled-real-Valve-portraits-stretched47x32-cropped44x28",
+      "milliseconds": 309.8,
+      "fullComparisons": 0,
+      "templateCount": 0,
+      "heroes": [],
+      "roster": [
+        {
+          "index": 0,
+          "hero": {
+            "id": 42,
+            "name": "Wraith King",
+            "confidence": 0.9951432823538549,
+            "margin": 0.34542251201212515
+          },
+          "bestSimilarity": 0.9951432823538549
+        },
+        {
+          "index": 1,
+          "hero": {
+            "id": 1,
+            "name": "Anti-Mage",
+            "confidence": 0.9944799117429353,
+            "margin": 0.4569023415698187
+          },
+          "bestSimilarity": 0.9944799117429353
+        }
+      ],
+      "uncertainColorMarkers": 0
+    },
+    {
+      "name": "controlled-identical-WK-portrait-ambiguity",
+      "milliseconds": 13.1,
+      "fullComparisons": 0,
+      "templateCount": 0,
+      "heroes": [],
+      "roster": [
+        {
+          "index": 0,
+          "hero": null,
+          "bestSimilarity": 0.9951432823538549
+        },
+        {
+          "index": 1,
+          "hero": {
+            "id": 1,
+            "name": "Anti-Mage",
+            "confidence": 0.9944799117429353,
+            "margin": 0.4569023415698187
+          },
+          "bestSimilarity": 0.9944799117429353
+        }
+      ],
+      "uncertainColorMarkers": 0
+    }
+  ],
+  "exactScores": [
+    {
+      "id": 42,
+      "score": 0.9790317914310656,
+      "distance": 0.03309933026708626,
+      "contrast": 60.87552294900547,
+      "neighbors": [
+        {
+          "dx": -2,
+          "score": 0.37549021302227414,
+          "distance": 0.21628338578229647,
+          "contrast": 57.13018895825808,
+          "anchorDistance": 0.22334267040149394
+        },
+        {
+          "dx": -1,
+          "score": 0.5035681628152221,
+          "distance": 0.1897845557976277,
+          "contrast": 63.572912065092986,
+          "anchorDistance": 0.18057889822595705
+        },
+        {
+          "dx": 0,
+          "score": 0.9790317914310656,
+          "distance": 0.03309933026708626,
+          "contrast": 60.87552294900547,
+          "anchorDistance": 0.04593837535014006
+        },
+        {
+          "dx": 1,
+          "score": 0.5140415814033907,
+          "distance": 0.20358266763495522,
+          "contrast": 63.08470867621749,
+          "anchorDistance": 0.1469654528478058
+        },
+        {
+          "dx": 2,
+          "score": 0.3918533512138058,
+          "distance": 0.2121842975873477,
+          "contrast": 57.867335302213,
+          "anchorDistance": 0.23025210084033615
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "score": 0.9846719544168798,
+      "distance": 0.024821039526921877,
+      "contrast": 48.65696573914975,
+      "neighbors": [
+        {
+          "dx": -2,
+          "score": 0.5227784620624765,
+          "distance": 0.15655150949268595,
+          "contrast": 49.818834520597505,
+          "anchorDistance": 0.16339869281045752
+        },
+        {
+          "dx": -1,
+          "score": 0.5467220483393277,
+          "distance": 0.15214752567693746,
+          "contrast": 51.72878766136987,
+          "anchorDistance": 0.11148459383753502
+        },
+        {
+          "dx": 0,
+          "score": 0.9846719544168798,
+          "distance": 0.024821039526921877,
+          "contrast": 48.65696573914975,
+          "anchorDistance": 0.02819794584500467
+        },
+        {
+          "dx": 1,
+          "score": 0.5662095307461202,
+          "distance": 0.1514628073451603,
+          "contrast": 50.554703962327466,
+          "anchorDistance": 0.23323996265172736
+        },
+        {
+          "dx": 2,
+          "score": 0.5061665552879341,
+          "distance": 0.1610644257703081,
+          "contrast": 51.61495519491655,
+          "anchorDistance": 0.2181139122315593
+        }
+      ]
+    }
+  ],
+  "caveat": "Dota2-Vis annotations contain player colors/clones, not hero IDs; these measurements do not establish hero recognition accuracy."
+}

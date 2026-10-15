@@ -1,0 +1,125 @@
+{
+  "kind": "personal",
+  "heroId": 48,
+  "description": "Редактируемый пример для Luna по последовательности покупок и навыков матча 9042082112. Это личный план, а не гарантия текущей меты. Уровни навыков восстановлены как минимально допустимые; их можно менять под линию.",
+  "exampleSourceUrl": "https://www.opendota.com/matches/9042082112",
+  "build": {
+    "role": "carry",
+    "items": [
+      {
+        "key": "branches",
+        "phase": "start"
+      },
+      {
+        "key": "magic_stick",
+        "phase": "start"
+      },
+      {
+        "key": "circlet",
+        "phase": "start"
+      },
+      {
+        "key": "faerie_fire",
+        "phase": "start"
+      },
+      {
+        "key": "quelling_blade",
+        "phase": "start"
+      },
+      {
+        "key": "tango",
+        "phase": "start"
+      },
+      {
+        "key": "power_treads",
+        "phase": "early"
+      },
+      {
+        "key": "mask_of_madness",
+        "phase": "early"
+      },
+      {
+        "key": "yasha",
+        "phase": "mid"
+      },
+      {
+        "key": "manta",
+        "phase": "mid"
+      },
+      {
+        "key": "blink",
+        "phase": "mid"
+      },
+      {
+        "key": "black_king_bar",
+        "phase": "mid"
+      }
+    ],
+    "skills": [
+      {
+        "heroLevel": 1,
+        "abilityKey": "luna_lucent_beam"
+      },
+      {
+        "heroLevel": 2,
+        "abilityKey": "luna_moon_glaive"
+      },
+      {
+        "heroLevel": 3,
+        "abilityKey": "luna_lucent_beam"
+      },
+      {
+        "heroLevel": 4,
+        "abilityKey": "luna_moon_glaive"
+      },
+      {
+        "heroLevel": 5,
+        "abilityKey": "luna_lunar_orbit"
+      },
+      {
+        "heroLevel": 6,
+        "abilityKey": "luna_eclipse"
+      },
+      {
+        "heroLevel": 7,
+        "abilityKey": "luna_moon_glaive"
+      },
+      {
+        "heroLevel": 8,
+        "abilityKey": "luna_moon_glaive"
+      },
+      {
+        "heroLevel": 9,
+        "abilityKey": "luna_lucent_beam"
+      },
+      {
+        "heroLevel": 10,
+        "abilityKey": "special_bonus_unique_luna_7"
+      },
+      {
+        "heroLevel": 11,
+        "abilityKey": "luna_lucent_beam"
+      },
+      {
+        "heroLevel": 12,
+        "abilityKey": "luna_lunar_orbit"
+      },
+      {
+        "heroLevel": 13,
+        "abilityKey": "luna_eclipse"
+      },
+      {
+        "heroLevel": 14,
+        "abilityKey": "luna_lunar_orbit"
+      },
+      {
+        "heroLevel": 15,
+        "abilityKey": "luna_lunar_orbit"
+      },
+      {
+        "heroLevel": 16,
+        "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count"
+      }
+    ]
+  }
+}

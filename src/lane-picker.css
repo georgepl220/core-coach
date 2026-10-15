@@ -1,0 +1,45 @@
+/* Picking three known portraits should take three clicks. */
+.lane-member{width:100%;text-align:left;transition:background .15s,border-color .15s}
+.lane-member:hover{background:#26334a;border-color:#8ebbb5}
+.lane-member.manual{border-color:#5d998f;background:linear-gradient(110deg,#213c3c,#1b283a)}
+.lane-member .lane-member-origin{display:block;margin-top:5px;font-size:6px;letter-spacing:.65px;color:#7792ad;white-space:nowrap}
+.lane-member.manual .lane-member-origin{color:#a8e0cd}
+.lane-selection-toolbar{display:flex;align-items:center;justify-content:space-between;gap:15px;margin:10px 0 0}
+.lane-selection-toolbar>div:first-child{display:flex;flex-direction:column;gap:3px}
+.lane-selection-mode{font-size:8px;color:#85b6ac}
+.lane-selection-actions{display:flex;align-items:center;gap:12px;flex-shrink:0}
+.lane-selection-actions .secondary{padding:7px 11px}
+.lane-selection-actions .text-button{font-size:9px}
+.supported-hero label{display:block;font-size:7px;letter-spacing:1.2px;color:#8d9dbd;margin-bottom:7px}
+.supported-hero select{width:180px;max-width:100%;background:#17253a;border:1px solid #52637d;border-radius:5px;color:#ade3d3;padding:7px 9px;font-size:12px}
+.supported-hero select:disabled{opacity:.85}
+.supported-hero small{display:block;color:#859bb8;font-size:8px;margin-top:6px;max-width:190px}
+.supported-hero strong[hidden]{display:none}
+#lane-picker-dialog{width:650px;max-width:calc(100vw - 40px);padding:24px;overflow-y:auto}
+#lane-picker-dialog h2{font-size:23px;margin:7px 0}
+#lane-picker-help{margin:12px 0 17px}
+.lane-picker-slots{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0 0 20px}
+.lane-picker-slot{display:flex;gap:8px;align-items:center;text-align:left;min-width:0;padding:9px 8px;background:#111c2d;border:1px solid #304762;border-radius:7px;color:#b8cadf}
+.lane-picker-slot.active{background:#244346;border-color:#9bdacb;box-shadow:0 0 0 1px #93d5c22d}
+.lane-picker-slot.enemy.active{background:#3c3036;border-color:#d4a49c}
+.lane-picker-slot img,.slot-question{width:39px;height:28px;object-fit:cover;border-radius:4px;flex-shrink:0}
+.slot-question{display:grid;place-items:center;background:#152238;color:#85a4c3;font-size:19px;border:1px solid #45607b}
+.lane-picker-slot>span:last-child{min-width:0}
+.lane-picker-slot small{display:block;font-size:6px;letter-spacing:.9px;color:#92aac4;margin-bottom:5px}
+.lane-picker-slot strong{display:block;font-size:9px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lane-team-choices{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.lane-team-choice{position:relative;text-align:left;padding:0 0 10px;overflow:hidden;border:1px solid #415b75;border-radius:8px;background:#1c2b41;color:#ccd9e9;min-width:0}
+.lane-team-choice img{display:block;width:100%;aspect-ratio:1.63;object-fit:cover}
+.lane-team-choice>span{display:block;padding:9px 8px 0;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;font-size:10px}
+.lane-team-choice>small{display:block;font-size:6px;line-height:1.4;color:#ccb3a6;padding:7px 8px 0}
+.lane-team-choice:hover{background:#2c4258;border-color:#a5dbd0}
+.lane-team-choice.selected{border-color:#a2e2cf;box-shadow:0 0 0 1px #a2e2cf}
+.lane-team-choice.selected:after{content:'✓';position:absolute;right:5px;top:5px;width:17px;height:17px;background:#a4e3cf;color:#122c26;display:grid;place-items:center;font-size:11px;border-radius:4px}
+#lane-picker-catalog{margin-top:20px;padding-top:14px;border-top:1px solid #31455e}
+#lane-picker-catalog summary{color:#8eadc9;font-size:10px;cursor:pointer}
+#lane-picker-catalog summary:hover{color:#b8e2d6}
+#lane-picker-catalog .search{margin-top:13px}
+#lane-picker-catalog .hero-grid{max-height:200px}
+.lane-picker-footer{margin-top:16px;display:flex;align-items:center;justify-content:space-between;gap:15px}
+#lane-picker-status{font-size:9px;max-width:320px;text-align:right;overflow-wrap:anywhere}
+@media(max-width:850px){.lane-selection-toolbar{align-items:flex-start}.lane-selection-toolbar .small{font-size:9px}.supported-hero select{width:150px}.lane-team-choices{gap:7px}.lane-selection-actions{gap:8px}.lane-selection-actions .text-button{max-width:100px;text-align:right;line-height:1.5}}

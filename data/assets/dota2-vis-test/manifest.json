@@ -1,0 +1,22 @@
+{
+  "source": "Dota2-Vis",
+  "license": "CC BY-NC-SA 4.0",
+  "fetchedAt": "2026-10-12T09:07:02.114Z",
+  "samples": [
+    {
+      "image": "img_dire_1200_jpg.rf.c91150d8e4e567ecdee817615f0b252f.jpg",
+      "label": "img_dire_1200_jpg.rf.c91150d8e4e567ecdee817615f0b252f.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/RicardoRCarvalho/dota2-vis/main/YOLO/test/images/img_dire_1200_jpg.rf.c91150d8e4e567ecdee817615f0b252f.jpg"
+    },
+    {
+      "image": "img_radiant_1200_jpg.rf.2187c8a13c5eb590b3314b6990656cc8.jpg",
+      "label": "img_radiant_1200_jpg.rf.2187c8a13c5eb590b3314b6990656cc8.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/RicardoRCarvalho/dota2-vis/main/YOLO/test/images/img_radiant_1200_jpg.rf.2187c8a13c5eb590b3314b6990656cc8.jpg"
+    },
+    {
+      "image": "img_radiant_1402_jpg.rf.2076f8a3742212d3fdeb31c0e75df201.jpg",
+      "label": "img_radiant_1402_jpg.rf.2076f8a3742212d3fdeb31c0e75df201.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/RicardoRCarvalho/dota2-vis/main/YOLO/test/images/img_radiant_1402_jpg.rf.2076f8a3742212d3fdeb31c0e75df201.jpg"
+    }
+  ]
+}

@@ -1,0 +1,5606 @@
+{
+  "schemaVersion": 1,
+  "heroId": 18,
+  "role": "carry",
+  "status": "available",
+  "source": "OpenDota recent parsed carry matches",
+  "sourceUrl": "https://api.opendota.com/api/heroes/18/matches",
+  "d2ptReference": "https://dota2protracker.com/hero/Sven",
+  "externalUrl": "https://dota2protracker.com/hero/Sven",
+  "fetchedAt": "2026-10-12T21:23:52.396Z",
+  "sampleCount": 12,
+  "patch": {
+    "id": 60,
+    "name": "7.41",
+    "verified": true,
+    "minorPatchVerified": false,
+    "scope": "Exact OpenDota base patch ID, not a verified minor-letter patch or D2PT patch filter"
+  },
+  "patchVerified": true,
+  "windowText": "2026-10-10 — 2026-10-12",
+  "window": {
+    "from": "2026-10-10T16:20:39.000Z",
+    "to": "2026-10-12T18:14:45.000Z",
+    "lookbackDays": 45
+  },
+  "builds": [
+    {
+      "id": "mask_of_madness-echo_sabre",
+      "matches": 12,
+      "winRate": 0.5,
+      "frequency": 1,
+      "sequence": [
+        {
+          "key": "gauntlets",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 307,
+          "stage": "early"
+        },
+        {
+          "key": "mask_of_madness",
+          "timeSeconds": 477,
+          "stage": "early"
+        },
+        {
+          "key": "echo_sabre",
+          "timeSeconds": 779,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 923,
+          "stage": "mid"
+        },
+        {
+          "key": "greater_crit",
+          "timeSeconds": 1268,
+          "stage": "mid"
+        },
+        {
+          "key": "harpoon",
+          "timeSeconds": 1356,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1504,
+          "stage": "mid"
+        },
+        {
+          "key": "swift_blink",
+          "timeSeconds": 1714,
+          "stage": "mid"
+        },
+        {
+          "key": "satanic",
+          "timeSeconds": 2010,
+          "stage": "late"
+        },
+        {
+          "key": "moon_shard",
+          "timeSeconds": 2393,
+          "stage": "late"
+        },
+        {
+          "key": "desolator",
+          "timeSeconds": 2590,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 9042110151,
+      "representativeDate": "2026-10-12T18:14:45.000Z",
+      "sourceMatchIds": [
+        9042110151,
+        9041797807,
+        9041695741,
+        9041588706,
+        9040850396,
+        9040846694,
+        9040578015,
+        9040276313,
+        9040139971,
+        9040053371,
+        9039556085,
+        9038482233
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "sven_storm_bolt",
+          "abilityId": 5094,
+          "label": "Storm Hammer",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "sven_great_cleave",
+          "abilityId": 5095,
+          "label": "Great Cleave",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "sven_storm_bolt",
+          "abilityId": 5094,
+          "label": "Storm Hammer",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "sven_great_cleave",
+          "abilityId": 5095,
+          "label": "Great Cleave",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "sven_great_cleave",
+          "abilityId": 5095,
+          "label": "Great Cleave",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "sven_gods_strength",
+          "abilityId": 5097,
+          "label": "God's Strength",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "sven_warcry",
+          "abilityId": 5096,
+          "label": "Warcry",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "sven_great_cleave",
+          "abilityId": 5095,
+          "label": "Great Cleave",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "sven_storm_bolt",
+          "abilityId": 5094,
+          "label": "Storm Hammer",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "sven_storm_bolt",
+          "abilityId": 5094,
+          "label": "Storm Hammer",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_sven_5",
+          "abilityId": 673,
+          "label": "+5s Warcry Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "sven_warcry",
+          "abilityId": 5096,
+          "label": "Warcry",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "sven_gods_strength",
+          "abilityId": 5097,
+          "label": "God's Strength",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "sven_warcry",
+          "abilityId": 5096,
+          "label": "Warcry",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "sven_warcry",
+          "abilityId": 5096,
+          "label": "Warcry",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_unique_sven_3",
+          "abilityId": 6911,
+          "label": "-12s God's Strength Cooldown",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "sven_gods_strength",
+          "abilityId": 5097,
+          "label": "God's Strength",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+          "abilityId": 1790,
+          "label": "-25% Storm Hammer Cooldown and Mana Cost",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 25,
+          "abilityKey": "special_bonus_unique_sven_2",
+          "abilityId": 6910,
+          "label": "+50% God's Strength Damage",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 19,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 26,
+          "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+          "abilityId": 1188,
+          "label": "+20% God's Strength Slow Resistance",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 20,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 27,
+          "abilityKey": "special_bonus_unique_sven_8",
+          "abilityId": 763,
+          "label": "+25% Great Cleave Damage",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 21,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 28,
+          "abilityKey": "special_bonus_unique_sven_7",
+          "abilityId": 716,
+          "label": "+8 Warcry Armor",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 22,
+          "sourceMatchId": 9042110151,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9042110151,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    }
+  ],
+  "itemStats": [
+    {
+      "key": "power_treads",
+      "matches": 12,
+      "frequency": 1,
+      "medianTimeSeconds": 343,
+      "p25TimeSeconds": 325,
+      "p75TimeSeconds": 366
+    },
+    {
+      "key": "mask_of_madness",
+      "matches": 12,
+      "frequency": 1,
+      "medianTimeSeconds": 583.5,
+      "p25TimeSeconds": 526.5,
+      "p75TimeSeconds": 616
+    },
+    {
+      "key": "echo_sabre",
+      "matches": 12,
+      "frequency": 1,
+      "medianTimeSeconds": 830.5,
+      "p25TimeSeconds": 776,
+      "p75TimeSeconds": 898.25
+    },
+    {
+      "key": "blink",
+      "matches": 11,
+      "frequency": 0.9166666666666666,
+      "medianTimeSeconds": 968,
+      "p25TimeSeconds": 956.5,
+      "p75TimeSeconds": 1019.5
+    },
+    {
+      "key": "black_king_bar",
+      "matches": 11,
+      "frequency": 0.9166666666666666,
+      "medianTimeSeconds": 1351,
+      "p25TimeSeconds": 1298,
+      "p75TimeSeconds": 1389
+    },
+    {
+      "key": "greater_crit",
+      "matches": 9,
+      "frequency": 0.75,
+      "medianTimeSeconds": 1746,
+      "p25TimeSeconds": 1604,
+      "p75TimeSeconds": 1867
+    },
+    {
+      "key": "harpoon",
+      "matches": 8,
+      "frequency": 0.6666666666666666,
+      "medianTimeSeconds": 1780,
+      "p25TimeSeconds": 1399.5,
+      "p75TimeSeconds": 2034.25
+    },
+    {
+      "key": "swift_blink",
+      "matches": 6,
+      "frequency": 0.5,
+      "medianTimeSeconds": 2028,
+      "p25TimeSeconds": 1872.5,
+      "p75TimeSeconds": 2361.25
+    },
+    {
+      "key": "satanic",
+      "matches": 6,
+      "frequency": 0.5,
+      "medianTimeSeconds": 2458,
+      "p25TimeSeconds": 2121,
+      "p75TimeSeconds": 2686.25
+    },
+    {
+      "key": "aghanims_shard",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 1790,
+      "p25TimeSeconds": 1617,
+      "p75TimeSeconds": 1949
+    },
+    {
+      "key": "monkey_king_bar",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 2066,
+      "p25TimeSeconds": 1830,
+      "p75TimeSeconds": 2101
+    },
+    {
+      "key": "magic_wand",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 376,
+      "p25TimeSeconds": 293.5,
+      "p75TimeSeconds": 599.5
+    },
+    {
+      "key": "bracer",
+      "matches": 2,
+      "frequency": 0.16666666666666666,
+      "medianTimeSeconds": 168,
+      "p25TimeSeconds": 159.5,
+      "p75TimeSeconds": 176.5
+    },
+    {
+      "key": "moon_shard",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 2393,
+      "p25TimeSeconds": 2393,
+      "p75TimeSeconds": 2393
+    },
+    {
+      "key": "desolator",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 2590,
+      "p25TimeSeconds": 2590,
+      "p75TimeSeconds": 2590
+    },
+    {
+      "key": "sange",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 2967,
+      "p25TimeSeconds": 2967,
+      "p75TimeSeconds": 2967
+    },
+    {
+      "key": "abyssal_blade",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 2967,
+      "p25TimeSeconds": 2967,
+      "p75TimeSeconds": 2967
+    }
+  ],
+  "laneMatchups": [
+    {
+      "enemyHeroId": 105,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9042110151,
+        9040846694
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 69,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9041797807,
+        9040578015
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -314,
+        "sampleSize": 2
+      }
+    },
+    {
+      "enemyHeroId": 86,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9041797807,
+        9040850396
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 21,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9041588706,
+        9040578015
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 55,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9040850396,
+        9039556085
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -351,
+        "sampleSize": 2
+      }
+    },
+    {
+      "enemyHeroId": 78,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9040846694,
+        9040139971
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 1250.5,
+        "sampleSize": 2
+      }
+    },
+    {
+      "enemyHeroId": 98,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9040053371,
+        9038482233
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -169,
+        "sampleSize": 2
+      }
+    },
+    {
+      "enemyHeroId": 71,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9040053371,
+        9039556085
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 93,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9042110151
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 1796,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 29,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9041695741
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 1366,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 96,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9041588706
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -299,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 38,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9040276313
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -1029,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 88,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9040139971
+      ],
+      "laneOutcome": null
+    }
+  ],
+  "benchmarks": {
+    "lastHits": [
+      {
+        "minute": 5,
+        "p25": 21.25,
+        "p50": 25.5,
+        "p75": 30,
+        "sampleSize": 12
+      },
+      {
+        "minute": 10,
+        "p25": 70.75,
+        "p50": 75,
+        "p75": 92,
+        "sampleSize": 12
+      },
+      {
+        "minute": 15,
+        "p25": 135.75,
+        "p50": 152.5,
+        "p75": 169.5,
+        "sampleSize": 12
+      },
+      {
+        "minute": 20,
+        "p25": 219.5,
+        "p50": 229.5,
+        "p75": 241,
+        "sampleSize": 12
+      },
+      {
+        "minute": 25,
+        "p25": 255,
+        "p50": 300,
+        "p75": 337,
+        "sampleSize": 11
+      },
+      {
+        "minute": 30,
+        "p25": 325.5,
+        "p50": 370,
+        "p75": 412.75,
+        "sampleSize": 10
+      }
+    ],
+    "netWorth": [
+      {
+        "minute": 5,
+        "p25": 1967.25,
+        "p50": 2034,
+        "p75": 2295.75,
+        "sampleSize": 12
+      },
+      {
+        "minute": 10,
+        "p25": 4113.25,
+        "p50": 4378.5,
+        "p75": 4985.5,
+        "sampleSize": 12
+      },
+      {
+        "minute": 15,
+        "p25": 7044,
+        "p50": 7876,
+        "p75": 8029.5,
+        "sampleSize": 12
+      },
+      {
+        "minute": 20,
+        "p25": 10410.75,
+        "p50": 11167,
+        "p75": 12130.25,
+        "sampleSize": 12
+      },
+      {
+        "minute": 25,
+        "p25": 13511.5,
+        "p50": 15493,
+        "p75": 16476.5,
+        "sampleSize": 11
+      },
+      {
+        "minute": 30,
+        "p25": 17181.5,
+        "p50": 19508.5,
+        "p75": 20755.75,
+        "sampleSize": 10
+      }
+    ]
+  },
+  "currentAbilityCatalog": {
+    "sven_storm_bolt": {
+      "abilityId": 5094,
+      "abilityKey": "sven_storm_bolt",
+      "label": "Storm Hammer",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "sven_great_cleave": {
+      "abilityId": 5095,
+      "abilityKey": "sven_great_cleave",
+      "label": "Great Cleave",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "sven_warcry": {
+      "abilityId": 5096,
+      "abilityKey": "sven_warcry",
+      "label": "Warcry",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "sven_gods_strength": {
+      "abilityId": 5097,
+      "abilityKey": "sven_gods_strength",
+      "label": "God's Strength",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "sven_wrath_of_god": {
+      "abilityId": 1234,
+      "abilityKey": "sven_wrath_of_god",
+      "label": "Wrath of God",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "granted": false,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "special_bonus_unique_sven_5": {
+      "abilityId": 673,
+      "abilityKey": "special_bonus_unique_sven_5",
+      "label": "+5s Warcry Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_sven_gods_strength_slow_resist": {
+      "abilityId": 1188,
+      "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+      "label": "+20% God's Strength Slow Resistance",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_sven_3": {
+      "abilityId": 6911,
+      "abilityKey": "special_bonus_unique_sven_3",
+      "label": "-12s God's Strength Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_sven_8": {
+      "abilityId": 763,
+      "abilityKey": "special_bonus_unique_sven_8",
+      "label": "+25% Great Cleave Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_sven_stormhammer_cooldown": {
+      "abilityId": 1790,
+      "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+      "label": "-25% Storm Hammer Cooldown and Mana Cost",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_sven_7": {
+      "abilityId": 716,
+      "abilityKey": "special_bonus_unique_sven_7",
+      "label": "+8 Warcry Armor",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_sven_2": {
+      "abilityId": 6910,
+      "abilityKey": "special_bonus_unique_sven_2",
+      "label": "+50% God's Strength Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_sven_4": {
+      "abilityId": 7112,
+      "abilityKey": "special_bonus_unique_sven_4",
+      "label": "+1s Storm Hammer Stun Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilities": {
+    "sven_storm_bolt": {
+      "abilityId": 5094,
+      "abilityKey": "sven_storm_bolt",
+      "label": "Storm Hammer",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "sven_great_cleave": {
+      "abilityId": 5095,
+      "abilityKey": "sven_great_cleave",
+      "label": "Great Cleave",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "sven_warcry": {
+      "abilityId": 5096,
+      "abilityKey": "sven_warcry",
+      "label": "Warcry",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "sven_gods_strength": {
+      "abilityId": 5097,
+      "abilityKey": "sven_gods_strength",
+      "label": "God's Strength",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "sven_wrath_of_god": {
+      "abilityId": 1234,
+      "abilityKey": "sven_wrath_of_god",
+      "label": "Wrath of God",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "granted": false,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "special_bonus_unique_sven_5": {
+      "abilityId": 673,
+      "abilityKey": "special_bonus_unique_sven_5",
+      "label": "+5s Warcry Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_sven_gods_strength_slow_resist": {
+      "abilityId": 1188,
+      "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+      "label": "+20% God's Strength Slow Resistance",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_sven_3": {
+      "abilityId": 6911,
+      "abilityKey": "special_bonus_unique_sven_3",
+      "label": "-12s God's Strength Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_sven_8": {
+      "abilityId": 763,
+      "abilityKey": "special_bonus_unique_sven_8",
+      "label": "+25% Great Cleave Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_sven_stormhammer_cooldown": {
+      "abilityId": 1790,
+      "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+      "label": "-25% Storm Hammer Cooldown and Mana Cost",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_sven_7": {
+      "abilityId": 716,
+      "abilityKey": "special_bonus_unique_sven_7",
+      "label": "+8 Warcry Armor",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_sven_2": {
+      "abilityId": 6910,
+      "abilityKey": "special_bonus_unique_sven_2",
+      "label": "+50% God's Strength Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_sven_4": {
+      "abilityId": 7112,
+      "abilityKey": "special_bonus_unique_sven_4",
+      "label": "+1s Storm Hammer Stun Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilityCatalogSourceUrl": "https://www.dota2.com/datafeed/herodata?language=english&hero_id=18",
+  "abilityCatalogFetchedAt": "2026-10-12T21:23:52.396Z",
+  "provenance": {
+    "kind": "existing_public_parsed_match_sample",
+    "population": "Recent OpenDota league matches with parsed safelane Sven; not the D2PT 7000+ MMR population",
+    "roleFilter": "hero_id=18, lane_role=1, not roaming, position_est=1 when present",
+    "patchFilter": 60,
+    "sampleMatchIds": [
+      9042110151,
+      9041797807,
+      9041695741,
+      9041588706,
+      9040850396,
+      9040846694,
+      9040578015,
+      9040276313,
+      9040139971,
+      9040053371,
+      9039556085,
+      9038482233
+    ],
+    "sourceUrls": [
+      "https://api.opendota.com/api/matches/9042110151",
+      "https://api.opendota.com/api/matches/9041797807",
+      "https://api.opendota.com/api/matches/9041695741",
+      "https://api.opendota.com/api/matches/9041588706",
+      "https://api.opendota.com/api/matches/9040850396",
+      "https://api.opendota.com/api/matches/9040846694",
+      "https://api.opendota.com/api/matches/9040578015",
+      "https://api.opendota.com/api/matches/9040276313",
+      "https://api.opendota.com/api/matches/9040139971",
+      "https://api.opendota.com/api/matches/9040053371",
+      "https://api.opendota.com/api/matches/9039556085",
+      "https://api.opendota.com/api/matches/9038482233"
+    ],
+    "observations": [
+      {
+        "matchId": 9042110151,
+        "startTime": 1791828885,
+        "patchId": 60,
+        "durationSeconds": 2612,
+        "sourceUrl": "https://api.opendota.com/api/matches/9042110151",
+        "replayUrl": "https://www.opendota.com/matches/9042110151",
+        "heroId": 18,
+        "leagueId": 20406,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 307,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 477,
+            "stage": "early"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 779,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 923,
+            "stage": "mid"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 1268,
+            "stage": "mid"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 1356,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1504,
+            "stage": "mid"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 1714,
+            "stage": "mid"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2010,
+            "stage": "late"
+          },
+          {
+            "key": "moon_shard",
+            "timeSeconds": 2393,
+            "stage": "late"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 2590,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 30
+            },
+            {
+              "minute": 10,
+              "value": 119
+            },
+            {
+              "minute": 15,
+              "value": 181
+            },
+            {
+              "minute": 20,
+              "value": 283
+            },
+            {
+              "minute": 25,
+              "value": 385
+            },
+            {
+              "minute": 30,
+              "value": 456
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2304
+            },
+            {
+              "minute": 10,
+              "value": 5388
+            },
+            {
+              "minute": 15,
+              "value": 8224
+            },
+            {
+              "minute": 20,
+              "value": 12796
+            },
+            {
+              "minute": 25,
+              "value": 19593
+            },
+            {
+              "minute": 30,
+              "value": 25535
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 93,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3592,
+            "lastHits10": 43
+          },
+          {
+            "enemyHeroId": 105,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1501,
+            "lastHits10": 3
+          }
+        ],
+        "purchaseLogSha256": "bbde8ba2049c5c6e57c86271a41dfc3f8b23674bd3e36da3c0cdcdbedbc7429c",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+              "abilityId": 1790,
+              "label": "-25% Storm Hammer Cooldown and Mana Cost",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_sven_2",
+              "abilityId": 6910,
+              "label": "+50% God's Strength Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+              "abilityId": 1188,
+              "label": "+20% God's Strength Slow Resistance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 27,
+              "abilityKey": "special_bonus_unique_sven_8",
+              "abilityId": 763,
+              "label": "+25% Great Cleave Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 21,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 28,
+              "abilityKey": "special_bonus_unique_sven_7",
+              "abilityId": 716,
+              "label": "+8 Warcry Armor",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9042110151,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9041797807,
+        "startTime": 1791817684,
+        "patchId": 60,
+        "durationSeconds": 3315,
+        "sourceUrl": "https://api.opendota.com/api/matches/9041797807",
+        "replayUrl": "https://www.opendota.com/matches/9041797807",
+        "heroId": 18,
+        "leagueId": 19944,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -85,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -82,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 348,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 592,
+            "stage": "early"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 838,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 969,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1307,
+            "stage": "mid"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 1604,
+            "stage": "mid"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 1860,
+            "stage": "late"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 2136,
+            "stage": "late"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 2188,
+            "stage": "late"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2462,
+            "stage": "late"
+          },
+          {
+            "key": "sange",
+            "timeSeconds": 2967,
+            "stage": "late"
+          },
+          {
+            "key": "abyssal_blade",
+            "timeSeconds": 2967,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 3212,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 24
+            },
+            {
+              "minute": 10,
+              "value": 92
+            },
+            {
+              "minute": 15,
+              "value": 189
+            },
+            {
+              "minute": 20,
+              "value": 259
+            },
+            {
+              "minute": 25,
+              "value": 349
+            },
+            {
+              "minute": 30,
+              "value": 420
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1932
+            },
+            {
+              "minute": 10,
+              "value": 4398
+            },
+            {
+              "minute": 15,
+              "value": 8015
+            },
+            {
+              "minute": 20,
+              "value": 11248
+            },
+            {
+              "minute": 25,
+              "value": 15493
+            },
+            {
+              "minute": 30,
+              "value": 20437
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 69,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4664,
+            "lastHits10": 66
+          },
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1954,
+            "lastHits10": 2
+          }
+        ],
+        "purchaseLogSha256": "c890548f4ace22159a920580565fa0215d6717cd974d6434de0215651e5865f8",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+              "abilityId": 1188,
+              "label": "+20% God's Strength Slow Resistance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_8",
+              "abilityId": 763,
+              "label": "+25% Great Cleave Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_7",
+              "abilityId": 716,
+              "label": "+8 Warcry Armor",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_sven_2",
+              "abilityId": 6910,
+              "label": "+50% God's Strength Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 27,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 21,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 28,
+              "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+              "abilityId": 1790,
+              "label": "-25% Storm Hammer Cooldown and Mana Cost",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9041797807,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9041695741,
+        "startTime": 1791814170,
+        "patchId": 60,
+        "durationSeconds": 2009,
+        "sourceUrl": "https://api.opendota.com/api/matches/9041695741",
+        "replayUrl": "https://www.opendota.com/matches/9041695741",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 228,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 457,
+            "stage": "early"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 758,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 968,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1245,
+            "stage": "mid"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 1414,
+            "stage": "mid"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 1691,
+            "stage": "mid"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 1910,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1949,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 30
+            },
+            {
+              "minute": 10,
+              "value": 78
+            },
+            {
+              "minute": 15,
+              "value": 131
+            },
+            {
+              "minute": 20,
+              "value": 224
+            },
+            {
+              "minute": 25,
+              "value": 294
+            },
+            {
+              "minute": 30,
+              "value": 359
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2736
+            },
+            {
+              "minute": 10,
+              "value": 5135
+            },
+            {
+              "minute": 15,
+              "value": 8073
+            },
+            {
+              "minute": 20,
+              "value": 12362
+            },
+            {
+              "minute": 25,
+              "value": 16889
+            },
+            {
+              "minute": 30,
+              "value": 21289
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 29,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3769,
+            "lastHits10": 62
+          }
+        ],
+        "purchaseLogSha256": "b3991a7d02946e13a14251e87a777fdd54e598c898c1d8605811972247291c51",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+              "abilityId": 1790,
+              "label": "-25% Storm Hammer Cooldown and Mana Cost",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9041695741,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9041588706,
+        "startTime": 1791810538,
+        "patchId": 60,
+        "durationSeconds": 1951,
+        "sourceUrl": "https://api.opendota.com/api/matches/9041588706",
+        "replayUrl": "https://www.opendota.com/matches/9041588706",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "ward_sentry",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 357,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 376,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 632,
+            "stage": "mid"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 894,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1056,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1389,
+            "stage": "mid"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 1759,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 19
+            },
+            {
+              "minute": 10,
+              "value": 70
+            },
+            {
+              "minute": 15,
+              "value": 136
+            },
+            {
+              "minute": 20,
+              "value": 235
+            },
+            {
+              "minute": 25,
+              "value": 308
+            },
+            {
+              "minute": 30,
+              "value": 381
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1852
+            },
+            {
+              "minute": 10,
+              "value": 4162
+            },
+            {
+              "minute": 15,
+              "value": 7090
+            },
+            {
+              "minute": 20,
+              "value": 10839
+            },
+            {
+              "minute": 25,
+              "value": 13552
+            },
+            {
+              "minute": 30,
+              "value": 17756
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 96,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4461,
+            "lastHits10": 72
+          },
+          {
+            "enemyHeroId": 21,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1784,
+            "lastHits10": 9
+          }
+        ],
+        "purchaseLogSha256": "fce3f12bdc525c61ee8b61ffcfe9ca4ef420efbaec5ba93e01387568238d469f",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9041588706,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9040850396,
+        "startTime": 1791754141,
+        "patchId": 60,
+        "durationSeconds": 2402,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040850396",
+        "replayUrl": "https://www.opendota.com/matches/9040850396",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 354,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 616,
+            "stage": "mid"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 911,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1137,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1451,
+            "stage": "mid"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 1867,
+            "stage": "late"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 2032,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 24
+            },
+            {
+              "minute": 10,
+              "value": 63
+            },
+            {
+              "minute": 15,
+              "value": 140
+            },
+            {
+              "minute": 20,
+              "value": 206
+            },
+            {
+              "minute": 25,
+              "value": 245
+            },
+            {
+              "minute": 30,
+              "value": 298
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2064
+            },
+            {
+              "minute": 10,
+              "value": 3967
+            },
+            {
+              "minute": 15,
+              "value": 6906
+            },
+            {
+              "minute": 20,
+              "value": 9369
+            },
+            {
+              "minute": 25,
+              "value": 13471
+            },
+            {
+              "minute": 30,
+              "value": 16990
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 2065,
+            "lastHits10": 5
+          },
+          {
+            "enemyHeroId": 55,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 5391,
+            "lastHits10": 84
+          }
+        ],
+        "purchaseLogSha256": "c3da9f5cce8251efc2dc31fbc406b989d85e84a9dda4bc37b9ab70aa03891a1d",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+              "abilityId": 1188,
+              "label": "+20% God's Strength Slow Resistance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+              "abilityId": 1790,
+              "label": "-25% Storm Hammer Cooldown and Mana Cost",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_sven_2",
+              "abilityId": 6910,
+              "label": "+50% God's Strength Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9040850396,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9040846694,
+        "startTime": 1791753907,
+        "patchId": 60,
+        "durationSeconds": 2602,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040846694",
+        "replayUrl": "https://www.opendota.com/matches/9040846694",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 252,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 451,
+            "stage": "early"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 763,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 954,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1302,
+            "stage": "mid"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 1577,
+            "stage": "mid"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 1743,
+            "stage": "mid"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 1931,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2146,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 33
+            },
+            {
+              "minute": 10,
+              "value": 87
+            },
+            {
+              "minute": 15,
+              "value": 153
+            },
+            {
+              "minute": 20,
+              "value": 234
+            },
+            {
+              "minute": 25,
+              "value": 341
+            },
+            {
+              "minute": 30,
+              "value": 435
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2761
+            },
+            {
+              "minute": 10,
+              "value": 5077
+            },
+            {
+              "minute": 15,
+              "value": 7789
+            },
+            {
+              "minute": 20,
+              "value": 11607
+            },
+            {
+              "minute": 25,
+              "value": 16641
+            },
+            {
+              "minute": 30,
+              "value": 20862
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 78,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3103,
+            "lastHits10": 38
+          },
+          {
+            "enemyHeroId": 105,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1661,
+            "lastHits10": 4
+          }
+        ],
+        "purchaseLogSha256": "b2467d6598fccd3ca9c8f14fab8ab861e70feec31b925b0efd7be70caf1ef1e1",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+              "abilityId": 1188,
+              "label": "+20% God's Strength Slow Resistance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_8",
+              "abilityId": 763,
+              "label": "+25% Great Cleave Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+              "abilityId": 1790,
+              "label": "-25% Storm Hammer Cooldown and Mana Cost",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_sven_2",
+              "abilityId": 6910,
+              "label": "+50% God's Strength Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9040846694,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9040578015,
+        "startTime": 1791743534,
+        "patchId": 60,
+        "durationSeconds": 3400,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040578015",
+        "replayUrl": "https://www.opendota.com/matches/9040578015",
+        "heroId": 18,
+        "leagueId": 19102,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "ward_observer",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 151,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 398,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 616,
+            "stage": "mid"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 874,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 983,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1261,
+            "stage": "mid"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1472,
+            "stage": "mid"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 1746,
+            "stage": "mid"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 2066,
+            "stage": "late"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2761,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2986,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 30
+            },
+            {
+              "minute": 10,
+              "value": 101
+            },
+            {
+              "minute": 15,
+              "value": 169
+            },
+            {
+              "minute": 20,
+              "value": 262
+            },
+            {
+              "minute": 25,
+              "value": 333
+            },
+            {
+              "minute": 30,
+              "value": 391
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2004
+            },
+            {
+              "minute": 10,
+              "value": 4352
+            },
+            {
+              "minute": 15,
+              "value": 7289
+            },
+            {
+              "minute": 20,
+              "value": 12053
+            },
+            {
+              "minute": 25,
+              "value": 15946
+            },
+            {
+              "minute": 30,
+              "value": 19756
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 69,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4714,
+            "lastHits10": 67
+          },
+          {
+            "enemyHeroId": 21,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1517,
+            "lastHits10": 8
+          }
+        ],
+        "purchaseLogSha256": "10688670bd525ef0b0eb01cb125b1ec191b5b05f0326e5dabc66392ec29624ff",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+              "abilityId": 1188,
+              "label": "+20% God's Strength Slow Resistance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_8",
+              "abilityId": 763,
+              "label": "+25% Great Cleave Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_7",
+              "abilityId": 716,
+              "label": "+8 Warcry Armor",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_sven_4",
+              "abilityId": 7112,
+              "label": "+1s Storm Hammer Stun Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 27,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 21,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 28,
+              "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+              "abilityId": 1790,
+              "label": "-25% Storm Hammer Cooldown and Mana Cost",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9040578015,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9040276313,
+        "startTime": 1791731920,
+        "patchId": 60,
+        "durationSeconds": 1911,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040276313",
+        "replayUrl": "https://www.opendota.com/matches/9040276313",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 338,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 610,
+            "stage": "mid"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 937,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1368,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1583,
+            "stage": "mid"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1790,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 22
+            },
+            {
+              "minute": 10,
+              "value": 71
+            },
+            {
+              "minute": 15,
+              "value": 135
+            },
+            {
+              "minute": 20,
+              "value": 190
+            },
+            {
+              "minute": 25,
+              "value": 237
+            },
+            {
+              "minute": 30,
+              "value": 315
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1979
+            },
+            {
+              "minute": 10,
+              "value": 3921
+            },
+            {
+              "minute": 15,
+              "value": 6386
+            },
+            {
+              "minute": 20,
+              "value": 8712
+            },
+            {
+              "minute": 25,
+              "value": 11808
+            },
+            {
+              "minute": 30,
+              "value": 16045
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 38,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4950,
+            "lastHits10": 70
+          }
+        ],
+        "purchaseLogSha256": "0419bfeb379848b53244447203a9ea686b8be8e2949d710b3725a2f0b0770f00",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_8",
+              "abilityId": 763,
+              "label": "+25% Great Cleave Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_7",
+              "abilityId": 716,
+              "label": "+8 Warcry Armor",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9040276313,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9040139971,
+        "startTime": 1791727774,
+        "patchId": 60,
+        "durationSeconds": 3005,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040139971",
+        "replayUrl": "https://www.opendota.com/matches/9040139971",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 393,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 551,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 823,
+            "stage": "mid"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 823,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 964,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1389,
+            "stage": "mid"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1617,
+            "stage": "mid"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 1945,
+            "stage": "late"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 2041,
+            "stage": "late"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2454,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 19
+            },
+            {
+              "minute": 10,
+              "value": 71
+            },
+            {
+              "minute": 15,
+              "value": 171
+            },
+            {
+              "minute": 20,
+              "value": 227
+            },
+            {
+              "minute": 25,
+              "value": 265
+            },
+            {
+              "minute": 30,
+              "value": 317
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2002
+            },
+            {
+              "minute": 10,
+              "value": 4359
+            },
+            {
+              "minute": 15,
+              "value": 7963
+            },
+            {
+              "minute": 20,
+              "value": 10758
+            },
+            {
+              "minute": 25,
+              "value": 14575
+            },
+            {
+              "minute": 30,
+              "value": 16764
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 78,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3832,
+            "lastHits10": 55
+          },
+          {
+            "enemyHeroId": 88,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1905,
+            "lastHits10": 12
+          }
+        ],
+        "purchaseLogSha256": "061781d33e4602597992c92e0f757edd7f5d8b1db476feb9478e48d4283b14c9",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+              "abilityId": 1790,
+              "label": "-25% Storm Hammer Cooldown and Mana Cost",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_sven_2",
+              "abilityId": 6910,
+              "label": "+50% God's Strength Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+              "abilityId": 1188,
+              "label": "+20% God's Strength Slow Resistance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 27,
+              "abilityKey": "special_bonus_unique_sven_8",
+              "abilityId": 763,
+              "label": "+25% Great Cleave Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 21,
+              "sourceMatchId": 9040139971,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9040053371,
+        "startTime": 1791725182,
+        "patchId": 60,
+        "durationSeconds": 1667,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040053371",
+        "replayUrl": "https://www.opendota.com/matches/9040053371",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 185,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 211,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 566,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 884,
+            "stage": "mid"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 1316,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 8
+            },
+            {
+              "minute": 10,
+              "value": 31
+            },
+            {
+              "minute": 15,
+              "value": 76
+            },
+            {
+              "minute": 20,
+              "value": 113
+            },
+            {
+              "minute": 25,
+              "value": 123
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1250
+            },
+            {
+              "minute": 10,
+              "value": 2799
+            },
+            {
+              "minute": 15,
+              "value": 4541
+            },
+            {
+              "minute": 20,
+              "value": 6761
+            },
+            {
+              "minute": 25,
+              "value": 7770
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 98,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3690,
+            "lastHits10": 39
+          },
+          {
+            "enemyHeroId": 71,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 2389,
+            "lastHits10": 3
+          }
+        ],
+        "purchaseLogSha256": "8335eae6910edac1994531abd04f0635a2278abe321b6e372a0d14dfa7fc89f0",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9040053371,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9039556085,
+        "startTime": 1791706017,
+        "patchId": 60,
+        "durationSeconds": 1498,
+        "sourceUrl": "https://api.opendota.com/api/matches/9039556085",
+        "replayUrl": "https://www.opendota.com/matches/9039556085",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "gauntlets",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 331,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 575,
+            "stage": "early"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 767,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 941,
+            "stage": "mid"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 1026,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1351,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 27
+            },
+            {
+              "minute": 10,
+              "value": 72
+            },
+            {
+              "minute": 15,
+              "value": 163
+            },
+            {
+              "minute": 20,
+              "value": 231
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2065
+            },
+            {
+              "minute": 10,
+              "value": 4422
+            },
+            {
+              "minute": 15,
+              "value": 8239
+            },
+            {
+              "minute": 20,
+              "value": 12841
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 71,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 2113,
+            "lastHits10": 2
+          },
+          {
+            "enemyHeroId": 55,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3700,
+            "lastHits10": 49
+          }
+        ],
+        "purchaseLogSha256": "4fb3118795565f385eafb573ee6713d999b734de1a02f8090ce45b1ea6219445",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9039556085,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9038482233,
+        "startTime": 1791649239,
+        "patchId": 60,
+        "durationSeconds": 3486,
+        "sourceUrl": "https://api.opendota.com/api/matches/9038482233",
+        "replayUrl": "https://www.opendota.com/matches/9038482233",
+        "heroId": 18,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 18,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "gauntlets",
+            "timeSeconds": -84,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -82,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 333,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 543,
+            "stage": "early"
+          },
+          {
+            "key": "echo_sabre",
+            "timeSeconds": 814,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 959,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1294,
+            "stage": "mid"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 1594,
+            "stage": "mid"
+          },
+          {
+            "key": "harpoon",
+            "timeSeconds": 1817,
+            "stage": "late"
+          },
+          {
+            "key": "greater_crit",
+            "timeSeconds": 2201,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2433,
+            "stage": "late"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2882,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 29
+            },
+            {
+              "minute": 10,
+              "value": 92
+            },
+            {
+              "minute": 15,
+              "value": 152
+            },
+            {
+              "minute": 20,
+              "value": 228
+            },
+            {
+              "minute": 25,
+              "value": 300
+            },
+            {
+              "minute": 30,
+              "value": 351
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2293
+            },
+            {
+              "minute": 10,
+              "value": 4955
+            },
+            {
+              "minute": 15,
+              "value": 8008
+            },
+            {
+              "minute": 20,
+              "value": 11086
+            },
+            {
+              "minute": 25,
+              "value": 16312
+            },
+            {
+              "minute": 30,
+              "value": 19261
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 98,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4402,
+            "lastHits10": 90
+          }
+        ],
+        "purchaseLogSha256": "44c77363d584e4e10c22d4a887915745644abc927fb0b902594c50066c062ecf",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "sven_great_cleave",
+              "abilityId": 5095,
+              "label": "Great Cleave",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "sven_storm_bolt",
+              "abilityId": 5094,
+              "label": "Storm Hammer",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_sven_gods_strength_slow_resist",
+              "abilityId": 1188,
+              "label": "+20% God's Strength Slow Resistance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "sven_warcry",
+              "abilityId": 5096,
+              "label": "Warcry",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_sven_3",
+              "abilityId": 6911,
+              "label": "-12s God's Strength Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "sven_gods_strength",
+              "abilityId": 5097,
+              "label": "God's Strength",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_sven_stormhammer_cooldown",
+              "abilityId": 1790,
+              "label": "-25% Storm Hammer Cooldown and Mana Cost",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_sven_4",
+              "abilityId": 7112,
+              "label": "+1s Storm Hammer Stun Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_sven_5",
+              "abilityId": 673,
+              "label": "+5s Warcry Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 27,
+              "abilityKey": "special_bonus_unique_sven_8",
+              "abilityId": 763,
+              "label": "+25% Great Cleave Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 21,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 28,
+              "abilityKey": "special_bonus_unique_sven_7",
+              "abilityId": 716,
+              "label": "+8 Warcry Armor",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 9038482233,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      }
+    ],
+    "benchmarkMethod": "Linear-interpolated empirical quantiles from exact times/lh_t/networth_t checkpoints; gold_t is never substituted for net worth",
+    "buildMethod": "Group observed first two major purchases; show newest actual purchase log in the largest group. Timings are that match, not a universal target.",
+    "skillMethod": "Recorded ability_upgrades_arr from the same representative match, mapped by exact current Valve ability IDs. Array-only levels are an earliest-legal reconstruction, not recorded hero levels; innate abilities are excluded."
+  },
+  "caveats": [
+    "Dota2ProTracker is a browsing reference only; this cached dataset comes from the public OpenDota API.",
+    "OpenDota patch IDs identify base patches and cannot verify the current minor-letter patch.",
+    "This is a small observational sample with the actual date range shown, not a current-patch meta guarantee.",
+    "Missing or unparsed replays, role inference, match duration, and the league population introduce selection bias.",
+    "Farm quantiles describe these samples; personal farm targets remain separate and editable.",
+    "A purchase in a winning match does not establish the best item for this matchup.",
+    "Skill order is observed; levels reconstructed from an upgrade array may differ if the player saved skill points. The current Valve ability catalog does not verify the match minor patch."
+  ],
+  "validation": {
+    "attemptedMatches": 12,
+    "retainedCarries": 12,
+    "fetchErrors": []
+  }
+}

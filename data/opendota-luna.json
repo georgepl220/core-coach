@@ -1,0 +1,5738 @@
+{
+  "schemaVersion": 1,
+  "heroId": 48,
+  "role": "carry",
+  "status": "available",
+  "source": "OpenDota recent parsed carry matches",
+  "sourceUrl": "https://api.opendota.com/api/heroes/48/matches",
+  "d2ptReference": "https://dota2protracker.com/hero/Luna",
+  "externalUrl": "https://dota2protracker.com/hero/Luna",
+  "fetchedAt": "2026-10-12T21:23:52.396Z",
+  "sampleCount": 12,
+  "patch": {
+    "id": 60,
+    "name": "7.41",
+    "verified": true,
+    "minorPatchVerified": false,
+    "scope": "Exact OpenDota base patch ID, not a verified minor-letter patch or D2PT patch filter"
+  },
+  "patchVerified": true,
+  "windowText": "2026-10-09 — 2026-10-12",
+  "window": {
+    "from": "2026-10-09T15:18:21.000Z",
+    "to": "2026-10-12T17:52:48.000Z",
+    "lookbackDays": 45
+  },
+  "builds": [
+    {
+      "id": "mask_of_madness-yasha",
+      "matches": 10,
+      "winRate": 0.3,
+      "frequency": 0.8333333333333334,
+      "sequence": [
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": 0,
+          "stage": "start"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 331,
+          "stage": "early"
+        },
+        {
+          "key": "mask_of_madness",
+          "timeSeconds": 507,
+          "stage": "early"
+        },
+        {
+          "key": "yasha",
+          "timeSeconds": 728,
+          "stage": "mid"
+        },
+        {
+          "key": "manta",
+          "timeSeconds": 1143,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 1200,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1617,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 9042082112,
+      "representativeDate": "2026-10-12T17:52:48.000Z",
+      "sourceMatchIds": [
+        9042082112,
+        9041800914,
+        9041304542,
+        9040915797,
+        9039558703,
+        9037580974,
+        9037223427,
+        9037212268,
+        9037203433,
+        9036629814
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "luna_lucent_beam",
+          "abilityId": 5222,
+          "label": "Lucent Beam",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "luna_moon_glaive",
+          "abilityId": 5223,
+          "label": "Moon Glaives",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "luna_lucent_beam",
+          "abilityId": 5222,
+          "label": "Lucent Beam",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "luna_moon_glaive",
+          "abilityId": 5223,
+          "label": "Moon Glaives",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "luna_lunar_orbit",
+          "abilityId": 1462,
+          "label": "Lunar Orbit",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "luna_eclipse",
+          "abilityId": 5225,
+          "label": "Eclipse",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "luna_moon_glaive",
+          "abilityId": 5223,
+          "label": "Moon Glaives",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "luna_moon_glaive",
+          "abilityId": 5223,
+          "label": "Moon Glaives",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "luna_lucent_beam",
+          "abilityId": 5222,
+          "label": "Lucent Beam",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "special_bonus_unique_luna_7",
+          "abilityId": 847,
+          "label": "-5% Moon Glaives Damage Reduction",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "luna_lucent_beam",
+          "abilityId": 5222,
+          "label": "Lucent Beam",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "luna_lunar_orbit",
+          "abilityId": 1462,
+          "label": "Lunar Orbit",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "luna_eclipse",
+          "abilityId": 5225,
+          "label": "Eclipse",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "luna_lunar_orbit",
+          "abilityId": 1462,
+          "label": "Lunar Orbit",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "luna_lunar_orbit",
+          "abilityId": 1462,
+          "label": "Lunar Orbit",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+          "abilityId": 323,
+          "label": "+1 Lunar Orbit Glaive",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 9042082112,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9042082112,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "yasha-manta",
+      "matches": 2,
+      "winRate": 0.5,
+      "frequency": 0.16666666666666666,
+      "sequence": [
+        {
+          "key": "circlet",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -87,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -87,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -87,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -87,
+          "stage": "start"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 373,
+          "stage": "early"
+        },
+        {
+          "key": "yasha",
+          "timeSeconds": 631,
+          "stage": "mid"
+        },
+        {
+          "key": "manta",
+          "timeSeconds": 978,
+          "stage": "mid"
+        },
+        {
+          "key": "dragon_lance",
+          "timeSeconds": 1130,
+          "stage": "mid"
+        },
+        {
+          "key": "hurricane_pike",
+          "timeSeconds": 1325,
+          "stage": "mid"
+        },
+        {
+          "key": "blink",
+          "timeSeconds": 1505,
+          "stage": "mid"
+        },
+        {
+          "key": "butterfly",
+          "timeSeconds": 1848,
+          "stage": "late"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 2076,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 9037218330,
+      "representativeDate": "2026-10-09T21:27:04.000Z",
+      "sourceMatchIds": [
+        9037218330,
+        9037190252
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "luna_lucent_beam",
+          "abilityId": 5222,
+          "label": "Lucent Beam",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "luna_moon_glaive",
+          "abilityId": 5223,
+          "label": "Moon Glaives",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "luna_moon_glaive",
+          "abilityId": 5223,
+          "label": "Moon Glaives",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "luna_lucent_beam",
+          "abilityId": 5222,
+          "label": "Lucent Beam",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "luna_moon_glaive",
+          "abilityId": 5223,
+          "label": "Moon Glaives",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "luna_moon_glaive",
+          "abilityId": 5223,
+          "label": "Moon Glaives",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "luna_lucent_beam",
+          "abilityId": 5222,
+          "label": "Lucent Beam",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "luna_eclipse",
+          "abilityId": 5225,
+          "label": "Eclipse",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "luna_lucent_beam",
+          "abilityId": 5222,
+          "label": "Lucent Beam",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "luna_lunar_orbit",
+          "abilityId": 1462,
+          "label": "Lunar Orbit",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "special_bonus_unique_luna_7",
+          "abilityId": 847,
+          "label": "-5% Moon Glaives Damage Reduction",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "luna_lunar_orbit",
+          "abilityId": 1462,
+          "label": "Lunar Orbit",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "luna_eclipse",
+          "abilityId": 5225,
+          "label": "Eclipse",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "luna_lunar_orbit",
+          "abilityId": 1462,
+          "label": "Lunar Orbit",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "luna_lunar_orbit",
+          "abilityId": 1462,
+          "label": "Lunar Orbit",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 17,
+          "abilityKey": "special_bonus_unique_luna_1",
+          "abilityId": 6180,
+          "label": "+80 Lucent Beam Damage",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "luna_eclipse",
+          "abilityId": 5225,
+          "label": "Eclipse",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+          "abilityId": 1812,
+          "label": "1.5x Lunar Orbit Damage / Speed",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 25,
+          "abilityKey": "special_bonus_unique_luna_3",
+          "abilityId": 6682,
+          "label": "+25/50 Lunar Blessing Allied/Self Damage",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 19,
+          "sourceMatchId": 9037218330,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9037218330,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    }
+  ],
+  "itemStats": [
+    {
+      "key": "power_treads",
+      "matches": 12,
+      "frequency": 1,
+      "medianTimeSeconds": 359,
+      "p25TimeSeconds": 333.25,
+      "p75TimeSeconds": 396.25
+    },
+    {
+      "key": "yasha",
+      "matches": 12,
+      "frequency": 1,
+      "medianTimeSeconds": 802,
+      "p25TimeSeconds": 734,
+      "p75TimeSeconds": 882.25
+    },
+    {
+      "key": "manta",
+      "matches": 12,
+      "frequency": 1,
+      "medianTimeSeconds": 1037.5,
+      "p25TimeSeconds": 976.5,
+      "p75TimeSeconds": 1146.5
+    },
+    {
+      "key": "black_king_bar",
+      "matches": 12,
+      "frequency": 1,
+      "medianTimeSeconds": 1543.5,
+      "p25TimeSeconds": 1352.25,
+      "p75TimeSeconds": 1671.25
+    },
+    {
+      "key": "mask_of_madness",
+      "matches": 10,
+      "frequency": 0.8333333333333334,
+      "medianTimeSeconds": 626,
+      "p25TimeSeconds": 563.5,
+      "p75TimeSeconds": 664.75
+    },
+    {
+      "key": "blink",
+      "matches": 8,
+      "frequency": 0.6666666666666666,
+      "medianTimeSeconds": 1573,
+      "p25TimeSeconds": 1173.75,
+      "p75TimeSeconds": 1736
+    },
+    {
+      "key": "magic_wand",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 143,
+      "p25TimeSeconds": 120,
+      "p75TimeSeconds": 170
+    },
+    {
+      "key": "dragon_lance",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 1130,
+      "p25TimeSeconds": 1070,
+      "p75TimeSeconds": 1289
+    },
+    {
+      "key": "butterfly",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 1668,
+      "p25TimeSeconds": 1489,
+      "p75TimeSeconds": 1673
+    },
+    {
+      "key": "aghanims_shard",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 2148,
+      "p25TimeSeconds": 1931,
+      "p75TimeSeconds": 2581
+    },
+    {
+      "key": "satanic",
+      "matches": 4,
+      "frequency": 0.3333333333333333,
+      "medianTimeSeconds": 1966,
+      "p25TimeSeconds": 1875.25,
+      "p75TimeSeconds": 2078.75
+    },
+    {
+      "key": "swift_blink",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 2098,
+      "p25TimeSeconds": 2074.5,
+      "p75TimeSeconds": 2237
+    },
+    {
+      "key": "hurricane_pike",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 1325,
+      "p25TimeSeconds": 1297,
+      "p75TimeSeconds": 1714
+    },
+    {
+      "key": "invis_sword",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 1497,
+      "p25TimeSeconds": 1497,
+      "p75TimeSeconds": 1497
+    },
+    {
+      "key": "bracer",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 158,
+      "p25TimeSeconds": 158,
+      "p75TimeSeconds": 158
+    },
+    {
+      "key": "ultimate_scepter",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 1435,
+      "p25TimeSeconds": 1435,
+      "p75TimeSeconds": 1435
+    },
+    {
+      "key": "monkey_king_bar",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 2456,
+      "p25TimeSeconds": 2456,
+      "p75TimeSeconds": 2456
+    }
+  ],
+  "laneMatchups": [
+    {
+      "enemyHeroId": 86,
+      "matchCount": 5,
+      "sourceMatchIds": [
+        9041304542,
+        9039558703,
+        9037212268,
+        9037203433,
+        9036629814
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 119,
+      "matchCount": 3,
+      "sourceMatchIds": [
+        9037580974,
+        9037223427,
+        9037218330
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 55,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9042082112,
+        9041304542
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 83,
+        "sampleSize": 2
+      }
+    },
+    {
+      "enemyHeroId": 105,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9042082112,
+        9040915797
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 135,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        9041800914,
+        9040915797
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -502,
+        "sampleSize": 2
+      }
+    },
+    {
+      "enemyHeroId": 72,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9041800914
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 129,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9039558703
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 1235,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 2,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037580974
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -340,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 60,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037223427
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -1004,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 77,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037218330
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -672,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 96,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037212268
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 913,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 155,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037203433
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 305,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 78,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037190252
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 558,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 100,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9037190252
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 29,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9036629814
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 69,
+        "sampleSize": 1
+      }
+    }
+  ],
+  "benchmarks": {
+    "lastHits": [
+      {
+        "minute": 5,
+        "p25": 19.75,
+        "p50": 21,
+        "p75": 24,
+        "sampleSize": 12
+      },
+      {
+        "minute": 10,
+        "p25": 58.75,
+        "p50": 67,
+        "p75": 72.25,
+        "sampleSize": 12
+      },
+      {
+        "minute": 15,
+        "p25": 115.75,
+        "p50": 140.5,
+        "p75": 150.25,
+        "sampleSize": 12
+      },
+      {
+        "minute": 20,
+        "p25": 193,
+        "p50": 219,
+        "p75": 254.75,
+        "sampleSize": 12
+      },
+      {
+        "minute": 25,
+        "p25": 265,
+        "p50": 313,
+        "p75": 338.5,
+        "sampleSize": 11
+      },
+      {
+        "minute": 30,
+        "p25": 374,
+        "p50": 411,
+        "p75": 419,
+        "sampleSize": 9
+      }
+    ],
+    "netWorth": [
+      {
+        "minute": 5,
+        "p25": 1811.25,
+        "p50": 2116,
+        "p75": 2199.25,
+        "sampleSize": 12
+      },
+      {
+        "minute": 10,
+        "p25": 3764.25,
+        "p50": 3975.5,
+        "p75": 4498.75,
+        "sampleSize": 12
+      },
+      {
+        "minute": 15,
+        "p25": 6620.75,
+        "p50": 7229.5,
+        "p75": 7721.25,
+        "sampleSize": 12
+      },
+      {
+        "minute": 20,
+        "p25": 9773.5,
+        "p50": 10793,
+        "p75": 11574.5,
+        "sampleSize": 12
+      },
+      {
+        "minute": 25,
+        "p25": 13800,
+        "p50": 15018,
+        "p75": 16441,
+        "sampleSize": 11
+      },
+      {
+        "minute": 30,
+        "p25": 18260,
+        "p50": 19872,
+        "p75": 20619,
+        "sampleSize": 9
+      }
+    ]
+  },
+  "currentAbilityCatalog": {
+    "luna_lucent_beam": {
+      "abilityId": 5222,
+      "abilityKey": "luna_lucent_beam",
+      "label": "Lucent Beam",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "luna_lunar_orbit": {
+      "abilityId": 1462,
+      "abilityKey": "luna_lunar_orbit",
+      "label": "Lunar Orbit",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "luna_moon_glaive": {
+      "abilityId": 5223,
+      "abilityKey": "luna_moon_glaive",
+      "label": "Moon Glaives",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "luna_lunar_blessing": {
+      "abilityId": 5224,
+      "abilityKey": "luna_lunar_blessing",
+      "label": "Lunar Blessing",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "granted": false,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "luna_eclipse": {
+      "abilityId": 5225,
+      "abilityKey": "luna_eclipse",
+      "label": "Eclipse",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "special_bonus_unique_luna_7": {
+      "abilityId": 847,
+      "abilityKey": "special_bonus_unique_luna_7",
+      "label": "-5% Moon Glaives Damage Reduction",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_luna_4": {
+      "abilityId": 7047,
+      "abilityKey": "special_bonus_unique_luna_4",
+      "label": "+0.5s Lucent Beam Ministun",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_luna_lunar_orbit_glaive_count": {
+      "abilityId": 323,
+      "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+      "label": "+1 Lunar Orbit Glaive",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_luna_1": {
+      "abilityId": 6180,
+      "abilityKey": "special_bonus_unique_luna_1",
+      "label": "+80 Lucent Beam Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_luna_6": {
+      "abilityId": 770,
+      "abilityKey": "special_bonus_unique_luna_6",
+      "label": "-40s Eclipse Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_luna_lunar_orbit_speed_damage": {
+      "abilityId": 1812,
+      "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+      "label": "1.5x Lunar Orbit Damage / Speed",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_luna_3": {
+      "abilityId": 6682,
+      "abilityKey": "special_bonus_unique_luna_3",
+      "label": "+25/50 Lunar Blessing Allied/Self Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_luna_5": {
+      "abilityId": 7055,
+      "abilityKey": "special_bonus_unique_luna_5",
+      "label": "Lucent Beam Hits An Additional Target",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilities": {
+    "luna_lucent_beam": {
+      "abilityId": 5222,
+      "abilityKey": "luna_lucent_beam",
+      "label": "Lucent Beam",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "luna_lunar_orbit": {
+      "abilityId": 1462,
+      "abilityKey": "luna_lunar_orbit",
+      "label": "Lunar Orbit",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "luna_moon_glaive": {
+      "abilityId": 5223,
+      "abilityKey": "luna_moon_glaive",
+      "label": "Moon Glaives",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "luna_lunar_blessing": {
+      "abilityId": 5224,
+      "abilityKey": "luna_lunar_blessing",
+      "label": "Lunar Blessing",
+      "hotkey": "D",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "granted": false,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "luna_eclipse": {
+      "abilityId": 5225,
+      "abilityKey": "luna_eclipse",
+      "label": "Eclipse",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "special_bonus_unique_luna_7": {
+      "abilityId": 847,
+      "abilityKey": "special_bonus_unique_luna_7",
+      "label": "-5% Moon Glaives Damage Reduction",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_luna_4": {
+      "abilityId": 7047,
+      "abilityKey": "special_bonus_unique_luna_4",
+      "label": "+0.5s Lucent Beam Ministun",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_luna_lunar_orbit_glaive_count": {
+      "abilityId": 323,
+      "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+      "label": "+1 Lunar Orbit Glaive",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_luna_1": {
+      "abilityId": 6180,
+      "abilityKey": "special_bonus_unique_luna_1",
+      "label": "+80 Lucent Beam Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_luna_6": {
+      "abilityId": 770,
+      "abilityKey": "special_bonus_unique_luna_6",
+      "label": "-40s Eclipse Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_luna_lunar_orbit_speed_damage": {
+      "abilityId": 1812,
+      "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+      "label": "1.5x Lunar Orbit Damage / Speed",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_luna_3": {
+      "abilityId": 6682,
+      "abilityKey": "special_bonus_unique_luna_3",
+      "label": "+25/50 Lunar Blessing Allied/Self Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_luna_5": {
+      "abilityId": 7055,
+      "abilityKey": "special_bonus_unique_luna_5",
+      "label": "Lucent Beam Hits An Additional Target",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilityCatalogSourceUrl": "https://www.dota2.com/datafeed/herodata?language=english&hero_id=48",
+  "abilityCatalogFetchedAt": "2026-10-12T21:23:52.396Z",
+  "provenance": {
+    "kind": "existing_public_parsed_match_sample",
+    "population": "Recent OpenDota league matches with parsed safelane Luna; not the D2PT 7000+ MMR population",
+    "roleFilter": "hero_id=48, lane_role=1, not roaming, position_est=1 when present",
+    "patchFilter": 60,
+    "sampleMatchIds": [
+      9042082112,
+      9041800914,
+      9041304542,
+      9040915797,
+      9039558703,
+      9037580974,
+      9037223427,
+      9037218330,
+      9037212268,
+      9037203433,
+      9037190252,
+      9036629814
+    ],
+    "sourceUrls": [
+      "https://api.opendota.com/api/matches/9042082112",
+      "https://api.opendota.com/api/matches/9041800914",
+      "https://api.opendota.com/api/matches/9041304542",
+      "https://api.opendota.com/api/matches/9040915797",
+      "https://api.opendota.com/api/matches/9039558703",
+      "https://api.opendota.com/api/matches/9037580974",
+      "https://api.opendota.com/api/matches/9037223427",
+      "https://api.opendota.com/api/matches/9037218330",
+      "https://api.opendota.com/api/matches/9037212268",
+      "https://api.opendota.com/api/matches/9037203433",
+      "https://api.opendota.com/api/matches/9037190252",
+      "https://api.opendota.com/api/matches/9036629814"
+    ],
+    "observations": [
+      {
+        "matchId": 9042082112,
+        "startTime": 1791827568,
+        "patchId": 60,
+        "durationSeconds": 1659,
+        "sourceUrl": "https://api.opendota.com/api/matches/9042082112",
+        "replayUrl": "https://www.opendota.com/matches/9042082112",
+        "heroId": 48,
+        "leagueId": 19944,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": 0,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 331,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 507,
+            "stage": "early"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 728,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1143,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1200,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1617,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 24
+            },
+            {
+              "minute": 10,
+              "value": 56
+            },
+            {
+              "minute": 15,
+              "value": 116
+            },
+            {
+              "minute": 20,
+              "value": 174
+            },
+            {
+              "minute": 25,
+              "value": 230
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2383
+            },
+            {
+              "minute": 10,
+              "value": 4479
+            },
+            {
+              "minute": 15,
+              "value": 7531
+            },
+            {
+              "minute": 20,
+              "value": 10769
+            },
+            {
+              "minute": 25,
+              "value": 13093
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 55,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 5280,
+            "lastHits10": 94
+          },
+          {
+            "enemyHeroId": 105,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1791,
+            "lastHits10": 4
+          }
+        ],
+        "purchaseLogSha256": "557b5cafb04e355f1786d27d39dd408410a3e029ea2b624174cc0b2e51e27e40",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9042082112,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9041800914,
+        "startTime": 1791817620,
+        "patchId": 60,
+        "durationSeconds": 2121,
+        "sourceUrl": "https://api.opendota.com/api/matches/9041800914",
+        "replayUrl": "https://www.opendota.com/matches/9041800914",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 170,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 431,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 727,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 1028,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1186,
+            "stage": "mid"
+          },
+          {
+            "key": "dragon_lance",
+            "timeSeconds": 1345,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1624,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1757,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 15
+            },
+            {
+              "minute": 10,
+              "value": 59
+            },
+            {
+              "minute": 15,
+              "value": 97
+            },
+            {
+              "minute": 20,
+              "value": 168
+            },
+            {
+              "minute": 25,
+              "value": 246
+            },
+            {
+              "minute": 30,
+              "value": 322
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1752
+            },
+            {
+              "minute": 10,
+              "value": 3633
+            },
+            {
+              "minute": 15,
+              "value": 5460
+            },
+            {
+              "minute": 20,
+              "value": 9507
+            },
+            {
+              "minute": 25,
+              "value": 12865
+            },
+            {
+              "minute": 30,
+              "value": 16532
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 72,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1594,
+            "lastHits10": 11
+          },
+          {
+            "enemyHeroId": 135,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3632,
+            "lastHits10": 57
+          }
+        ],
+        "purchaseLogSha256": "6cc116417672a8f2697378d24fa326b8b0aed22c32eba6eb963dd310e3128f83",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9041800914,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9041304542,
+        "startTime": 1791795635,
+        "patchId": 60,
+        "durationSeconds": 1653,
+        "sourceUrl": "https://api.opendota.com/api/matches/9041304542",
+        "replayUrl": "https://www.opendota.com/matches/9041304542",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 143,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 345,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 529,
+            "stage": "early"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 736,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 972,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1095,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1319,
+            "stage": "mid"
+          },
+          {
+            "key": "invis_sword",
+            "timeSeconds": 1497,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 23
+            },
+            {
+              "minute": 10,
+              "value": 83
+            },
+            {
+              "minute": 15,
+              "value": 170
+            },
+            {
+              "minute": 20,
+              "value": 279
+            },
+            {
+              "minute": 25,
+              "value": 370
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2082
+            },
+            {
+              "minute": 10,
+              "value": 4906
+            },
+            {
+              "minute": 15,
+              "value": 8139
+            },
+            {
+              "minute": 20,
+              "value": 12767
+            },
+            {
+              "minute": 25,
+              "value": 17708
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 55,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3939,
+            "lastHits10": 57
+          },
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1610,
+            "lastHits10": 11
+          }
+        ],
+        "purchaseLogSha256": "958ef9f0638856b89345d24ebbdb70fbec0abc23c95a23443933d9f50dedf5ca",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9041304542,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9040915797,
+        "startTime": 1791758978,
+        "patchId": 60,
+        "durationSeconds": 2067,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040915797",
+        "replayUrl": "https://www.opendota.com/matches/9040915797",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "magic_wand",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 400,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 634,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 815,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1006,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1348,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1609,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1729,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 21
+            },
+            {
+              "minute": 10,
+              "value": 73
+            },
+            {
+              "minute": 15,
+              "value": 168
+            },
+            {
+              "minute": 20,
+              "value": 263
+            },
+            {
+              "minute": 25,
+              "value": 408
+            },
+            {
+              "minute": 30,
+              "value": 537
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1695
+            },
+            {
+              "minute": 10,
+              "value": 3786
+            },
+            {
+              "minute": 15,
+              "value": 7252
+            },
+            {
+              "minute": 20,
+              "value": 11223
+            },
+            {
+              "minute": 25,
+              "value": 16638
+            },
+            {
+              "minute": 30,
+              "value": 21035
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 135,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4791,
+            "lastHits10": 78
+          },
+          {
+            "enemyHeroId": 105,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1953,
+            "lastHits10": 5
+          }
+        ],
+        "purchaseLogSha256": "fcfe6acc5cf336bd9fa51031d46c4d8582ca575913f33366d487a28731e58d51",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9040915797,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9039558703,
+        "startTime": 1791706140,
+        "patchId": 60,
+        "durationSeconds": 2173,
+        "sourceUrl": "https://api.opendota.com/api/matches/9039558703",
+        "replayUrl": "https://www.opendota.com/matches/9039558703",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "magic_wand",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 334,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 555,
+            "stage": "early"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 789,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1019,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1203,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1489,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1641,
+            "stage": "mid"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 1880,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1922,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2098,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 28
+            },
+            {
+              "minute": 10,
+              "value": 71
+            },
+            {
+              "minute": 15,
+              "value": 148
+            },
+            {
+              "minute": 20,
+              "value": 257
+            },
+            {
+              "minute": 25,
+              "value": 339
+            },
+            {
+              "minute": 30,
+              "value": 419
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2199
+            },
+            {
+              "minute": 10,
+              "value": 4457
+            },
+            {
+              "minute": 15,
+              "value": 7664
+            },
+            {
+              "minute": 20,
+              "value": 12800
+            },
+            {
+              "minute": 25,
+              "value": 18055
+            },
+            {
+              "minute": 30,
+              "value": 23036
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 129,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3222,
+            "lastHits10": 43
+          },
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1976,
+            "lastHits10": 18
+          }
+        ],
+        "purchaseLogSha256": "a024942a92f67ea802ea81a16cd379bf7fb35fcb0552a5e74254de1a8f2b20b2",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_luna_3",
+              "abilityId": 6682,
+              "label": "+25/50 Lunar Blessing Allied/Self Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9039558703,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9037580974,
+        "startTime": 1791611955,
+        "patchId": 60,
+        "durationSeconds": 2200,
+        "sourceUrl": "https://api.opendota.com/api/matches/9037580974",
+        "replayUrl": "https://www.opendota.com/matches/9037580974",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 158,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 278,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 505,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 672,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 880,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1056,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1354,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1673,
+            "stage": "mid"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 1861,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1931,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 19
+            },
+            {
+              "minute": 10,
+              "value": 76
+            },
+            {
+              "minute": 15,
+              "value": 147
+            },
+            {
+              "minute": 20,
+              "value": 236
+            },
+            {
+              "minute": 25,
+              "value": 313
+            },
+            {
+              "minute": 30,
+              "value": 429
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1671
+            },
+            {
+              "minute": 10,
+              "value": 3699
+            },
+            {
+              "minute": 15,
+              "value": 7207
+            },
+            {
+              "minute": 20,
+              "value": 11122
+            },
+            {
+              "minute": 25,
+              "value": 15523
+            },
+            {
+              "minute": 30,
+              "value": 20489
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 2,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4039,
+            "lastHits10": 56
+          },
+          {
+            "enemyHeroId": 119,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1286,
+            "lastHits10": 6
+          }
+        ],
+        "purchaseLogSha256": "fc3abdecee66d960954887a9e79a0aeb0193dda31ecb216ff9085d54140d9750",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_4",
+              "abilityId": 7047,
+              "label": "+0.5s Lucent Beam Ministun",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9037580974,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9037223427,
+        "startTime": 1791581504,
+        "patchId": 60,
+        "durationSeconds": 1487,
+        "sourceUrl": "https://api.opendota.com/api/matches/9037223427",
+        "replayUrl": "https://www.opendota.com/matches/9037223427",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "circlet",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 300,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 618,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 873,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1157,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1426,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 26
+            },
+            {
+              "minute": 10,
+              "value": 72
+            },
+            {
+              "minute": 15,
+              "value": 138
+            },
+            {
+              "minute": 20,
+              "value": 195
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2150
+            },
+            {
+              "minute": 10,
+              "value": 4022
+            },
+            {
+              "minute": 15,
+              "value": 6661
+            },
+            {
+              "minute": 20,
+              "value": 8766
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 60,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 5026,
+            "lastHits10": 56
+          },
+          {
+            "enemyHeroId": 119,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 2183,
+            "lastHits10": 5
+          }
+        ],
+        "purchaseLogSha256": "6dd2369102abeab70b67f5f0bb016ae86b486f1011049b93bdeb61749a8d77de",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 17,
+              "abilityKey": "special_bonus_unique_luna_1",
+              "abilityId": 6180,
+              "label": "+80 Lucent Beam Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9037223427,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9037218330,
+        "startTime": 1791581224,
+        "patchId": 60,
+        "durationSeconds": 2438,
+        "sourceUrl": "https://api.opendota.com/api/matches/9037218330",
+        "replayUrl": "https://www.opendota.com/matches/9037218330",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -87,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -87,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -87,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -87,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 373,
+            "stage": "early"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 631,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 978,
+            "stage": "mid"
+          },
+          {
+            "key": "dragon_lance",
+            "timeSeconds": 1130,
+            "stage": "mid"
+          },
+          {
+            "key": "hurricane_pike",
+            "timeSeconds": 1325,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1505,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1848,
+            "stage": "late"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 2076,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 17
+            },
+            {
+              "minute": 10,
+              "value": 67
+            },
+            {
+              "minute": 15,
+              "value": 143
+            },
+            {
+              "minute": 20,
+              "value": 214
+            },
+            {
+              "minute": 25,
+              "value": 305
+            },
+            {
+              "minute": 30,
+              "value": 374
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1831
+            },
+            {
+              "minute": 10,
+              "value": 3929
+            },
+            {
+              "minute": 15,
+              "value": 6500
+            },
+            {
+              "minute": 20,
+              "value": 9823
+            },
+            {
+              "minute": 25,
+              "value": 13595
+            },
+            {
+              "minute": 30,
+              "value": 17679
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 77,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4601,
+            "lastHits10": 63
+          },
+          {
+            "enemyHeroId": 119,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1685,
+            "lastHits10": 7
+          }
+        ],
+        "purchaseLogSha256": "8452dbe57770193084edef220983bbf6ae75d39c671163906bcc17972a2c8fe2",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 17,
+              "abilityKey": "special_bonus_unique_luna_1",
+              "abilityId": 6180,
+              "label": "+80 Lucent Beam Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_luna_3",
+              "abilityId": 6682,
+              "label": "+25/50 Lunar Blessing Allied/Self Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9037218330,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9037212268,
+        "startTime": 1791580899,
+        "patchId": 60,
+        "durationSeconds": 2848,
+        "sourceUrl": "https://api.opendota.com/api/matches/9037212268",
+        "replayUrl": "https://www.opendota.com/matches/9037212268",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "slippers",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -31,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 98,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 334,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 589,
+            "stage": "early"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 744,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 964,
+            "stage": "mid"
+          },
+          {
+            "key": "dragon_lance",
+            "timeSeconds": 1070,
+            "stage": "mid"
+          },
+          {
+            "key": "ultimate_scepter",
+            "timeSeconds": 1435,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1813,
+            "stage": "late"
+          },
+          {
+            "key": "hurricane_pike",
+            "timeSeconds": 2103,
+            "stage": "late"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 2456,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 2581,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 24
+            },
+            {
+              "minute": 10,
+              "value": 67
+            },
+            {
+              "minute": 15,
+              "value": 157
+            },
+            {
+              "minute": 20,
+              "value": 254
+            },
+            {
+              "minute": 25,
+              "value": 338
+            },
+            {
+              "minute": 30,
+              "value": 411
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2300
+            },
+            {
+              "minute": 10,
+              "value": 4558
+            },
+            {
+              "minute": 15,
+              "value": 8100
+            },
+            {
+              "minute": 20,
+              "value": 12629
+            },
+            {
+              "minute": 25,
+              "value": 16244
+            },
+            {
+              "minute": 30,
+              "value": 19872
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 96,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3645,
+            "lastHits10": 48
+          },
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1329,
+            "lastHits10": 1
+          }
+        ],
+        "purchaseLogSha256": "1955de490827cc44a3b201b272e5962390873828c565328b332c024430ce6a82",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_6",
+              "abilityId": 770,
+              "label": "-40s Eclipse Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_luna_3",
+              "abilityId": 6682,
+              "label": "+25/50 Lunar Blessing Allied/Self Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9037212268,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9037203433,
+        "startTime": 1791580437,
+        "patchId": 60,
+        "durationSeconds": 2505,
+        "sourceUrl": "https://api.opendota.com/api/matches/9037203433",
+        "replayUrl": "https://www.opendota.com/matches/9037203433",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 293,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 643,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 904,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1094,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1347,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1563,
+            "stage": "mid"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2051,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 2148,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 21
+            },
+            {
+              "minute": 10,
+              "value": 43
+            },
+            {
+              "minute": 15,
+              "value": 115
+            },
+            {
+              "minute": 20,
+              "value": 199
+            },
+            {
+              "minute": 25,
+              "value": 284
+            },
+            {
+              "minute": 30,
+              "value": 383
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2156
+            },
+            {
+              "minute": 10,
+              "value": 3683
+            },
+            {
+              "minute": 15,
+              "value": 6047
+            },
+            {
+              "minute": 20,
+              "value": 9625
+            },
+            {
+              "minute": 25,
+              "value": 14005
+            },
+            {
+              "minute": 30,
+              "value": 18435
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 155,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3378,
+            "lastHits10": 39
+          },
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 3084,
+            "lastHits10": 12
+          }
+        ],
+        "purchaseLogSha256": "13671cb230984bcecf1fcad2705cec89bde3dbcefdb284030a341aeddf18e34f",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_1",
+              "abilityId": 6180,
+              "label": "+80 Lucent Beam Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_luna_3",
+              "abilityId": 6682,
+              "label": "+25/50 Lunar Blessing Allied/Self Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_luna_4",
+              "abilityId": 7047,
+              "label": "+0.5s Lucent Beam Ministun",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9037203433,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9037190252,
+        "startTime": 1791579781,
+        "patchId": 60,
+        "durationSeconds": 2128,
+        "sourceUrl": "https://api.opendota.com/api/matches/9037190252",
+        "replayUrl": "https://www.opendota.com/matches/9037190252",
+        "heroId": 48,
+        "leagueId": 20359,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 379,
+            "stage": "early"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 517,
+            "stage": "early"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 779,
+            "stage": "mid"
+          },
+          {
+            "key": "dragon_lance",
+            "timeSeconds": 1031,
+            "stage": "mid"
+          },
+          {
+            "key": "hurricane_pike",
+            "timeSeconds": 1269,
+            "stage": "mid"
+          },
+          {
+            "key": "butterfly",
+            "timeSeconds": 1668,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1852,
+            "stage": "late"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2052,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 21
+            },
+            {
+              "minute": 10,
+              "value": 59
+            },
+            {
+              "minute": 15,
+              "value": 114
+            },
+            {
+              "minute": 20,
+              "value": 187
+            },
+            {
+              "minute": 25,
+              "value": 242
+            },
+            {
+              "minute": 30,
+              "value": 320
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2200
+            },
+            {
+              "minute": 10,
+              "value": 4868
+            },
+            {
+              "minute": 15,
+              "value": 7893
+            },
+            {
+              "minute": 20,
+              "value": 10817
+            },
+            {
+              "minute": 25,
+              "value": 14499
+            },
+            {
+              "minute": 30,
+              "value": 20619
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 78,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4310,
+            "lastHits10": 50
+          },
+          {
+            "enemyHeroId": 100,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1502,
+            "lastHits10": 10
+          }
+        ],
+        "purchaseLogSha256": "48e9c2e744bae9773d640c1ca165f21bc80b7cb6a7d712441ba33921f3511e1f",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_luna_3",
+              "abilityId": 6682,
+              "label": "+25/50 Lunar Blessing Allied/Self Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9037190252,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9036629814,
+        "startTime": 1791559101,
+        "patchId": 60,
+        "durationSeconds": 2972,
+        "sourceUrl": "https://api.opendota.com/api/matches/9036629814",
+        "replayUrl": "https://www.opendota.com/matches/9036629814",
+        "heroId": 48,
+        "leagueId": 19102,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 48,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": 0,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 120,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 395,
+            "stage": "early"
+          },
+          {
+            "key": "mask_of_madness",
+            "timeSeconds": 681,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 889,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1057,
+            "stage": "mid"
+          },
+          {
+            "key": "dragon_lance",
+            "timeSeconds": 1289,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1478,
+            "stage": "mid"
+          },
+          {
+            "key": "blink",
+            "timeSeconds": 1992,
+            "stage": "late"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2159,
+            "stage": "late"
+          },
+          {
+            "key": "swift_blink",
+            "timeSeconds": 2376,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 2803,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 20
+            },
+            {
+              "minute": 10,
+              "value": 58
+            },
+            {
+              "minute": 15,
+              "value": 136
+            },
+            {
+              "minute": 20,
+              "value": 224
+            },
+            {
+              "minute": 25,
+              "value": 326
+            },
+            {
+              "minute": 30,
+              "value": 412
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1890
+            },
+            {
+              "minute": 10,
+              "value": 3818
+            },
+            {
+              "minute": 15,
+              "value": 6683
+            },
+            {
+              "minute": 20,
+              "value": 10236
+            },
+            {
+              "minute": 25,
+              "value": 15018
+            },
+            {
+              "minute": 30,
+              "value": 18260
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 29,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3749,
+            "lastHits10": 49
+          },
+          {
+            "enemyHeroId": 86,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1599,
+            "lastHits10": 6
+          }
+        ],
+        "purchaseLogSha256": "9fad4173fe36fc4caff5800bc030c00a26db6ecff34e306b635e8e5a2c342695",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "luna_moon_glaive",
+              "abilityId": 5223,
+              "label": "Moon Glaives",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "luna_lucent_beam",
+              "abilityId": 5222,
+              "label": "Lucent Beam",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_luna_7",
+              "abilityId": 847,
+              "label": "-5% Moon Glaives Damage Reduction",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "luna_lunar_orbit",
+              "abilityId": 1462,
+              "label": "Lunar Orbit",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 17,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_glaive_count",
+              "abilityId": 323,
+              "label": "+1 Lunar Orbit Glaive",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "luna_eclipse",
+              "abilityId": 5225,
+              "label": "Eclipse",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+              "abilityId": 1812,
+              "label": "1.5x Lunar Orbit Damage / Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_luna_3",
+              "abilityId": 6682,
+              "label": "+25/50 Lunar Blessing Allied/Self Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9036629814,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      }
+    ],
+    "benchmarkMethod": "Linear-interpolated empirical quantiles from exact times/lh_t/networth_t checkpoints; gold_t is never substituted for net worth",
+    "buildMethod": "Group observed first two major purchases; show newest actual purchase log in the largest group. Timings are that match, not a universal target.",
+    "skillMethod": "Recorded ability_upgrades_arr from the same representative match, mapped by exact current Valve ability IDs. Array-only levels are an earliest-legal reconstruction, not recorded hero levels; innate abilities are excluded."
+  },
+  "caveats": [
+    "Dota2ProTracker is a browsing reference only; this cached dataset comes from the public OpenDota API.",
+    "OpenDota patch IDs identify base patches and cannot verify the current minor-letter patch.",
+    "This is a small observational sample with the actual date range shown, not a current-patch meta guarantee.",
+    "Missing or unparsed replays, role inference, match duration, and the league population introduce selection bias.",
+    "Farm quantiles describe these samples; personal farm targets remain separate and editable.",
+    "A purchase in a winning match does not establish the best item for this matchup.",
+    "Skill order is observed; levels reconstructed from an upgrade array may differ if the player saved skill points. The current Valve ability catalog does not verify the match minor patch."
+  ],
+  "validation": {
+    "attemptedMatches": 12,
+    "retainedCarries": 12,
+    "fetchErrors": []
+  }
+}

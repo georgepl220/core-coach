@@ -1,0 +1,22 @@
+node_modules/
+runtime/
+release/
+logs/
+*.log
+settings.json
+artifacts/
+backups/
+exports/
+
+# Personal credentials and local game data must never enter a source backup.
+.env
+.env.*
+!.env.example
+*credentials*.json
+*.key
+*.pem
+*.p12
+*.pfx
+*.soc
+*.dmp
+gamestate_integration*.cfg

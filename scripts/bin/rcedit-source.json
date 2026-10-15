@@ -1,0 +1,10 @@
+{
+  "project": "electron/rcedit",
+  "release": "v2.0.0",
+  "releasePage": "https://github.com/electron/rcedit/releases/tag/v2.0.0",
+  "sourceUrl": "https://github.com/electron/rcedit/releases/download/v2.0.0/rcedit-x64.exe",
+  "sha256": "3e7801db1a5edbec91b49a24a094aad776cb4515488ea5a4ca2289c400eade2a",
+  "sizeBytes": 1360384,
+  "checksumNote": "The official GitHub release asset has no published digest. This SHA-256 was recorded after download directly from the official Electron repository and is checked before every packaging use.",
+  "licenseFile": "rcedit-LICENSE.txt"
+}

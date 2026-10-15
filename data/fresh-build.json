@@ -1,0 +1,390 @@
+{
+  "schemaVersion": 1,
+  "heroId": 42,
+  "source": "OpenDota",
+  "sourceUrl": "https://api.opendota.com/api/heroes/42/itemPopularity",
+  "externalUrl": "https://dota2protracker.com/hero/Wraith%20King",
+  "fetchedAt": "2026-10-12T10:21:57.925Z",
+  "status": "available",
+  "patchVerified": false,
+  "patch": null,
+  "sampleCount": null,
+  "build": {
+    "role": "unknown",
+    "items": [
+      {
+        "key": "branches",
+        "phase": "start",
+        "evidenceCount": 147,
+        "phaseRank": 1,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "quelling_blade",
+        "phase": "start",
+        "evidenceCount": 91,
+        "phaseRank": 2,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "tango",
+        "phase": "start",
+        "evidenceCount": 85,
+        "phaseRank": 3,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "magic_stick",
+        "phase": "start",
+        "evidenceCount": 64,
+        "phaseRank": 4,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "bracer",
+        "phase": "start",
+        "evidenceCount": 1,
+        "phaseRank": 5,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "magic_wand",
+        "phase": "start",
+        "evidenceCount": 1,
+        "phaseRank": 6,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "phase_boots",
+        "phase": "early",
+        "evidenceCount": 74,
+        "phaseRank": 1,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "bracer",
+        "phase": "early",
+        "evidenceCount": 63,
+        "phaseRank": 2,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "power_treads",
+        "phase": "early",
+        "evidenceCount": 12,
+        "phaseRank": 3,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "soul_ring",
+        "phase": "early",
+        "evidenceCount": 8,
+        "phaseRank": 4,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "armlet",
+        "phase": "early",
+        "evidenceCount": 4,
+        "phaseRank": 5,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "echo_sabre",
+        "phase": "early",
+        "evidenceCount": 1,
+        "phaseRank": 6,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "radiance",
+        "phase": "mid",
+        "evidenceCount": 63,
+        "phaseRank": 1,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "blink",
+        "phase": "mid",
+        "evidenceCount": 55,
+        "phaseRank": 2,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "armlet",
+        "phase": "mid",
+        "evidenceCount": 41,
+        "phaseRank": 3,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "aghanims_shard",
+        "phase": "mid",
+        "evidenceCount": 24,
+        "phaseRank": 4,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "desolator",
+        "phase": "mid",
+        "evidenceCount": 24,
+        "phaseRank": 5,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "phase_boots",
+        "phase": "mid",
+        "evidenceCount": 10,
+        "phaseRank": 6,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "orchid",
+        "phase": "mid",
+        "evidenceCount": 8,
+        "phaseRank": 7,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "invis_sword",
+        "phase": "mid",
+        "evidenceCount": 7,
+        "phaseRank": 8,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "echo_sabre",
+        "phase": "mid",
+        "evidenceCount": 5,
+        "phaseRank": 9,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "ultimate_scepter",
+        "phase": "mid",
+        "evidenceCount": 5,
+        "phaseRank": 10,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "harpoon",
+        "phase": "mid",
+        "evidenceCount": 2,
+        "phaseRank": 11,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "silver_edge",
+        "phase": "mid",
+        "evidenceCount": 2,
+        "phaseRank": 12,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "assault",
+        "phase": "mid",
+        "evidenceCount": 1,
+        "phaseRank": 13,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "black_king_bar",
+        "phase": "mid",
+        "evidenceCount": 1,
+        "phaseRank": 14,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "power_treads",
+        "phase": "mid",
+        "evidenceCount": 1,
+        "phaseRank": 15,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "sange_and_yasha",
+        "phase": "mid",
+        "evidenceCount": 1,
+        "phaseRank": 16,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "black_king_bar",
+        "phase": "late",
+        "evidenceCount": 18,
+        "phaseRank": 1,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "blink",
+        "phase": "late",
+        "evidenceCount": 16,
+        "phaseRank": 2,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "assault",
+        "phase": "late",
+        "evidenceCount": 14,
+        "phaseRank": 3,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "ultimate_scepter",
+        "phase": "late",
+        "evidenceCount": 9,
+        "phaseRank": 4,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "desolator",
+        "phase": "late",
+        "evidenceCount": 8,
+        "phaseRank": 5,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "orchid",
+        "phase": "late",
+        "evidenceCount": 7,
+        "phaseRank": 6,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "bloodthorn",
+        "phase": "late",
+        "evidenceCount": 6,
+        "phaseRank": 7,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "invis_sword",
+        "phase": "late",
+        "evidenceCount": 5,
+        "phaseRank": 8,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "monkey_king_bar",
+        "phase": "late",
+        "evidenceCount": 5,
+        "phaseRank": 9,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "nullifier",
+        "phase": "late",
+        "evidenceCount": 4,
+        "phaseRank": 10,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "abyssal_blade",
+        "phase": "late",
+        "evidenceCount": 3,
+        "phaseRank": 11,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "silver_edge",
+        "phase": "late",
+        "evidenceCount": 3,
+        "phaseRank": 12,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "echo_sabre",
+        "phase": "late",
+        "evidenceCount": 2,
+        "phaseRank": 13,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "harpoon",
+        "phase": "late",
+        "evidenceCount": 2,
+        "phaseRank": 14,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "radiance",
+        "phase": "late",
+        "evidenceCount": 1,
+        "phaseRank": 15,
+        "timingMinutes": null,
+        "frequency": null
+      },
+      {
+        "key": "skadi",
+        "phase": "late",
+        "evidenceCount": 1,
+        "phaseRank": 16,
+        "timingMinutes": null,
+        "frequency": null
+      }
+    ]
+  },
+  "benchmarks": [],
+  "provenance": {
+    "kind": "existing_aggregate_dataset",
+    "population": "Professional item purchases; player role is not exposed by this endpoint",
+    "timeWindow": null,
+    "patchFiltered": false,
+    "uniqueMatchCount": null,
+    "caveats": [
+      "The API does not expose the aggregate time window, patch filter, or player role.",
+      "Counts represent purchases and are not a percentage of unique matches.",
+      "Phase ranks are observed popularity, not a fixed carry build or evidence of an optimal item.",
+      "No purchase timings or minute-specific last-hit/net-worth benchmarks are supplied by this endpoint."
+    ]
+  },
+  "licenses": {
+    "source": "OpenDota public API",
+    "documentationUrl": "https://docs.opendota.com/"
+  },
+  "validation": {
+    "unknownItemIds": []
+  }
+}

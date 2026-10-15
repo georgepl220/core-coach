@@ -1,0 +1,6201 @@
+{
+  "schemaVersion": 1,
+  "heroId": 44,
+  "role": "carry",
+  "status": "available",
+  "source": "OpenDota recent parsed carry matches",
+  "sourceUrl": "https://api.opendota.com/api/heroes/44/matches",
+  "d2ptReference": "https://dota2protracker.com/hero/Phantom%20Assassin",
+  "externalUrl": "https://dota2protracker.com/hero/Phantom%20Assassin",
+  "fetchedAt": "2026-10-12T21:23:52.396Z",
+  "sampleCount": 12,
+  "patch": {
+    "id": 60,
+    "name": "7.41",
+    "verified": true,
+    "minorPatchVerified": false,
+    "scope": "Exact OpenDota base patch ID, not a verified minor-letter patch or D2PT patch filter"
+  },
+  "patchVerified": true,
+  "windowText": "2026-08-29 — 2026-10-11",
+  "window": {
+    "from": "2026-08-29T19:08:02.000Z",
+    "to": "2026-10-11T13:16:44.000Z",
+    "lookbackDays": 45
+  },
+  "builds": [
+    {
+      "id": "bfury-black_king_bar",
+      "matches": 5,
+      "winRate": 0,
+      "frequency": 0.4166666666666667,
+      "sequence": [
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "ward_observer",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -85,
+          "stage": "start"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 149,
+          "stage": "early"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 307,
+          "stage": "early"
+        },
+        {
+          "key": "bfury",
+          "timeSeconds": 793,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1153,
+          "stage": "mid"
+        },
+        {
+          "key": "desolator",
+          "timeSeconds": 1441,
+          "stage": "mid"
+        },
+        {
+          "key": "nullifier",
+          "timeSeconds": 1795,
+          "stage": "mid"
+        },
+        {
+          "key": "sange",
+          "timeSeconds": 2215,
+          "stage": "late"
+        },
+        {
+          "key": "abyssal_blade",
+          "timeSeconds": 2242,
+          "stage": "late"
+        },
+        {
+          "key": "satanic",
+          "timeSeconds": 2833,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 9013194284,
+      "representativeDate": "2026-09-23T21:30:45.000Z",
+      "sourceMatchIds": [
+        9013194284,
+        9011851189,
+        8997104994,
+        8972907600,
+        8972898964
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_phantom_assassin_4",
+          "abilityId": 483,
+          "label": "+0.8s Phantom Strike Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_unique_phantom_assassin_3",
+          "abilityId": 6848,
+          "label": "+20% Immaterial Evasion",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_unique_phantom_assassin_6",
+          "abilityId": 490,
+          "label": "+200 Phantom Strike Cast Range",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 25,
+          "abilityKey": "special_bonus_unique_phantom_assassin_2",
+          "abilityId": 6847,
+          "label": "+10% Coup de Grace chance",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 19,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 26,
+          "abilityKey": "special_bonus_unique_phantom_assassin_7",
+          "abilityId": 559,
+          "label": "-2s Stifling Dagger Cooldown",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 20,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 27,
+          "abilityKey": "special_bonus_unique_phantom_assassin_5",
+          "abilityId": 491,
+          "label": "+15% Stifling Dagger Damage",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 21,
+          "sourceMatchId": 9013194284,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9013194284,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "bfury",
+      "matches": 2,
+      "winRate": 0,
+      "frequency": 0.16666666666666666,
+      "sequence": [
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 221,
+          "stage": "early"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 363,
+          "stage": "early"
+        },
+        {
+          "key": "bfury",
+          "timeSeconds": 1034,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 9040034249,
+      "representativeDate": "2026-10-11T13:16:44.000Z",
+      "sourceMatchIds": [
+        9040034249,
+        8972894757
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 8,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 9,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "special_bonus_unique_phantom_assassin_4",
+          "abilityId": 483,
+          "label": "+0.8s Phantom Strike Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 10,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 9040034249,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 9040034249,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "desolator",
+      "matches": 2,
+      "winRate": 0,
+      "frequency": 0.16666666666666666,
+      "sequence": [
+        {
+          "key": "tango",
+          "timeSeconds": -86,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -86,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -82,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -81,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -79,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -77,
+          "stage": "start"
+        },
+        {
+          "key": "wraith_band",
+          "timeSeconds": 166,
+          "stage": "early"
+        },
+        {
+          "key": "magic_wand",
+          "timeSeconds": 167,
+          "stage": "early"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 476,
+          "stage": "early"
+        },
+        {
+          "key": "desolator",
+          "timeSeconds": 1083,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 8972901532,
+      "representativeDate": "2026-08-29T19:12:03.000Z",
+      "sourceMatchIds": [
+        8972901532,
+        8972897085
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_phantom_assassin_7",
+          "abilityId": 559,
+          "label": "-2s Stifling Dagger Cooldown",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8972901532,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8972901532,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "bfury-yasha",
+      "matches": 1,
+      "winRate": 1,
+      "frequency": 0.08333333333333333,
+      "sequence": [
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "magic_stick",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "faerie_fire",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -78,
+          "stage": "start"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 209,
+          "stage": "early"
+        },
+        {
+          "key": "bfury",
+          "timeSeconds": 788,
+          "stage": "mid"
+        },
+        {
+          "key": "yasha",
+          "timeSeconds": 975,
+          "stage": "mid"
+        },
+        {
+          "key": "manta",
+          "timeSeconds": 1101,
+          "stage": "mid"
+        },
+        {
+          "key": "satanic",
+          "timeSeconds": 1335,
+          "stage": "mid"
+        },
+        {
+          "key": "desolator",
+          "timeSeconds": 1514,
+          "stage": "mid"
+        },
+        {
+          "key": "sange",
+          "timeSeconds": 1701,
+          "stage": "mid"
+        },
+        {
+          "key": "abyssal_blade",
+          "timeSeconds": 1749,
+          "stage": "mid"
+        }
+      ],
+      "representativeMatchId": 8997248491,
+      "representativeDate": "2026-09-13T14:30:29.000Z",
+      "sourceMatchIds": [
+        8997248491
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_phantom_assassin_4",
+          "abilityId": 483,
+          "label": "+0.8s Phantom Strike Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_unique_phantom_assassin_3",
+          "abilityId": 6848,
+          "label": "+20% Immaterial Evasion",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_unique_phantom_assassin_6",
+          "abilityId": 490,
+          "label": "+200 Phantom Strike Cast Range",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 8997248491,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8997248491,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "bfury-monkey_king_bar",
+      "matches": 1,
+      "winRate": 0,
+      "frequency": 0.08333333333333333,
+      "sequence": [
+        {
+          "key": "tango",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -89,
+          "stage": "start"
+        },
+        {
+          "key": "slippers",
+          "timeSeconds": -87,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -86,
+          "stage": "start"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 320,
+          "stage": "early"
+        },
+        {
+          "key": "bfury",
+          "timeSeconds": 790,
+          "stage": "mid"
+        },
+        {
+          "key": "monkey_king_bar",
+          "timeSeconds": 1196,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1476,
+          "stage": "mid"
+        },
+        {
+          "key": "satanic",
+          "timeSeconds": 1776,
+          "stage": "mid"
+        },
+        {
+          "key": "ultimate_scepter",
+          "timeSeconds": 2076,
+          "stage": "late"
+        },
+        {
+          "key": "aghanims_shard",
+          "timeSeconds": 2178,
+          "stage": "late"
+        },
+        {
+          "key": "moon_shard",
+          "timeSeconds": 3282,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 8973255748,
+      "representativeDate": "2026-08-30T00:02:47.000Z",
+      "sourceMatchIds": [
+        8973255748
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "special_bonus_unique_phantom_assassin_7",
+          "abilityId": 559,
+          "label": "-2s Stifling Dagger Cooldown",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 14,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_unique_phantom_assassin_5",
+          "abilityId": 491,
+          "label": "+15% Stifling Dagger Damage",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_unique_phantom_assassin_strike_aspd",
+          "abilityId": 1074,
+          "label": "+60 Phantom Strike Attack Speed",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 25,
+          "abilityKey": "special_bonus_unique_phantom_assassin",
+          "abilityId": 6192,
+          "label": "Triple Strike Stifling Dagger",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 19,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 26,
+          "abilityKey": "special_bonus_unique_phantom_assassin_4",
+          "abilityId": 483,
+          "label": "+0.8s Phantom Strike Duration",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 20,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 27,
+          "abilityKey": "special_bonus_unique_phantom_assassin_6",
+          "abilityId": 490,
+          "label": "+200 Phantom Strike Cast Range",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 21,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 28,
+          "abilityKey": "special_bonus_unique_phantom_assassin_3",
+          "abilityId": 6848,
+          "label": "+20% Immaterial Evasion",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 22,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 29,
+          "abilityKey": "special_bonus_unique_phantom_assassin_2",
+          "abilityId": 6847,
+          "label": "+10% Coup de Grace chance",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 23,
+          "sourceMatchId": 8973255748,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8973255748,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    },
+    {
+      "id": "bfury-desolator",
+      "matches": 1,
+      "winRate": 1,
+      "frequency": 0.08333333333333333,
+      "sequence": [
+        {
+          "key": "magic_stick",
+          "timeSeconds": -88,
+          "stage": "start"
+        },
+        {
+          "key": "circlet",
+          "timeSeconds": -88,
+          "stage": "start"
+        },
+        {
+          "key": "quelling_blade",
+          "timeSeconds": -88,
+          "stage": "start"
+        },
+        {
+          "key": "branches",
+          "timeSeconds": -88,
+          "stage": "start"
+        },
+        {
+          "key": "power_treads",
+          "timeSeconds": 309,
+          "stage": "early"
+        },
+        {
+          "key": "bfury",
+          "timeSeconds": 824,
+          "stage": "mid"
+        },
+        {
+          "key": "desolator",
+          "timeSeconds": 1174,
+          "stage": "mid"
+        },
+        {
+          "key": "black_king_bar",
+          "timeSeconds": 1446,
+          "stage": "mid"
+        },
+        {
+          "key": "aghanims_shard",
+          "timeSeconds": 1875,
+          "stage": "late"
+        }
+      ],
+      "representativeMatchId": 8973098052,
+      "representativeDate": "2026-08-29T21:21:33.000Z",
+      "sourceMatchIds": [
+        8973098052
+      ],
+      "timingKind": "actual_purchase_log_of_representative_match",
+      "skills": [
+        {
+          "heroLevel": 1,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 1,
+          "upgradeIndex": 1,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 2,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 1,
+          "upgradeIndex": 2,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 3,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 2,
+          "upgradeIndex": 3,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 4,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 1,
+          "upgradeIndex": 4,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 5,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 2,
+          "upgradeIndex": 5,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 6,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 3,
+          "upgradeIndex": 6,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 7,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 1,
+          "upgradeIndex": 7,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 8,
+          "abilityKey": "phantom_assassin_phantom_strike",
+          "abilityId": 5191,
+          "label": "Phantom Strike",
+          "hotkey": "W",
+          "rank": 4,
+          "upgradeIndex": 8,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 9,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 3,
+          "upgradeIndex": 9,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 10,
+          "abilityKey": "special_bonus_unique_phantom_assassin_7",
+          "abilityId": 559,
+          "label": "-2s Stifling Dagger Cooldown",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 10,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 11,
+          "abilityKey": "phantom_assassin_stifling_dagger",
+          "abilityId": 5190,
+          "label": "Stifling Dagger",
+          "hotkey": "Q",
+          "rank": 4,
+          "upgradeIndex": 11,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 12,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 2,
+          "upgradeIndex": 12,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 13,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 2,
+          "upgradeIndex": 13,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 14,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 3,
+          "upgradeIndex": 14,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 15,
+          "abilityKey": "phantom_assassin_immaterial",
+          "abilityId": 1287,
+          "label": "Immaterial",
+          "hotkey": "E",
+          "rank": 4,
+          "upgradeIndex": 15,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 16,
+          "abilityKey": "special_bonus_unique_phantom_assassin_5",
+          "abilityId": 491,
+          "label": "+15% Stifling Dagger Damage",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 16,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 18,
+          "abilityKey": "phantom_assassin_coup_de_grace",
+          "abilityId": 5193,
+          "label": "Coup de Grace",
+          "hotkey": "R",
+          "rank": 3,
+          "upgradeIndex": 17,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        },
+        {
+          "heroLevel": 20,
+          "abilityKey": "special_bonus_unique_phantom_assassin_6",
+          "abilityId": 490,
+          "label": "+200 Phantom Strike Cast Range",
+          "hotkey": "T",
+          "rank": 1,
+          "upgradeIndex": 18,
+          "sourceMatchId": 8973098052,
+          "levelVerified": false
+        }
+      ],
+      "skillOrderKind": "recorded_upgrade_order_reconstructed_levels",
+      "skillLevelsVerified": false,
+      "skillSourceMatchId": 8973098052,
+      "skillUnknownAbilityIds": [],
+      "skillOrderComplete": true
+    }
+  ],
+  "itemStats": [
+    {
+      "key": "power_treads",
+      "matches": 12,
+      "frequency": 1,
+      "medianTimeSeconds": 376,
+      "p25TimeSeconds": 308.5,
+      "p75TimeSeconds": 443.75
+    },
+    {
+      "key": "bfury",
+      "matches": 10,
+      "frequency": 0.8333333333333334,
+      "medianTimeSeconds": 857,
+      "p25TimeSeconds": 790.75,
+      "p75TimeSeconds": 1029
+    },
+    {
+      "key": "magic_wand",
+      "matches": 9,
+      "frequency": 0.75,
+      "medianTimeSeconds": 167,
+      "p25TimeSeconds": 149,
+      "p75TimeSeconds": 221
+    },
+    {
+      "key": "black_king_bar",
+      "matches": 7,
+      "frequency": 0.5833333333333334,
+      "medianTimeSeconds": 1446,
+      "p25TimeSeconds": 1240.5,
+      "p75TimeSeconds": 1529
+    },
+    {
+      "key": "desolator",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 1174,
+      "p25TimeSeconds": 1083,
+      "p75TimeSeconds": 1441
+    },
+    {
+      "key": "satanic",
+      "matches": 5,
+      "frequency": 0.4166666666666667,
+      "medianTimeSeconds": 1882,
+      "p25TimeSeconds": 1776,
+      "p75TimeSeconds": 2034
+    },
+    {
+      "key": "aghanims_shard",
+      "matches": 3,
+      "frequency": 0.25,
+      "medianTimeSeconds": 1949,
+      "p25TimeSeconds": 1912,
+      "p75TimeSeconds": 2063.5
+    },
+    {
+      "key": "sange",
+      "matches": 2,
+      "frequency": 0.16666666666666666,
+      "medianTimeSeconds": 1958,
+      "p25TimeSeconds": 1829.5,
+      "p75TimeSeconds": 2086.5
+    },
+    {
+      "key": "abyssal_blade",
+      "matches": 2,
+      "frequency": 0.16666666666666666,
+      "medianTimeSeconds": 1995.5,
+      "p25TimeSeconds": 1872.25,
+      "p75TimeSeconds": 2118.75
+    },
+    {
+      "key": "nullifier",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 1795,
+      "p25TimeSeconds": 1795,
+      "p75TimeSeconds": 1795
+    },
+    {
+      "key": "yasha",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 975,
+      "p25TimeSeconds": 975,
+      "p75TimeSeconds": 975
+    },
+    {
+      "key": "manta",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 1101,
+      "p25TimeSeconds": 1101,
+      "p75TimeSeconds": 1101
+    },
+    {
+      "key": "monkey_king_bar",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 1196,
+      "p25TimeSeconds": 1196,
+      "p75TimeSeconds": 1196
+    },
+    {
+      "key": "ultimate_scepter",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 2076,
+      "p25TimeSeconds": 2076,
+      "p75TimeSeconds": 2076
+    },
+    {
+      "key": "moon_shard",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 3282,
+      "p25TimeSeconds": 3282,
+      "p75TimeSeconds": 3282
+    },
+    {
+      "key": "wraith_band",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 166,
+      "p25TimeSeconds": 166,
+      "p75TimeSeconds": 166
+    },
+    {
+      "key": "bracer",
+      "matches": 1,
+      "frequency": 0.08333333333333333,
+      "medianTimeSeconds": 187,
+      "p25TimeSeconds": 187,
+      "p75TimeSeconds": 187
+    }
+  ],
+  "laneMatchups": [
+    {
+      "enemyHeroId": 123,
+      "matchCount": 3,
+      "sourceMatchIds": [
+        9011851189,
+        8973098052,
+        8972901532
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 135,
+      "matchCount": 2,
+      "sourceMatchIds": [
+        8972901532,
+        8972897085
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 55,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9040034249
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": -586,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 105,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9040034249
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 78,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9013194284
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 2104,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 68,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9013194284
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 28,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        9011851189
+      ],
+      "laneOutcome": {
+        "metric": "observed_carry_minus_opposing_offlane_net_worth_at_10",
+        "medianDifference": 36,
+        "sampleSize": 1
+      }
+    },
+    {
+      "enemyHeroId": 63,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8997248491
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 136,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8997248491
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 120,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8997104994
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 121,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8997104994
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 7,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8973255748
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 128,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8973255748
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 96,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8973098052
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 3,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972907600
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 85,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972907600
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 69,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972898964
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 79,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972898964
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 51,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972897085
+      ],
+      "laneOutcome": null
+    },
+    {
+      "enemyHeroId": 97,
+      "matchCount": 1,
+      "sourceMatchIds": [
+        8972894757
+      ],
+      "laneOutcome": null
+    }
+  ],
+  "benchmarks": {
+    "lastHits": [
+      {
+        "minute": 5,
+        "p25": 18,
+        "p50": 20,
+        "p75": 22.25,
+        "sampleSize": 12
+      },
+      {
+        "minute": 10,
+        "p25": 41.75,
+        "p50": 48,
+        "p75": 50.75,
+        "sampleSize": 12
+      },
+      {
+        "minute": 15,
+        "p25": 69,
+        "p50": 90,
+        "p75": 105,
+        "sampleSize": 12
+      },
+      {
+        "minute": 20,
+        "p25": 118,
+        "p50": 153,
+        "p75": 195,
+        "sampleSize": 11
+      },
+      {
+        "minute": 25,
+        "p25": 211,
+        "p50": 278.5,
+        "p75": 299,
+        "sampleSize": 8
+      },
+      {
+        "minute": 30,
+        "p25": 286.5,
+        "p50": 341,
+        "p75": 387.5,
+        "sampleSize": 7
+      }
+    ],
+    "netWorth": [
+      {
+        "minute": 5,
+        "p25": 2034,
+        "p50": 2082,
+        "p75": 2247.5,
+        "sampleSize": 3
+      },
+      {
+        "minute": 10,
+        "p25": 3804.5,
+        "p50": 4365,
+        "p75": 4474.5,
+        "sampleSize": 3
+      },
+      {
+        "minute": 15,
+        "p25": 5808,
+        "p50": 6893,
+        "p75": 7056,
+        "sampleSize": 3
+      },
+      {
+        "minute": 20,
+        "p25": 8006,
+        "p50": 9384,
+        "p75": 10355.5,
+        "sampleSize": 3
+      }
+    ]
+  },
+  "currentAbilityCatalog": {
+    "phantom_assassin_stifling_dagger": {
+      "abilityId": 5190,
+      "abilityKey": "phantom_assassin_stifling_dagger",
+      "label": "Stifling Dagger",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_phantom_strike": {
+      "abilityId": 5191,
+      "abilityKey": "phantom_assassin_phantom_strike",
+      "label": "Phantom Strike",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_blur": {
+      "abilityId": 5192,
+      "abilityKey": "phantom_assassin_blur",
+      "label": "Blur",
+      "hotkey": "E",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "granted": false,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_fan_of_knives": {
+      "abilityId": 662,
+      "abilityKey": "phantom_assassin_fan_of_knives",
+      "label": "Fan of Knives",
+      "hotkey": "E",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": true,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_immaterial": {
+      "abilityId": 1287,
+      "abilityKey": "phantom_assassin_immaterial",
+      "label": "Immaterial",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_coup_de_grace": {
+      "abilityId": 5193,
+      "abilityKey": "phantom_assassin_coup_de_grace",
+      "label": "Coup de Grace",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "special_bonus_unique_phantom_assassin_4": {
+      "abilityId": 483,
+      "abilityKey": "special_bonus_unique_phantom_assassin_4",
+      "label": "+0.8s Phantom Strike Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_phantom_assassin_7": {
+      "abilityId": 559,
+      "abilityKey": "special_bonus_unique_phantom_assassin_7",
+      "label": "-2s Stifling Dagger Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_phantom_assassin_3": {
+      "abilityId": 6848,
+      "abilityKey": "special_bonus_unique_phantom_assassin_3",
+      "label": "+20% Immaterial Evasion",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_phantom_assassin_5": {
+      "abilityId": 491,
+      "abilityKey": "special_bonus_unique_phantom_assassin_5",
+      "label": "+15% Stifling Dagger Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_phantom_assassin_6": {
+      "abilityId": 490,
+      "abilityKey": "special_bonus_unique_phantom_assassin_6",
+      "label": "+200 Phantom Strike Cast Range",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_phantom_assassin_strike_aspd": {
+      "abilityId": 1074,
+      "abilityKey": "special_bonus_unique_phantom_assassin_strike_aspd",
+      "label": "+60 Phantom Strike Attack Speed",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_phantom_assassin_2": {
+      "abilityId": 6847,
+      "abilityKey": "special_bonus_unique_phantom_assassin_2",
+      "label": "+10% Coup de Grace chance",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_phantom_assassin": {
+      "abilityId": 6192,
+      "abilityKey": "special_bonus_unique_phantom_assassin",
+      "label": "Triple Strike Stifling Dagger",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilities": {
+    "phantom_assassin_stifling_dagger": {
+      "abilityId": 5190,
+      "abilityKey": "phantom_assassin_stifling_dagger",
+      "label": "Stifling Dagger",
+      "hotkey": "Q",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_phantom_strike": {
+      "abilityId": 5191,
+      "abilityKey": "phantom_assassin_phantom_strike",
+      "label": "Phantom Strike",
+      "hotkey": "W",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_blur": {
+      "abilityId": 5192,
+      "abilityKey": "phantom_assassin_blur",
+      "label": "Blur",
+      "hotkey": "E",
+      "maxRank": 1,
+      "innate": true,
+      "isInnate": true,
+      "kind": "basic",
+      "granted": false,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_fan_of_knives": {
+      "abilityId": 662,
+      "abilityKey": "phantom_assassin_fan_of_knives",
+      "label": "Fan of Knives",
+      "hotkey": "E",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": true,
+      "learnable": false,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_immaterial": {
+      "abilityId": 1287,
+      "abilityKey": "phantom_assassin_immaterial",
+      "label": "Immaterial",
+      "hotkey": "E",
+      "maxRank": 4,
+      "innate": false,
+      "isInnate": false,
+      "kind": "basic",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "phantom_assassin_coup_de_grace": {
+      "abilityId": 5193,
+      "abilityKey": "phantom_assassin_coup_de_grace",
+      "label": "Coup de Grace",
+      "hotkey": "R",
+      "maxRank": 3,
+      "innate": false,
+      "isInnate": false,
+      "kind": "ultimate",
+      "granted": false,
+      "learnable": true,
+      "minimumLevels": [
+        6,
+        12,
+        18
+      ]
+    },
+    "special_bonus_unique_phantom_assassin_4": {
+      "abilityId": 483,
+      "abilityKey": "special_bonus_unique_phantom_assassin_4",
+      "label": "+0.8s Phantom Strike Duration",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_phantom_assassin_7": {
+      "abilityId": 559,
+      "abilityKey": "special_bonus_unique_phantom_assassin_7",
+      "label": "-2s Stifling Dagger Cooldown",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        10
+      ],
+      "talentTier": 10
+    },
+    "special_bonus_unique_phantom_assassin_3": {
+      "abilityId": 6848,
+      "abilityKey": "special_bonus_unique_phantom_assassin_3",
+      "label": "+20% Immaterial Evasion",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_phantom_assassin_5": {
+      "abilityId": 491,
+      "abilityKey": "special_bonus_unique_phantom_assassin_5",
+      "label": "+15% Stifling Dagger Damage",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        15
+      ],
+      "talentTier": 15
+    },
+    "special_bonus_unique_phantom_assassin_6": {
+      "abilityId": 490,
+      "abilityKey": "special_bonus_unique_phantom_assassin_6",
+      "label": "+200 Phantom Strike Cast Range",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_phantom_assassin_strike_aspd": {
+      "abilityId": 1074,
+      "abilityKey": "special_bonus_unique_phantom_assassin_strike_aspd",
+      "label": "+60 Phantom Strike Attack Speed",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        20
+      ],
+      "talentTier": 20
+    },
+    "special_bonus_unique_phantom_assassin_2": {
+      "abilityId": 6847,
+      "abilityKey": "special_bonus_unique_phantom_assassin_2",
+      "label": "+10% Coup de Grace chance",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    },
+    "special_bonus_unique_phantom_assassin": {
+      "abilityId": 6192,
+      "abilityKey": "special_bonus_unique_phantom_assassin",
+      "label": "Triple Strike Stifling Dagger",
+      "hotkey": "T",
+      "maxRank": 1,
+      "innate": false,
+      "isInnate": false,
+      "kind": "talent",
+      "minimumLevels": [
+        25
+      ],
+      "talentTier": 25
+    }
+  },
+  "abilityCatalogSourceUrl": "https://www.dota2.com/datafeed/herodata?language=english&hero_id=44",
+  "abilityCatalogFetchedAt": "2026-10-12T21:23:52.396Z",
+  "provenance": {
+    "kind": "existing_public_parsed_match_sample",
+    "population": "Recent OpenDota league matches with parsed safelane Phantom Assassin; not the D2PT 7000+ MMR population",
+    "roleFilter": "hero_id=44, lane_role=1, not roaming, position_est=1 when present",
+    "patchFilter": 60,
+    "sampleMatchIds": [
+      9040034249,
+      9013194284,
+      9011851189,
+      8997248491,
+      8997104994,
+      8973255748,
+      8973098052,
+      8972907600,
+      8972901532,
+      8972898964,
+      8972897085,
+      8972894757
+    ],
+    "sourceUrls": [
+      "https://api.opendota.com/api/matches/9040034249",
+      "https://api.opendota.com/api/matches/9013194284",
+      "https://api.opendota.com/api/matches/9011851189",
+      "https://api.opendota.com/api/matches/8997248491",
+      "https://api.opendota.com/api/matches/8997104994",
+      "https://api.opendota.com/api/matches/8973255748",
+      "https://api.opendota.com/api/matches/8973098052",
+      "https://api.opendota.com/api/matches/8972907600",
+      "https://api.opendota.com/api/matches/8972901532",
+      "https://api.opendota.com/api/matches/8972898964",
+      "https://api.opendota.com/api/matches/8972897085",
+      "https://api.opendota.com/api/matches/8972894757"
+    ],
+    "observations": [
+      {
+        "matchId": 9040034249,
+        "startTime": 1791724604,
+        "patchId": 60,
+        "durationSeconds": 1429,
+        "sourceUrl": "https://api.opendota.com/api/matches/9040034249",
+        "replayUrl": "https://www.opendota.com/matches/9040034249",
+        "heroId": 44,
+        "leagueId": 20359,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 221,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 363,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 1034,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 18
+            },
+            {
+              "minute": 10,
+              "value": 35
+            },
+            {
+              "minute": 15,
+              "value": 51
+            },
+            {
+              "minute": 20,
+              "value": 76
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 1986
+            },
+            {
+              "minute": 10,
+              "value": 3244
+            },
+            {
+              "minute": 15,
+              "value": 4723
+            },
+            {
+              "minute": 20,
+              "value": 6628
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 55,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 3830,
+            "lastHits10": 51
+          },
+          {
+            "enemyHeroId": 105,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1533,
+            "lastHits10": 0
+          }
+        ],
+        "purchaseLogSha256": "8293161e37815f925b75caa8caa0442479728f26a477445d6d37330fc63e57e7",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "special_bonus_unique_phantom_assassin_4",
+              "abilityId": 483,
+              "label": "+0.8s Phantom Strike Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9040034249,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9013194284,
+        "startTime": 1790199045,
+        "patchId": 60,
+        "durationSeconds": 3184,
+        "sourceUrl": "https://api.opendota.com/api/matches/9013194284",
+        "replayUrl": "https://www.opendota.com/matches/9013194284",
+        "heroId": 44,
+        "leagueId": 20176,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "ward_observer",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -85,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 149,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 307,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 793,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1153,
+            "stage": "mid"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1441,
+            "stage": "mid"
+          },
+          {
+            "key": "nullifier",
+            "timeSeconds": 1795,
+            "stage": "mid"
+          },
+          {
+            "key": "sange",
+            "timeSeconds": 2215,
+            "stage": "late"
+          },
+          {
+            "key": "abyssal_blade",
+            "timeSeconds": 2242,
+            "stage": "late"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2833,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 28
+            },
+            {
+              "minute": 10,
+              "value": 62
+            },
+            {
+              "minute": 15,
+              "value": 111
+            },
+            {
+              "minute": 20,
+              "value": 206
+            },
+            {
+              "minute": 25,
+              "value": 279
+            },
+            {
+              "minute": 30,
+              "value": 341
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2413
+            },
+            {
+              "minute": 10,
+              "value": 4584
+            },
+            {
+              "minute": 15,
+              "value": 7219
+            },
+            {
+              "minute": 20,
+              "value": 11327
+            },
+            {
+              "minute": 25,
+              "value": 14685
+            },
+            {
+              "minute": 30,
+              "value": 18036
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 78,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 2480,
+            "lastHits10": 25
+          },
+          {
+            "enemyHeroId": 68,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1931,
+            "lastHits10": 4
+          }
+        ],
+        "purchaseLogSha256": "5ca924bd5eb75aa0a7d8803316c109a5835b68d70f57fc4ecacff005f604219d",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_phantom_assassin_4",
+              "abilityId": 483,
+              "label": "+0.8s Phantom Strike Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_phantom_assassin_3",
+              "abilityId": 6848,
+              "label": "+20% Immaterial Evasion",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_phantom_assassin_6",
+              "abilityId": 490,
+              "label": "+200 Phantom Strike Cast Range",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_phantom_assassin_2",
+              "abilityId": 6847,
+              "label": "+10% Coup de Grace chance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_phantom_assassin_7",
+              "abilityId": 559,
+              "label": "-2s Stifling Dagger Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 27,
+              "abilityKey": "special_bonus_unique_phantom_assassin_5",
+              "abilityId": 491,
+              "label": "+15% Stifling Dagger Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 21,
+              "sourceMatchId": 9013194284,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 9011851189,
+        "startTime": 1790117904,
+        "patchId": 60,
+        "durationSeconds": 2021,
+        "sourceUrl": "https://api.opendota.com/api/matches/9011851189",
+        "replayUrl": "https://www.opendota.com/matches/9011851189",
+        "heroId": 44,
+        "leagueId": 20176,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 295,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 774,
+            "stage": "mid"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 855,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1286,
+            "stage": "mid"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 1882,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1949,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 20
+            },
+            {
+              "minute": 10,
+              "value": 50
+            },
+            {
+              "minute": 15,
+              "value": 124
+            },
+            {
+              "minute": 20,
+              "value": 184
+            },
+            {
+              "minute": 25,
+              "value": 301
+            },
+            {
+              "minute": 30,
+              "value": 388
+            }
+          ],
+          "netWorth": [
+            {
+              "minute": 5,
+              "value": 2082
+            },
+            {
+              "minute": 10,
+              "value": 4365
+            },
+            {
+              "minute": 15,
+              "value": 6893
+            },
+            {
+              "minute": 20,
+              "value": 9384
+            },
+            {
+              "minute": 25,
+              "value": 15043
+            },
+            {
+              "minute": 30,
+              "value": 19316
+            }
+          ]
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 28,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": 4329,
+            "lastHits10": 57
+          },
+          {
+            "enemyHeroId": 123,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": 1620,
+            "lastHits10": 4
+          }
+        ],
+        "purchaseLogSha256": "a55e0d3bbd25c289d74cd6c679160601c23a451f4cce16153962a4b48bd2f34a",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_phantom_assassin_7",
+              "abilityId": 559,
+              "label": "-2s Stifling Dagger Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_phantom_assassin_3",
+              "abilityId": 6848,
+              "label": "+20% Immaterial Evasion",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_phantom_assassin_6",
+              "abilityId": 490,
+              "label": "+200 Phantom Strike Cast Range",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 9011851189,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8997248491,
+        "startTime": 1789309829,
+        "patchId": 60,
+        "durationSeconds": 1808,
+        "sourceUrl": "https://api.opendota.com/api/matches/8997248491",
+        "replayUrl": "https://www.opendota.com/matches/8997248491",
+        "heroId": 44,
+        "leagueId": 20159,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -78,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 209,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 788,
+            "stage": "mid"
+          },
+          {
+            "key": "yasha",
+            "timeSeconds": 975,
+            "stage": "mid"
+          },
+          {
+            "key": "manta",
+            "timeSeconds": 1101,
+            "stage": "mid"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 1335,
+            "stage": "mid"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1514,
+            "stage": "mid"
+          },
+          {
+            "key": "sange",
+            "timeSeconds": 1701,
+            "stage": "mid"
+          },
+          {
+            "key": "abyssal_blade",
+            "timeSeconds": 1749,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 28
+            },
+            {
+              "minute": 10,
+              "value": 49
+            },
+            {
+              "minute": 15,
+              "value": 104
+            },
+            {
+              "minute": 20,
+              "value": 217
+            },
+            {
+              "minute": 25,
+              "value": 299
+            },
+            {
+              "minute": 30,
+              "value": 387
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 63,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 5
+          },
+          {
+            "enemyHeroId": 136,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 56
+          }
+        ],
+        "purchaseLogSha256": "8565d028bd2a4c45095ef996d45ddfb3a41204e4dfdd5a8ca7889221ccf0efc6",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_phantom_assassin_4",
+              "abilityId": 483,
+              "label": "+0.8s Phantom Strike Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_phantom_assassin_3",
+              "abilityId": 6848,
+              "label": "+20% Immaterial Evasion",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_phantom_assassin_6",
+              "abilityId": 490,
+              "label": "+200 Phantom Strike Cast Range",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 8997248491,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8997104994,
+        "startTime": 1789305586,
+        "patchId": 60,
+        "durationSeconds": 2432,
+        "sourceUrl": "https://api.opendota.com/api/matches/8997104994",
+        "replayUrl": "https://www.opendota.com/matches/8997104994",
+        "heroId": 44,
+        "leagueId": 20159,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "blight_stone",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 150,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 389,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 890,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1195,
+            "stage": "mid"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 2034,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 22
+            },
+            {
+              "minute": 10,
+              "value": 50
+            },
+            {
+              "minute": 15,
+              "value": 92
+            },
+            {
+              "minute": 20,
+              "value": 153
+            },
+            {
+              "minute": 25,
+              "value": 213
+            },
+            {
+              "minute": 30,
+              "value": 239
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 120,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 52
+          },
+          {
+            "enemyHeroId": 121,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 5
+          }
+        ],
+        "purchaseLogSha256": "37343e458e9e6962c6b770fc9ab8349cf05d10d4cb29ae91e7dd53c545942380",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_phantom_assassin_4",
+              "abilityId": 483,
+              "label": "+0.8s Phantom Strike Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_phantom_assassin_3",
+              "abilityId": 6848,
+              "label": "+20% Immaterial Evasion",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_phantom_assassin_strike_aspd",
+              "abilityId": 1074,
+              "label": "+60 Phantom Strike Attack Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 8997104994,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8973255748,
+        "startTime": 1788048167,
+        "patchId": 60,
+        "durationSeconds": 3907,
+        "sourceUrl": "https://api.opendota.com/api/matches/8973255748",
+        "replayUrl": "https://www.opendota.com/matches/8973255748",
+        "heroId": 44,
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "slippers",
+            "timeSeconds": -87,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -86,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 320,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 790,
+            "stage": "mid"
+          },
+          {
+            "key": "monkey_king_bar",
+            "timeSeconds": 1196,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1476,
+            "stage": "mid"
+          },
+          {
+            "key": "satanic",
+            "timeSeconds": 1776,
+            "stage": "mid"
+          },
+          {
+            "key": "ultimate_scepter",
+            "timeSeconds": 2076,
+            "stage": "late"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 2178,
+            "stage": "late"
+          },
+          {
+            "key": "moon_shard",
+            "timeSeconds": 3282,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 23
+            },
+            {
+              "minute": 10,
+              "value": 43
+            },
+            {
+              "minute": 15,
+              "value": 108
+            },
+            {
+              "minute": 20,
+              "value": 209
+            },
+            {
+              "minute": 25,
+              "value": 299
+            },
+            {
+              "minute": 30,
+              "value": 391
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 7,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 5
+          },
+          {
+            "enemyHeroId": 128,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 32
+          }
+        ],
+        "purchaseLogSha256": "55a4a9747fb17735cf080227c8c4b90fc785df6e25583fbf747fb47c1a3f9d3c",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_phantom_assassin_7",
+              "abilityId": 559,
+              "label": "-2s Stifling Dagger Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_phantom_assassin_5",
+              "abilityId": 491,
+              "label": "+15% Stifling Dagger Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_phantom_assassin_strike_aspd",
+              "abilityId": 1074,
+              "label": "+60 Phantom Strike Attack Speed",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 25,
+              "abilityKey": "special_bonus_unique_phantom_assassin",
+              "abilityId": 6192,
+              "label": "Triple Strike Stifling Dagger",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 19,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 26,
+              "abilityKey": "special_bonus_unique_phantom_assassin_4",
+              "abilityId": 483,
+              "label": "+0.8s Phantom Strike Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 20,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 27,
+              "abilityKey": "special_bonus_unique_phantom_assassin_6",
+              "abilityId": 490,
+              "label": "+200 Phantom Strike Cast Range",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 21,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 28,
+              "abilityKey": "special_bonus_unique_phantom_assassin_3",
+              "abilityId": 6848,
+              "label": "+20% Immaterial Evasion",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 22,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 29,
+              "abilityKey": "special_bonus_unique_phantom_assassin_2",
+              "abilityId": 6847,
+              "label": "+10% Coup de Grace chance",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 23,
+              "sourceMatchId": 8973255748,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8973098052,
+        "startTime": 1788038493,
+        "patchId": 60,
+        "durationSeconds": 2012,
+        "sourceUrl": "https://api.opendota.com/api/matches/8973098052",
+        "replayUrl": "https://www.opendota.com/matches/8973098052",
+        "heroId": 44,
+        "leagueId": 20134,
+        "won": true,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "magic_stick",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -88,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 309,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 824,
+            "stage": "mid"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1174,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1446,
+            "stage": "mid"
+          },
+          {
+            "key": "aghanims_shard",
+            "timeSeconds": 1875,
+            "stage": "late"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 18
+            },
+            {
+              "minute": 10,
+              "value": 55
+            },
+            {
+              "minute": 15,
+              "value": 102
+            },
+            {
+              "minute": 20,
+              "value": 174
+            },
+            {
+              "minute": 25,
+              "value": 278
+            },
+            {
+              "minute": 30,
+              "value": 334
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 96,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 39
+          },
+          {
+            "enemyHeroId": 123,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 13
+          }
+        ],
+        "purchaseLogSha256": "71e3dd0fdcf10bf88e2ea4cb1cd8c2a7935c048beeedb80ff3fc9b46cb8293c1",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "special_bonus_unique_phantom_assassin_7",
+              "abilityId": 559,
+              "label": "-2s Stifling Dagger Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_phantom_assassin_5",
+              "abilityId": 491,
+              "label": "+15% Stifling Dagger Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 18,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 3,
+              "upgradeIndex": 17,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 20,
+              "abilityKey": "special_bonus_unique_phantom_assassin_6",
+              "abilityId": 490,
+              "label": "+200 Phantom Strike Cast Range",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 18,
+              "sourceMatchId": 8973098052,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8972907600,
+        "startTime": 1788030939,
+        "patchId": 60,
+        "durationSeconds": 1920,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972907600",
+        "replayUrl": "https://www.opendota.com/matches/8972907600",
+        "heroId": 44,
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "blood_grenade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 176,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 430,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 1098,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1582,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 20
+            },
+            {
+              "minute": 10,
+              "value": 47
+            },
+            {
+              "minute": 15,
+              "value": 88
+            },
+            {
+              "minute": 20,
+              "value": 142
+            },
+            {
+              "minute": 25,
+              "value": 205
+            },
+            {
+              "minute": 30,
+              "value": 239
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 3,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 1
+          },
+          {
+            "enemyHeroId": 85,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 49
+          }
+        ],
+        "purchaseLogSha256": "8bd505b4df55e5f99b4bd120a992c63a84e67a03012102f674e62b821c809616",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "special_bonus_unique_phantom_assassin_7",
+              "abilityId": 559,
+              "label": "-2s Stifling Dagger Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_phantom_assassin_5",
+              "abilityId": 491,
+              "label": "+15% Stifling Dagger Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8972907600,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8972901532,
+        "startTime": 1788030723,
+        "patchId": 60,
+        "durationSeconds": 1265,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972901532",
+        "replayUrl": "https://www.opendota.com/matches/8972901532",
+        "heroId": 44,
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -86,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -86,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -82,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -81,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -79,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -77,
+            "stage": "start"
+          },
+          {
+            "key": "wraith_band",
+            "timeSeconds": 166,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 167,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 476,
+            "stage": "early"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1083,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 18
+            },
+            {
+              "minute": 10,
+              "value": 38
+            },
+            {
+              "minute": 15,
+              "value": 66
+            },
+            {
+              "minute": 20,
+              "value": 91
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 123,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 5
+          },
+          {
+            "enemyHeroId": 135,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 67
+          }
+        ],
+        "purchaseLogSha256": "cdf1425dcd0732e7f749e939ff94962e36ecc38802cc3f4a8a93c463ea758a29",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_phantom_assassin_7",
+              "abilityId": 559,
+              "label": "-2s Stifling Dagger Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972901532,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8972898964,
+        "startTime": 1788030632,
+        "patchId": 60,
+        "durationSeconds": 1664,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972898964",
+        "replayUrl": "https://www.opendota.com/matches/8972898964",
+        "heroId": 44,
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -84,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -83,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -83,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -82,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -82,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 99,
+            "stage": "early"
+          },
+          {
+            "key": "bracer",
+            "timeSeconds": 187,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 1014,
+            "stage": "mid"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 1210,
+            "stage": "mid"
+          },
+          {
+            "key": "black_king_bar",
+            "timeSeconds": 1600,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 15
+            },
+            {
+              "minute": 10,
+              "value": 30
+            },
+            {
+              "minute": 15,
+              "value": 59
+            },
+            {
+              "minute": 20,
+              "value": 120
+            },
+            {
+              "minute": 25,
+              "value": 178
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 69,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 52
+          },
+          {
+            "enemyHeroId": 79,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 6
+          }
+        ],
+        "purchaseLogSha256": "910ea8230cb5a8860c400a6118535450fd735ac183330fce653ae197dc008fb0",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 3,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_phantom_assassin_4",
+              "abilityId": 483,
+              "label": "+0.8s Phantom Strike Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 4,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 13,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 2,
+              "upgradeIndex": 13,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 14,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 14,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 15,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 15,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 16,
+              "abilityKey": "special_bonus_unique_phantom_assassin_5",
+              "abilityId": 491,
+              "label": "+15% Stifling Dagger Damage",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 16,
+              "sourceMatchId": 8972898964,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8972897085,
+        "startTime": 1788030566,
+        "patchId": 60,
+        "durationSeconds": 1089,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972897085",
+        "replayUrl": "https://www.opendota.com/matches/8972897085",
+        "heroId": 44,
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "blight_stone",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "faerie_fire",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "ward_observer",
+            "timeSeconds": -86,
+            "stage": "start"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 118,
+            "stage": "early"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 488,
+            "stage": "early"
+          },
+          {
+            "key": "desolator",
+            "timeSeconds": 1079,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 20
+            },
+            {
+              "minute": 10,
+              "value": 44
+            },
+            {
+              "minute": 15,
+              "value": 70
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 135,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 61
+          },
+          {
+            "enemyHeroId": 51,
+            "positionEstimate": 4,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 5
+          }
+        ],
+        "purchaseLogSha256": "aaa50e93eae8d17804b8e9fcf34b02f2bf1c3380a934798d98ba060a8a6d0c04",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 2,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 11,
+              "abilityKey": "special_bonus_unique_phantom_assassin_7",
+              "abilityId": 559,
+              "label": "-2s Stifling Dagger Cooldown",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 11,
+              "sourceMatchId": 8972897085,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": []
+        }
+      },
+      {
+        "matchId": 8972894757,
+        "startTime": 1788030482,
+        "patchId": 60,
+        "durationSeconds": 1241,
+        "sourceUrl": "https://api.opendota.com/api/matches/8972894757",
+        "replayUrl": "https://www.opendota.com/matches/8972894757",
+        "heroId": 44,
+        "leagueId": 20134,
+        "won": false,
+        "role": "carry",
+        "roleEvidence": {
+          "heroId": 44,
+          "laneRole": 1,
+          "positionEstimate": 1,
+          "roaming": false
+        },
+        "sequence": [
+          {
+            "key": "tango",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "quelling_blade",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "circlet",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "magic_stick",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "branches",
+            "timeSeconds": -89,
+            "stage": "start"
+          },
+          {
+            "key": "power_treads",
+            "timeSeconds": 433,
+            "stage": "early"
+          },
+          {
+            "key": "magic_wand",
+            "timeSeconds": 513,
+            "stage": "early"
+          },
+          {
+            "key": "bfury",
+            "timeSeconds": 1232,
+            "stage": "mid"
+          }
+        ],
+        "timelines": {
+          "lastHits": [
+            {
+              "minute": 5,
+              "value": 21
+            },
+            {
+              "minute": 10,
+              "value": 53
+            },
+            {
+              "minute": 15,
+              "value": 74
+            },
+            {
+              "minute": 20,
+              "value": 116
+            }
+          ],
+          "netWorth": []
+        },
+        "enemies": [
+          {
+            "enemyHeroId": 97,
+            "positionEstimate": 3,
+            "laneRole": 3,
+            "netWorth10": null,
+            "lastHits10": 49
+          }
+        ],
+        "purchaseLogSha256": "d2d3744b82c34e7e5b5849c492a460351f585e6fc05ef89f5b426836909261f4",
+        "skillObservation": {
+          "skills": [
+            {
+              "heroLevel": 1,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 1,
+              "upgradeIndex": 1,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 2,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 1,
+              "upgradeIndex": 2,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 3,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 2,
+              "upgradeIndex": 3,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 4,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 2,
+              "upgradeIndex": 4,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 5,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 3,
+              "upgradeIndex": 5,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 6,
+              "abilityKey": "phantom_assassin_coup_de_grace",
+              "abilityId": 5193,
+              "label": "Coup de Grace",
+              "hotkey": "R",
+              "rank": 1,
+              "upgradeIndex": 6,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 7,
+              "abilityKey": "phantom_assassin_phantom_strike",
+              "abilityId": 5191,
+              "label": "Phantom Strike",
+              "hotkey": "W",
+              "rank": 4,
+              "upgradeIndex": 7,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 8,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 3,
+              "upgradeIndex": 8,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 9,
+              "abilityKey": "phantom_assassin_stifling_dagger",
+              "abilityId": 5190,
+              "label": "Stifling Dagger",
+              "hotkey": "Q",
+              "rank": 4,
+              "upgradeIndex": 9,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 10,
+              "abilityKey": "special_bonus_unique_phantom_assassin_4",
+              "abilityId": 483,
+              "label": "+0.8s Phantom Strike Duration",
+              "hotkey": "T",
+              "rank": 1,
+              "upgradeIndex": 10,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            },
+            {
+              "heroLevel": 12,
+              "abilityKey": "phantom_assassin_immaterial",
+              "abilityId": 1287,
+              "label": "Immaterial",
+              "hotkey": "E",
+              "rank": 1,
+              "upgradeIndex": 12,
+              "sourceMatchId": 8972894757,
+              "levelVerified": false
+            }
+          ],
+          "kind": "recorded_upgrade_order_reconstructed_levels",
+          "levelVerified": false,
+          "unknownAbilityIds": [
+            730
+          ]
+        }
+      }
+    ],
+    "benchmarkMethod": "Linear-interpolated empirical quantiles from exact times/lh_t/networth_t checkpoints; gold_t is never substituted for net worth",
+    "buildMethod": "Group observed first two major purchases; show newest actual purchase log in the largest group. Timings are that match, not a universal target.",
+    "skillMethod": "Recorded ability_upgrades_arr from the same representative match, mapped by exact current Valve ability IDs. Array-only levels are an earliest-legal reconstruction, not recorded hero levels; innate abilities are excluded."
+  },
+  "caveats": [
+    "Dota2ProTracker is a browsing reference only; this cached dataset comes from the public OpenDota API.",
+    "OpenDota patch IDs identify base patches and cannot verify the current minor-letter patch.",
+    "This is a small observational sample with the actual date range shown, not a current-patch meta guarantee.",
+    "Missing or unparsed replays, role inference, match duration, and the league population introduce selection bias.",
+    "Farm quantiles describe these samples; personal farm targets remain separate and editable.",
+    "A purchase in a winning match does not establish the best item for this matchup.",
+    "Skill order is observed; levels reconstructed from an upgrade array may differ if the player saved skill points. The current Valve ability catalog does not verify the match minor patch."
+  ],
+  "validation": {
+    "attemptedMatches": 12,
+    "retainedCarries": 12,
+    "fetchErrors": []
+  }
+}

@@ -1,0 +1,910 @@
+{
+  "queryType": {
+    "name": "DotaQuery"
+  },
+  "types": [
+    {
+      "kind": "OBJECT",
+      "name": "DotaQuery",
+      "description": null,
+      "fields": [
+        {
+          "name": "heroStats",
+          "description": "Queries used to gain insights into hero data and statistics.",
+          "args": [],
+          "type": {
+            "kind": "OBJECT",
+            "name": "HeroStatsQuery",
+            "ofType": null
+          }
+        },
+        {
+          "name": "constants",
+          "description": "Queries used to query constants in Dota.",
+          "args": [],
+          "type": {
+            "kind": "OBJECT",
+            "name": "ConstantQuery",
+            "ofType": null
+          }
+        }
+      ],
+      "inputFields": null,
+      "enumValues": null
+    },
+    {
+      "kind": "OBJECT",
+      "name": "HeroStatsQuery",
+      "description": null,
+      "fields": [
+        {
+          "name": "matchUp",
+          "description": "Returns back a list of the hero matchups, showing how that hero's win rate is affected with or against other heroes.",
+          "args": [
+            {
+              "name": "heroId",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Short",
+                "ofType": null
+              }
+            },
+            {
+              "name": "heroIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "SCALAR",
+                  "name": "Short",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "week",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Long",
+                "ofType": null
+              }
+            },
+            {
+              "name": "bracketBasicIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "RankBracketBasicEnum",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "orderBy",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Byte",
+                "ofType": null
+              }
+            },
+            {
+              "name": "matchLimit",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              }
+            },
+            {
+              "name": "skip",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              }
+            },
+            {
+              "name": "take",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              }
+            }
+          ],
+          "type": {
+            "kind": "LIST",
+            "name": null,
+            "ofType": {
+              "kind": "OBJECT",
+              "name": "HeroDryadType",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "winDay",
+          "description": "Returns the last 12 days by day showing the amount of matches and the amount of wins by hero id.",
+          "args": [
+            {
+              "name": "heroIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "SCALAR",
+                  "name": "Short",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "take",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              }
+            },
+            {
+              "name": "skip",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              }
+            },
+            {
+              "name": "bracketIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "RankBracket",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "positionIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "MatchPlayerPositionType",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "regionIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "BasicRegionType",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "gameModeIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "GameModeEnumType",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "groupBy",
+              "defaultValue": null,
+              "type": {
+                "kind": "ENUM",
+                "name": "FilterHeroWinRequestGroupBy",
+                "ofType": null
+              }
+            }
+          ],
+          "type": {
+            "kind": "LIST",
+            "name": null,
+            "ofType": {
+              "kind": "OBJECT",
+              "name": "HeroWinDayType",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "winWeek",
+          "description": "Returns the last 12 weeks by week showing the amount of matches and the amount of wins by hero id.",
+          "args": [
+            {
+              "name": "heroIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "SCALAR",
+                  "name": "Short",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "take",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              }
+            },
+            {
+              "name": "skip",
+              "defaultValue": null,
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              }
+            },
+            {
+              "name": "bracketIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "RankBracket",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "positionIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "MatchPlayerPositionType",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "regionIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "BasicRegionType",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "gameModeIds",
+              "defaultValue": null,
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "ENUM",
+                  "name": "GameModeEnumType",
+                  "ofType": null
+                }
+              }
+            },
+            {
+              "name": "groupBy",
+              "defaultValue": null,
+              "type": {
+                "kind": "ENUM",
+                "name": "FilterHeroWinRequestGroupBy",
+                "ofType": null
+              }
+            }
+          ],
+          "type": {
+            "kind": "LIST",
+            "name": null,
+            "ofType": {
+              "kind": "OBJECT",
+              "name": "HeroWinWeekType",
+              "ofType": null
+            }
+          }
+        }
+      ],
+      "inputFields": null,
+      "enumValues": null
+    },
+    {
+      "kind": "OBJECT",
+      "name": "HeroDryadType",
+      "description": null,
+      "fields": [
+        {
+          "name": "heroId",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Short",
+            "ofType": null
+          }
+        },
+        {
+          "name": "with",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "LIST",
+            "name": null,
+            "ofType": {
+              "kind": "OBJECT",
+              "name": "HeroStatsHeroDryadType",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "vs",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "LIST",
+            "name": null,
+            "ofType": {
+              "kind": "OBJECT",
+              "name": "HeroStatsHeroDryadType",
+              "ofType": null
+            }
+          }
+        }
+      ],
+      "inputFields": null,
+      "enumValues": null
+    },
+    {
+      "kind": "OBJECT",
+      "name": "HeroStatsHeroDryadType",
+      "description": null,
+      "fields": [
+        {
+          "name": "heroId1",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Short",
+            "ofType": null
+          }
+        },
+        {
+          "name": "heroId2",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Short",
+            "ofType": null
+          }
+        },
+        {
+          "name": "week",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Int",
+            "ofType": null
+          }
+        },
+        {
+          "name": "matchCount",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Long",
+            "ofType": null
+          }
+        },
+        {
+          "name": "winCount",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Long",
+            "ofType": null
+          }
+        },
+        {
+          "name": "synergy",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Decimal",
+            "ofType": null
+          }
+        }
+      ],
+      "inputFields": null,
+      "enumValues": null
+    },
+    {
+      "kind": "OBJECT",
+      "name": "HeroWinDayType",
+      "description": null,
+      "fields": [
+        {
+          "name": "day",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Long",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "heroId",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Short",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "winCount",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Int",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "matchCount",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Int",
+              "ofType": null
+            }
+          }
+        }
+      ],
+      "inputFields": null,
+      "enumValues": null
+    },
+    {
+      "kind": "ENUM",
+      "name": "MatchPlayerPositionType",
+      "description": null,
+      "fields": null,
+      "inputFields": null,
+      "enumValues": [
+        {
+          "name": "POSITION_1"
+        },
+        {
+          "name": "POSITION_2"
+        },
+        {
+          "name": "POSITION_3"
+        },
+        {
+          "name": "POSITION_4"
+        },
+        {
+          "name": "POSITION_5"
+        },
+        {
+          "name": "UNKNOWN"
+        },
+        {
+          "name": "FILTERED"
+        },
+        {
+          "name": "ALL"
+        }
+      ]
+    },
+    {
+      "kind": "ENUM",
+      "name": "FilterHeroWinRequestGroupBy",
+      "description": null,
+      "fields": null,
+      "inputFields": null,
+      "enumValues": [
+        {
+          "name": "HERO_ID"
+        },
+        {
+          "name": "ALL"
+        },
+        {
+          "name": "HERO_ID_DURATION_MINUTES"
+        },
+        {
+          "name": "TIME"
+        },
+        {
+          "name": "HERO_ID_POSITION_BRACKET"
+        }
+      ]
+    },
+    {
+      "kind": "ENUM",
+      "name": "RankBracketBasicEnum",
+      "description": null,
+      "fields": null,
+      "inputFields": null,
+      "enumValues": [
+        {
+          "name": "UNCALIBRATED"
+        },
+        {
+          "name": "HERALD_GUARDIAN"
+        },
+        {
+          "name": "CRUSADER_ARCHON"
+        },
+        {
+          "name": "LEGEND_ANCIENT"
+        },
+        {
+          "name": "DIVINE_IMMORTAL"
+        },
+        {
+          "name": "FILTERED"
+        },
+        {
+          "name": "ALL"
+        }
+      ]
+    },
+    {
+      "kind": "ENUM",
+      "name": "RankBracket",
+      "description": null,
+      "fields": null,
+      "inputFields": null,
+      "enumValues": [
+        {
+          "name": "UNCALIBRATED"
+        },
+        {
+          "name": "HERALD"
+        },
+        {
+          "name": "GUARDIAN"
+        },
+        {
+          "name": "CRUSADER"
+        },
+        {
+          "name": "ARCHON"
+        },
+        {
+          "name": "LEGEND"
+        },
+        {
+          "name": "ANCIENT"
+        },
+        {
+          "name": "DIVINE"
+        },
+        {
+          "name": "IMMORTAL"
+        }
+      ]
+    },
+    {
+      "kind": "ENUM",
+      "name": "BasicRegionType",
+      "description": null,
+      "fields": null,
+      "inputFields": null,
+      "enumValues": [
+        {
+          "name": "CHINA"
+        },
+        {
+          "name": "SEA"
+        },
+        {
+          "name": "NORTH_AMERICA"
+        },
+        {
+          "name": "SOUTH_AMERICA"
+        },
+        {
+          "name": "EUROPE"
+        }
+      ]
+    },
+    {
+      "kind": "ENUM",
+      "name": "GameModeEnumType",
+      "description": null,
+      "fields": null,
+      "inputFields": null,
+      "enumValues": [
+        {
+          "name": "NONE"
+        },
+        {
+          "name": "ALL_PICK"
+        },
+        {
+          "name": "CAPTAINS_MODE"
+        },
+        {
+          "name": "RANDOM_DRAFT"
+        },
+        {
+          "name": "SINGLE_DRAFT"
+        },
+        {
+          "name": "ALL_RANDOM"
+        },
+        {
+          "name": "INTRO"
+        },
+        {
+          "name": "THE_DIRETIDE"
+        },
+        {
+          "name": "REVERSE_CAPTAINS_MODE"
+        },
+        {
+          "name": "THE_GREEVILING"
+        },
+        {
+          "name": "TUTORIAL"
+        },
+        {
+          "name": "MID_ONLY"
+        },
+        {
+          "name": "LEAST_PLAYED"
+        },
+        {
+          "name": "NEW_PLAYER_POOL"
+        },
+        {
+          "name": "COMPENDIUM_MATCHMAKING"
+        },
+        {
+          "name": "CUSTOM"
+        },
+        {
+          "name": "CAPTAINS_DRAFT"
+        },
+        {
+          "name": "BALANCED_DRAFT"
+        },
+        {
+          "name": "ABILITY_DRAFT"
+        },
+        {
+          "name": "EVENT"
+        },
+        {
+          "name": "ALL_RANDOM_DEATH_MATCH"
+        },
+        {
+          "name": "SOLO_MID"
+        },
+        {
+          "name": "ALL_PICK_RANKED"
+        },
+        {
+          "name": "TURBO"
+        },
+        {
+          "name": "MUTATION"
+        },
+        {
+          "name": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "kind": "OBJECT",
+      "name": "ConstantQuery",
+      "description": null,
+      "fields": [
+        {
+          "name": "gameVersions",
+          "description": "Find game version details.",
+          "args": [],
+          "type": {
+            "kind": "LIST",
+            "name": null,
+            "ofType": {
+              "kind": "OBJECT",
+              "name": "GameVersionType",
+              "ofType": null
+            }
+          }
+        }
+      ],
+      "inputFields": null,
+      "enumValues": null
+    },
+    {
+      "kind": "OBJECT",
+      "name": "GameVersionType",
+      "description": null,
+      "fields": [
+        {
+          "name": "id",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Short",
+            "ofType": null
+          }
+        },
+        {
+          "name": "name",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "String",
+            "ofType": null
+          }
+        },
+        {
+          "name": "asOfDateTime",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "SCALAR",
+            "name": "Long",
+            "ofType": null
+          }
+        }
+      ],
+      "inputFields": null,
+      "enumValues": null
+    },
+    {
+      "kind": "OBJECT",
+      "name": "HeroWinWeekType",
+      "description": null,
+      "fields": [
+        {
+          "name": "week",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Long",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "heroId",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Short",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "durationMinute",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Byte",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "winCount",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Int",
+              "ofType": null
+            }
+          }
+        },
+        {
+          "name": "matchCount",
+          "description": null,
+          "args": [],
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "SCALAR",
+              "name": "Int",
+              "ofType": null
+            }
+          }
+        }
+      ],
+      "inputFields": null,
+      "enumValues": null
+    }
+  ]
+}
